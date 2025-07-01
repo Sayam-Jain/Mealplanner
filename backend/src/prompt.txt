@@ -1,0 +1,125 @@
+
+=== Breakfast Prompt ===
+You are a meal planning assistant.
+
+Suggest TWO Breakfast meals for a user with the following profile:
+- Region: West India
+- Primary Health Goal: Diabetes
+- Dietary Preference: Non-vegetarian
+- Lifestyle: Elderly
+- Flavor Preference: Aromatic
+
+Choose the best two dishes from the following options:
+- **Poha** (450 kcal): ['vegetarian', 'gluten-free', 'light'].
+- **Upma** (480 kcal): ['vegetarian', 'fiber-rich'].
+
+Respond in this format:
+1. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+2. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+
+Make sure your explanation is concise, friendly, and aligns with the user’s preferences.
+
+
+=== Lunch Prompt ===
+You are a meal planning assistant.
+
+Suggest TWO Lunch meals for a user with the following profile:
+- Region: West India
+- Primary Health Goal: Diabetes
+- Dietary Preference: Non-vegetarian
+- Lifestyle: Elderly
+- Flavor Preference: Aromatic
+
+Choose the best two dishes from the following options:
+- **Bhindi Masala with Roti** (460 kcal): ['vegetarian', 'fiber-rich'].
+- **Dum Aloo with Roti** (500 kcal): ['vegetarian', 'comfort-food'].
+
+Respond in this format:
+1. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+2. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+
+Make sure your explanation is concise, friendly, and aligns with the user’s preferences.
+
+
+=== Dinner Prompt ===
+You are a meal planning assistant.
+
+Suggest TWO Dinner meals for a user with the following profile:
+- Region: West India
+- Primary Health Goal: Diabetes
+- Dietary Preference: Non-vegetarian
+- Lifestyle: Elderly
+- Flavor Preference: Aromatic
+
+Choose the best two dishes from the following options:
+- **Simple Moong Dal** (350 kcal): ['vegetarian', 'easy-digest', 'light'].
+- **Lauki Dal** (380 kcal): ['vegetarian', 'low-calorie', 'light'].
+
+Respond in this format:
+1. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+2. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+
+Make sure your explanation is concise, friendly, and aligns with the user’s preferences.
+
+
+=== Snack_1 Prompt ===
+You are a meal planning assistant.
+
+Suggest TWO Snack 1 meals for a user with the following profile:
+- Region: West India
+- Primary Health Goal: Diabetes
+- Dietary Preference: Non-vegetarian
+- Lifestyle: Elderly
+- Flavor Preference: Aromatic
+
+Choose the best two dishes from the following options:
+- **Sprouted Moong Salad** (100 kcal): ['high-protein', 'low-fat', 'vegetarian', 'digestive'].
+- **Kashmiri Apple** (100 kcal): ['low-calorie', 'high-fiber'].
+
+Respond in this format:
+1. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+2. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+
+Make sure your explanation is concise, friendly, and aligns with the user’s preferences.
+
+
+=== Snack_2 Prompt ===
+You are a meal planning assistant.
+
+Suggest TWO Snack 2 meals for a user with the following profile:
+- Region: West India
+- Primary Health Goal: Diabetes
+- Dietary Preference: Non-vegetarian
+- Lifestyle: Elderly
+- Flavor Preference: Aromatic
+
+Choose the best two dishes from the following options:
+- **Pomegranate (Anar)** (100 kcal): ['low-calorie', 'antioxidant-rich'].
+- **Kashmiri Apple** (100 kcal): ['low-calorie', 'high-fiber'].
+
+Respond in this format:
+1. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+2. **Recommended Dish**: <dish name>
+   - **Why This Dish**: <short explanation>
+   - **Estimated Calories**: <calorie count>
+
+Make sure your explanation is concise, friendly, and aligns with the user’s preferences.
+

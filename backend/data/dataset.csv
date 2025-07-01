@@ -1,0 +1,1001 @@
+Name,Age,Gender,Region,Height_cm,Weight_kg,BMI,Primary_Goal,Lifestyle_Type,Dietary_Strictness,Known_Allergies,Caloric_Intake_kcal_day,Preferred_Meal_Times,Flavor_Preferences,Prep_Skill_Level,Affordability_Preference,Persona_Tags
+Abhishek_001,46,Male,north,170,81,28.0,Weight Loss,sedentary,vegetarian,none,1573,"morning, snacks",mild,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Parvati_002,50,Other,north,150,61,27.1,Weight Loss,active,vegetarian,none,1452,"evening, afternoon, morning",creamy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Kabir_003,68,Male,east,158,57,22.8,Diabetes,elderly,non-vegetarian,mustard,1269,"morning, snacks",tangy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Vijay_004,31,Male,south,167,54,19.4,Muscle Gain,sedentary,non-vegetarian,"eggs, dairy",2024,"morning, snacks, night",spicy,expert,moderate,"muscle-gain, dairy-free"
+Amit_005,31,Male,north,166,61,22.1,Muscle Gain,sedentary,non-vegetarian,none,2131,"snacks, morning",rich,beginner,moderate,"muscle-gain, quick-meal"
+Deepak_006,24,Male,south,154,53,22.3,Weight Loss,active,non-vegetarian,none,1671,"afternoon, night, morning",mild,intermediate,moderate,weight-loss-friendly
+Nita_007,29,Female,north,152,47,20.3,Muscle Gain,athletic,vegetarian,fish,2632,"evening, morning, night",mild,intermediate,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious"
+Madhuri_008,32,Female,north,150,49,21.8,Diabetes,active,diabetic-friendly,eggs,1701,"evening, snacks, morning",creamy,expert,affordable,"health-focused, budget-conscious"
+Pihu_009,45,Female,west,157,63,25.6,Diabetes,elderly,diabetic-friendly,none,1386,"evening, morning, night, afternoon",tangy,beginner,moderate,"elderly-friendly, health-focused, quick-meal"
+Dhruv_010,44,Male,south,165,64,23.5,Weight Loss,active,vegetarian,none,1806,"evening, snacks, night, afternoon",spicy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Reyansh_011,66,Male,north,172,52,17.6,Cardiac,elderly,non-vegetarian,none,1200,"night, morning, afternoon, snacks",rich,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Deepika_012,19,Female,south,161,40,15.4,Muscle Gain,active,vegetarian,none,2212,"evening, snacks, night, morning",spicy,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Suneel_013,23,Male,east,157,66,26.8,Weight Loss,athletic,non-vegetarian,none,2531,"morning, snacks",mild,intermediate,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Sushma_014,18,Female,east,150,52,23.1,Maintenance,athletic,vegetarian,none,2498,"afternoon, evening",mild,beginner,moderate,"vegetarian-friendly, fitness-focused, quick-meal"
+Myra_015,72,Female,north,161,43,16.6,Diabetes,sedentary,non-vegetarian,none,1200,"afternoon, morning",creamy,expert,moderate,health-focused
+Lakshya_016,42,Male,east,171,62,21.2,Maintenance,sedentary,non-vegetarian,none,1801,"evening, night, snacks",tangy,beginner,moderate,quick-meal
+Sunita_017,50,Female,south,163,51,19.2,Muscle Gain,active,non-vegetarian,none,2171,"afternoon, evening, snacks, morning",spicy,intermediate,moderate,muscle-gain
+Sushma_018,50,Female,north,150,61,27.1,Weight Loss,active,vegetarian,none,1452,"evening, morning, snacks",creamy,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Lata_019,52,Female,northeast,150,43,19.1,Weight Loss,sedentary,non-vegetarian,none,1200,"afternoon, snacks, morning",earthy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Harsh_020,49,Male,east,152,50,21.6,Muscle Gain,sedentary,non-vegetarian,eggs,1751,"evening, afternoon, snacks",spicy,intermediate,moderate,muscle-gain
+Priya_021,30,Female,north,150,50,22.2,Diabetes,active,diabetic-friendly,none,1729,"morning, afternoon, snacks",creamy,expert,moderate,health-focused
+Priya_022,66,Female,north,151,62,27.2,Maintenance,elderly,non-vegetarian,none,1443,"night, evening, morning",creamy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Pihu_023,72,Female,north,150,40,17.8,Cardiac,elderly,vegan,none,1200,"snacks, evening, morning",creamy,expert,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Pradeep_024,71,Male,east,152,67,29.0,Diabetes,sedentary,non-vegetarian,none,1374,"night, snacks, evening",tangy,intermediate,affordable,"health-focused, budget-conscious"
+Harsh_025,46,Male,north,170,74,25.6,Weight Loss,sedentary,vegetarian,none,1461,"afternoon, evening, morning",mild,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Rajesh_026,75,Male,west,189,66,18.5,Cardiac,elderly,non-vegetarian,none,1444,"snacks, evening, night, afternoon",rich,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Vijay_027,50,Male,south,168,62,22.0,Muscle Gain,athletic,non-vegetarian,none,3038,"night, evening",spicy,intermediate,affordable,"muscle-gain, fitness-focused, budget-conscious"
+Riya_028,34,Female,east,157,40,16.2,Muscle Gain,sedentary,non-vegetarian,none,1687,"afternoon, night, morning",sweet,intermediate,moderate,muscle-gain
+Lakshmi_029,74,Female,south,160,40,15.6,Medical Therapy,sedentary,vegetarian,none,1200,"morning, snacks, night",spicy,expert,moderate,vegetarian-friendly
+Abhishek_030,47,Male,west,176,65,21.0,Muscle Gain,elderly,vegan,none,2144,"afternoon, night",aromatic,expert,moderate,"muscle-gain, elderly-friendly, vegetarian-friendly"
+Pankaj_031,75,Male,east,150,53,23.6,Maintenance,elderly,non-vegetarian,none,1310,"morning, night, afternoon",creamy,expert,expensive,elderly-friendly
+Shanti_032,75,Other,south,150,57,25.3,Maintenance,elderly,non-vegetarian,none,1337,"night, evening",spicy,expert,affordable,"elderly-friendly, budget-conscious"
+Deepika_033,75,Female,north,150,52,23.1,Medical Therapy,sedentary,non-vegetarian,none,1200,"morning, snacks, evening, afternoon",mild,intermediate,moderate,general
+Yogesh_034,61,Male,south,169,60,21.0,Maintenance,elderly,gluten-free,mustard,1628,"evening, morning, afternoon",tangy,intermediate,expensive,elderly-friendly
+Vedant_035,66,Male,north,150,78,34.7,Cardiac,sedentary,gluten-free,none,1474,"afternoon, night, morning, snacks",creamy,expert,affordable,"health-focused, budget-conscious"
+Shivam_036,66,Male,east,172,50,16.9,Medical Therapy,sedentary,vegetarian,none,1250,"afternoon, morning, evening",tangy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Shanaya_037,25,Female,south,150,51,22.7,Cardiac,sedentary,non-vegetarian,none,1230,"snacks, afternoon, morning",mild,intermediate,affordable,"health-focused, budget-conscious"
+Sunita_038,23,Female,west,158,66,26.4,Weight Loss,sedentary,non-vegetarian,tree nuts,1237,"afternoon, morning, evening",mild,intermediate,expensive,weight-loss-friendly
+Karthik_039,43,Male,south,163,75,28.2,Weight Loss,sedentary,vegetarian,none,1457,"night, morning, snacks, afternoon",tangy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Shanaya_040,34,Female,north,150,44,19.6,Muscle Gain,sedentary,non-vegetarian,none,1706,"afternoon, morning",creamy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Rajesh_041,20,Male,south,165,74,27.2,Weight Loss,sedentary,vegan,fish,1609,"morning, snacks, evening",tangy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Himanshu_042,55,Male,south,168,84,29.8,Weight Loss,active,non-vegetarian,none,2146,"morning, afternoon, snacks, night",spicy,intermediate,moderate,weight-loss-friendly
+Deepika_043,27,Female,west,150,51,22.7,Muscle Gain,sedentary,vegetarian,none,1820,"afternoon, evening",mild,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Akash_044,33,Male,east,156,47,19.3,Diabetes,active,non-vegetarian,none,1782,"snacks, night",sweet,intermediate,affordable,"health-focused, budget-conscious"
+Vikash_045,39,Male,north,166,52,18.9,Weight Loss,sedentary,gluten-free,none,1200,"snacks, afternoon, evening",creamy,intermediate,moderate,weight-loss-friendly
+Santosh_046,43,Male,west,168,55,19.5,Cardiac,active,non-vegetarian,none,1850,"night, evening, afternoon",earthy,intermediate,moderate,health-focused
+Akash_047,73,Male,north,173,70,23.4,Cardiac,elderly,non-vegetarian,none,1430,"night, morning, snacks",creamy,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Riya_048,34,Female,north,150,48,21.3,Diabetes,active,non-vegetarian,none,1673,"morning, evening, snacks",creamy,intermediate,affordable,"health-focused, budget-conscious"
+Suman_049,66,Female,south,150,40,17.8,Diabetes,elderly,diabetic-friendly,none,1200,"snacks, afternoon, evening, morning",spicy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Aarav_050,47,Male,north,161,58,22.4,Diabetes,sedentary,diabetic-friendly,none,1445,"morning, snacks",rich,expert,moderate,health-focused
+Riya_051,66,Female,south,156,55,22.6,Cardiac,elderly,non-vegetarian,none,1200,"morning, snacks",mild,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Pooja_052,29,Female,north,150,59,26.2,Weight Loss,active,gluten-free,none,1565,"morning, afternoon",creamy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Khushi_053,18,Female,north,168,45,15.9,Recovery,active,non-vegetarian,none,2124,"night, afternoon, evening",spicy,expert,affordable,budget-conscious
+Kabir_054,18,Male,east,167,60,21.5,Weight Loss,athletic,vegetarian,none,2523,"snacks, night, morning",spicy,expert,affordable,"weight-loss-friendly, vegetarian-friendly, fitness-focused, budget-conscious"
+Rekha_055,35,Female,west,150,41,18.2,Muscle Gain,sedentary,non-vegetarian,none,1667,"night, afternoon",mild,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Dhruv_056,57,Male,south,155,74,30.8,Weight Loss,active,non-vegetarian,none,1824,"morning, night, afternoon, evening",tangy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Pranav_057,72,Male,north,171,54,18.5,Medical Therapy,sedentary,vegetarian,none,1268,"night, morning, evening",rich,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Pradeep_058,62,Male,east,168,68,24.1,Medical Therapy,elderly,non-vegetarian,none,1544,"morning, snacks, afternoon, evening",earthy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Dhruv_059,60,Male,north,168,96,34.0,Medical Therapy,elderly,non-vegetarian,none,2008,"afternoon, snacks, morning",mild,expert,moderate,elderly-friendly
+Vishal_060,45,Male,south,160,56,21.9,Weight Loss,elderly,vegetarian,none,1200,"night, afternoon, snacks",tangy,beginner,moderate,"weight-loss-friendly, elderly-friendly, vegetarian-friendly, quick-meal"
+Arya_061,52,Female,south,156,50,20.5,Muscle Gain,sedentary,non-vegetarian,none,1701,"evening, night",spicy,intermediate,affordable,"muscle-gain, budget-conscious"
+Rajesh_062,23,Male,north,174,56,18.5,Muscle Gain,active,vegetarian,none,2691,"morning, night, evening",spicy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Dhruv_063,49,Male,north,161,73,28.2,Diabetes,sedentary,vegan,none,1672,"morning, snacks, night",creamy,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Lakshmi_064,45,Female,south,159,49,19.4,Weight Loss,sedentary,vegetarian,none,1200,"afternoon, snacks, night",mild,expert,moderate,"weight-loss-friendly, vegetarian-friendly"
+Usha_065,25,Female,north,150,44,19.6,Maintenance,active,vegetarian,none,1876,"night, afternoon",creamy,beginner,moderate,"vegetarian-friendly, quick-meal"
+Radha_066,60,Female,northeast,150,40,17.8,Maintenance,elderly,non-vegetarian,none,1226,"morning, afternoon",sweet,intermediate,affordable,"elderly-friendly, budget-conscious"
+Meera_067,64,Female,south,157,45,18.3,Maintenance,elderly,non-vegetarian,none,1287,"morning, night, afternoon",spicy,expert,affordable,"elderly-friendly, budget-conscious"
+Rita_068,61,Female,north,153,63,26.9,Diabetes,sedentary,vegan,none,1288,"evening, night, snacks",mild,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Renu_069,21,Female,north,155,58,24.1,Maintenance,sedentary,vegetarian,tree nuts,1647,"snacks, night, morning",mild,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Rohit_070,48,Male,west,178,83,26.2,Maintenance,sedentary,non-vegetarian,none,2138,"evening, afternoon, morning",spicy,intermediate,affordable,budget-conscious
+Suman_071,18,Female,north,150,57,25.3,Weight Loss,active,vegetarian,none,1610,"snacks, morning, evening",mild,expert,moderate,"weight-loss-friendly, vegetarian-friendly"
+Karthik_072,53,Male,south,165,58,21.3,Medical Therapy,athletic,vegetarian,none,2377,"morning, snacks, evening",spicy,expert,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Devraj_073,52,Male,west,171,76,26.0,Weight Loss,active,vegan,none,2029,"snacks, afternoon",spicy,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Arjun_074,33,Male,west,172,72,24.3,Maintenance,active,non-vegetarian,none,2621,"snacks, morning, night",aromatic,intermediate,affordable,budget-conscious
+Aahana_075,49,Female,east,154,48,20.2,Weight Loss,active,non-vegetarian,none,1292,"snacks, morning, evening, night",aromatic,intermediate,moderate,weight-loss-friendly
+Nikhil_076,52,Male,north,157,71,28.8,Weight Loss,sedentary,non-vegetarian,none,1297,"morning, afternoon, evening",creamy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Shanti_077,42,Female,east,150,52,23.1,Diabetes,active,non-vegetarian,none,1677,"morning, snacks",creamy,intermediate,moderate,health-focused
+Sita_078,56,Female,north,153,46,19.7,Maintenance,sedentary,vegan,none,1325,"snacks, evening, afternoon",mild,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Vikash_079,67,Male,north,153,50,21.4,Cardiac,elderly,non-vegetarian,none,1200,"evening, afternoon",rich,expert,moderate,"elderly-friendly, health-focused"
+Suresh_080,30,Male,northeast,159,58,22.9,Muscle Gain,sedentary,non-vegetarian,none,2049,"night, afternoon",sweet,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Ramesh_081,20,Male,west,170,79,27.3,Weight Loss,athletic,non-vegetarian,none,3013,"evening, night",sweet,intermediate,moderate,"weight-loss-friendly, fitness-focused"
+Karthik_082,49,Male,south,172,69,23.3,Weight Loss,elderly,non-vegetarian,none,1372,"morning, snacks, afternoon",spicy,intermediate,affordable,"weight-loss-friendly, elderly-friendly, budget-conscious"
+Pushpa_083,59,Female,east,153,63,26.9,Weight Loss,active,non-vegetarian,none,1435,"snacks, morning, night",spicy,intermediate,expensive,weight-loss-friendly
+Vishal_084,45,Male,north,166,79,28.7,Weight Loss,active,non-vegetarian,none,2116,"afternoon, evening, morning",mild,beginner,moderate,"weight-loss-friendly, quick-meal"
+Kavita_085,57,Female,north,152,49,21.2,Muscle Gain,sedentary,non-vegetarian,dairy,1649,"afternoon, evening",spicy,expert,affordable,"muscle-gain, budget-conscious, dairy-free"
+Anika_086,59,Female,north,161,43,16.6,Muscle Gain,elderly,non-vegetarian,none,1606,"afternoon, night",creamy,expert,expensive,"muscle-gain, elderly-friendly"
+Sneha_087,48,Female,south,150,43,19.1,Weight Loss,active,non-vegetarian,none,1208,"evening, morning",tangy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Sushma_088,21,Female,north,151,53,23.2,Maintenance,active,vegan,none,2037,"snacks, evening, night, morning",spicy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Aisha_089,24,Female,north,151,63,27.6,Diabetes,active,diabetic-friendly,none,1960,"evening, morning, night, snacks",creamy,intermediate,affordable,"health-focused, budget-conscious"
+Khushi_090,28,Female,north,155,46,19.1,Maintenance,active,non-vegetarian,none,1909,"evening, afternoon, snacks",spicy,intermediate,moderate,general
+Siddharth_091,74,Male,south,157,49,19.9,Cardiac,sedentary,vegetarian,none,1200,"afternoon, evening, night",tangy,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Himanshu_092,25,Male,east,162,64,24.4,Maintenance,active,vegetarian,none,2450,"evening, morning, night",earthy,intermediate,moderate,vegetarian-friendly
+Abhishek_093,26,Male,north,161,64,24.7,Maintenance,active,non-vegetarian,none,2434,"night, evening, morning",creamy,beginner,affordable,"budget-conscious, quick-meal"
+Aarav_094,48,Male,east,167,65,23.3,Cardiac,athletic,non-vegetarian,none,2527,"evening, afternoon",tangy,expert,affordable,"health-focused, fitness-focused, budget-conscious"
+Abhishek_095,39,Male,north,175,57,18.6,Recovery,sedentary,gluten-free,none,1864,"evening, afternoon, snacks",rich,expert,affordable,budget-conscious
+Nita_096,32,Female,north,162,61,23.2,Weight Loss,athletic,vegetarian,none,2112,"snacks, night, evening",spicy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, fitness-focused, quick-meal"
+Aarav_097,37,Male,south,172,67,22.6,Muscle Gain,sedentary,vegetarian,none,2221,"morning, snacks, evening",spicy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Yash_098,62,Male,north,171,78,26.7,Medical Therapy,elderly,non-vegetarian,none,1722,"snacks, morning, afternoon, night",spicy,expert,affordable,"elderly-friendly, budget-conscious"
+Geeta_099,46,Female,south,154,46,19.4,Weight Loss,athletic,vegetarian,none,1686,"afternoon, morning, snacks",tangy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, fitness-focused, budget-conscious"
+Sunita_100,75,Female,east,155,46,19.1,Diabetes,elderly,non-vegetarian,none,1200,"morning, evening, snacks, night",tangy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Sushma_101,50,Female,north,156,54,22.2,Weight Loss,sedentary,non-vegetarian,none,1200,"morning, evening, night, afternoon",rich,intermediate,moderate,weight-loss-friendly
+Gaurav_102,73,Male,south,159,65,25.7,Cardiac,elderly,gluten-free,none,1269,"afternoon, snacks, morning",spicy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Arya_103,71,Female,north,150,54,24.0,Cardiac,elderly,vegetarian,none,1200,"night, morning",creamy,expert,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Aditya_104,66,Male,east,166,56,20.3,Medical Therapy,elderly,vegetarian,none,1312,"evening, night",mild,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Sushma_105,22,Female,north,164,59,21.9,Muscle Gain,active,non-vegetarian,tree nuts,2479,"afternoon, evening, morning, night",mild,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Lakshya_106,55,Male,north,160,72,28.1,Maintenance,athletic,vegetarian,none,2866,"morning, night",mild,expert,moderate,"vegetarian-friendly, fitness-focused"
+Riya_107,67,Female,north,155,53,22.1,Cardiac,elderly,non-vegetarian,none,1200,"afternoon, night, snacks",spicy,expert,moderate,"elderly-friendly, health-focused"
+Shanaya_108,45,Female,north,150,61,27.1,Diabetes,athletic,non-vegetarian,tree nuts,2234,"afternoon, snacks",mild,intermediate,moderate,"health-focused, fitness-focused"
+Vihaan_109,51,Male,east,158,71,28.4,Diabetes,sedentary,non-vegetarian,mustard,1609,"afternoon, night, snacks",aromatic,intermediate,affordable,"health-focused, budget-conscious"
+Khushi_110,50,Female,north,150,45,20.0,Weight Loss,active,non-vegetarian,none,1223,"morning, evening, afternoon",rich,expert,affordable,"weight-loss-friendly, budget-conscious"
+Pradeep_111,70,Male,west,155,67,27.9,Medical Therapy,elderly,vegetarian,none,1398,"snacks, night, evening, afternoon",sweet,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Anaya_112,42,Female,east,150,43,19.1,Muscle Gain,sedentary,vegetarian,none,1653,"morning, evening, snacks, afternoon",tangy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Saanvi_113,35,Female,south,150,50,22.2,Diabetes,active,diabetic-friendly,none,1695,"morning, night",mild,intermediate,affordable,"health-focused, budget-conscious"
+Kavita_114,61,Female,north,156,53,21.8,Medical Therapy,sedentary,non-vegetarian,none,1200,"evening, night",mild,intermediate,moderate,general
+Shanti_115,33,Female,south,150,40,17.8,Recovery,elderly,non-vegetarian,none,1467,"snacks, morning, afternoon",spicy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Ajay_116,61,Male,west,165,63,23.1,Maintenance,elderly,non-vegetarian,none,1653,"afternoon, evening",earthy,expert,affordable,"elderly-friendly, budget-conscious"
+Reyansh_117,52,Male,south,160,82,32.0,Weight Loss,active,vegetarian,none,2072,"night, morning, evening",mild,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Sneha_118,53,Female,north,150,44,19.6,Muscle Gain,sedentary,vegan,none,1607,"afternoon, evening",rich,expert,moderate,"muscle-gain, vegetarian-friendly"
+Geeta_119,75,Female,north,158,71,28.4,Cardiac,elderly,vegetarian,none,1222,"morning, evening, night",creamy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Karthik_120,33,Male,north,150,59,26.2,Weight Loss,athletic,vegetarian,none,2181,"morning, evening, night",creamy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, fitness-focused, quick-meal"
+Shanaya_121,70,Female,west,158,61,24.4,Maintenance,elderly,gluten-free,none,1437,"night, evening, afternoon",sweet,expert,affordable,"elderly-friendly, budget-conscious"
+Madhuri_122,35,Female,south,151,57,25.0,Cardiac,elderly,vegetarian,none,1249,"evening, afternoon, morning",mild,intermediate,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Sita_123,69,Female,west,151,46,20.2,Diabetes,elderly,non-vegetarian,none,1200,"night, afternoon, evening",mild,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Kiran_124,71,Female,west,155,50,20.8,Cardiac,elderly,vegetarian,none,1200,"evening, night",tangy,expert,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Deepak_125,31,Male,west,172,59,19.9,Weight Loss,sedentary,non-vegetarian,none,1333,"morning, evening, afternoon",creamy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Vikash_126,28,Male,east,151,66,28.9,Weight Loss,active,vegetarian,none,1884,"night, evening, afternoon",mild,intermediate,expensive,"weight-loss-friendly, vegetarian-friendly"
+Nita_127,56,Female,north,156,41,16.8,Recovery,active,non-vegetarian,none,1754,"night, afternoon, evening",rich,intermediate,affordable,budget-conscious
+Devraj_128,39,Male,northeast,156,54,22.2,Muscle Gain,active,non-vegetarian,none,2375,"afternoon, morning",creamy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Manoj_129,38,Male,north,157,55,22.3,Maintenance,active,vegan,"fish, mustard",2112,"snacks, evening",mild,intermediate,moderate,vegetarian-friendly
+Myra_130,59,Female,east,150,55,24.4,Maintenance,active,non-vegetarian,none,1806,"afternoon, evening",tangy,expert,moderate,general
+Amit_131,25,Male,west,176,83,26.8,Weight Loss,athletic,vegetarian,none,3115,"afternoon, snacks",mild,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly, fitness-focused"
+Anaya_132,52,Female,north,150,42,18.7,Muscle Gain,active,non-vegetarian,none,1967,"morning, afternoon",creamy,expert,moderate,muscle-gain
+Devraj_133,55,Male,north,173,65,21.7,Maintenance,sedentary,non-vegetarian,none,1772,"snacks, morning",creamy,intermediate,affordable,budget-conscious
+Rita_134,72,Female,north,162,69,26.3,Cardiac,sedentary,non-vegetarian,eggs,1230,"snacks, afternoon, evening, night",creamy,intermediate,affordable,"health-focused, budget-conscious"
+Himanshu_135,42,Male,north,169,63,22.1,Maintenance,active,vegetarian,none,2332,"night, afternoon, morning, evening",creamy,intermediate,moderate,vegetarian-friendly
+Dinesh_136,25,Male,east,152,60,26.0,Weight Loss,active,non-vegetarian,none,1793,"morning, night, snacks",creamy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Arya_137,44,Female,northeast,150,46,20.4,Muscle Gain,active,non-vegetarian,none,2078,"snacks, night, morning",earthy,intermediate,moderate,muscle-gain
+Deepika_138,64,Female,west,150,49,21.8,Medical Therapy,sedentary,non-vegetarian,none,1200,"afternoon, morning",sweet,intermediate,moderate,general
+Harsh_139,27,Male,east,162,69,26.3,Maintenance,active,non-vegetarian,none,2537,"afternoon, night, evening, snacks",spicy,beginner,moderate,quick-meal
+Dinesh_140,51,Male,east,166,65,23.6,Medical Therapy,active,non-vegetarian,eggs,2072,"snacks, night, evening",spicy,expert,affordable,budget-conscious
+Anant_141,38,Male,north,164,60,22.3,Muscle Gain,active,non-vegetarian,none,2568,"afternoon, night, snacks",creamy,beginner,moderate,"muscle-gain, quick-meal"
+Suresh_142,41,Male,east,156,66,27.1,Diabetes,active,vegan,none,2107,"afternoon, evening, night",earthy,beginner,moderate,"vegetarian-friendly, health-focused, quick-meal"
+Usha_143,62,Female,north,150,40,17.8,Maintenance,elderly,vegetarian,none,1216,"afternoon, evening, snacks",rich,expert,moderate,"elderly-friendly, vegetarian-friendly"
+Ayaan_144,23,Male,northeast,165,66,24.2,Cardiac,active,non-vegetarian,none,2232,"evening, afternoon",sweet,beginner,moderate,"health-focused, quick-meal"
+Ravi_145,34,Male,west,164,71,26.4,Weight Loss,active,vegetarian,none,2032,"evening, snacks, night",earthy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Krishna_146,74,Male,north,165,53,19.5,Diabetes,elderly,diabetic-friendly,gluten,1204,"afternoon, snacks",creamy,expert,expensive,"elderly-friendly, health-focused"
+Lakshya_147,48,Male,south,160,61,23.8,Weight Loss,athletic,vegetarian,none,2161,"afternoon, snacks, morning, night",spicy,intermediate,expensive,"weight-loss-friendly, vegetarian-friendly, fitness-focused"
+Sita_148,24,Female,south,154,54,22.8,Maintenance,active,non-vegetarian,nuts,2046,"snacks, night",spicy,beginner,moderate,quick-meal
+Sita_149,58,Female,north,150,68,30.2,Weight Loss,active,vegetarian,none,1499,"morning, afternoon, night",mild,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Lakshya_150,51,Male,south,166,71,25.8,Weight Loss,active,non-vegetarian,none,1897,"snacks, morning",tangy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Dinesh_151,66,Male,north,162,58,22.1,Maintenance,sedentary,vegetarian,none,1521,"snacks, night, afternoon, morning",creamy,intermediate,expensive,vegetarian-friendly
+Kavita_152,19,Female,north,159,51,20.2,Maintenance,active,vegetarian,none,2060,"evening, night, afternoon",spicy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Vishal_153,45,Male,east,154,46,19.4,Maintenance,sedentary,non-vegetarian,none,1425,"snacks, afternoon, night",earthy,intermediate,affordable,budget-conscious
+Riya_154,20,Female,west,154,40,16.9,Muscle Gain,active,vegetarian,none,2172,"evening, night, afternoon",earthy,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal"
+Anaya_155,63,Female,north,153,55,23.5,Maintenance,sedentary,vegetarian,none,1388,"night, evening",mild,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Sushma_156,43,Female,north,150,57,25.3,Diabetes,elderly,diabetic-friendly,none,1303,"night, afternoon, snacks",spicy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Kabir_157,20,Male,west,155,66,27.5,Weight Loss,active,non-vegetarian,none,1984,"snacks, morning, afternoon, night",sweet,intermediate,moderate,weight-loss-friendly
+Myra_158,65,Female,south,155,55,22.9,Cardiac,elderly,vegetarian,none,1200,"night, afternoon",tangy,intermediate,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Rita_159,72,Other,north,162,62,23.6,Medical Therapy,elderly,vegan,none,1253,"afternoon, morning, snacks",spicy,expert,moderate,"elderly-friendly, vegetarian-friendly"
+Meera_160,30,Female,west,159,55,21.8,Weight Loss,active,vegetarian,none,1544,"evening, afternoon",sweet,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Harsh_161,42,Male,south,166,54,19.6,Cardiac,elderly,non-vegetarian,none,1344,"evening, snacks, afternoon, night",tangy,intermediate,moderate,"elderly-friendly, health-focused"
+Lakshmi_162,36,Female,west,156,45,18.5,Maintenance,sedentary,vegan,none,1429,"night, evening, morning",sweet,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Rekha_163,58,Female,north,159,69,27.3,Diabetes,sedentary,diabetic-friendly,none,1392,"morning, snacks",mild,expert,moderate,health-focused
+Kavita_164,22,Female,north,153,40,17.1,Recovery,athletic,gluten-free,none,2372,"afternoon, morning",mild,beginner,moderate,"fitness-focused, quick-meal"
+Yogesh_165,32,Male,south,163,72,27.1,Maintenance,active,non-vegetarian,none,2562,"morning, snacks",tangy,beginner,affordable,"budget-conscious, quick-meal"
+Rajesh_166,39,Male,north,165,44,16.2,Maintenance,sedentary,gluten-free,gluten,1497,"morning, afternoon, snacks, evening",creamy,intermediate,affordable,budget-conscious
+Devraj_167,52,Male,north,156,74,30.4,Weight Loss,active,vegan,none,1876,"morning, afternoon",creamy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Rita_168,59,Female,north,153,58,24.8,Weight Loss,active,vegetarian,none,1363,"evening, snacks, morning",mild,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Pankaj_169,18,Male,south,167,65,23.3,Maintenance,active,non-vegetarian,none,2570,"snacks, morning, night",mild,intermediate,moderate,general
+Santosh_170,47,Male,north,168,57,20.2,Maintenance,sedentary,vegetarian,dairy,1669,"snacks, morning, afternoon",creamy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal, dairy-free"
+Kiran_171,46,Female,east,155,40,16.6,Muscle Gain,active,non-vegetarian,none,2002,"night, snacks, evening, morning",tangy,intermediate,moderate,muscle-gain
+Aahana_172,20,Female,south,150,44,19.6,Muscle Gain,athletic,vegan,none,2641,"snacks, afternoon, morning",tangy,intermediate,moderate,"muscle-gain, vegetarian-friendly, fitness-focused"
+Madhuri_173,35,Female,south,152,42,18.2,Recovery,active,vegetarian,none,1890,"evening, morning, snacks",spicy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Reyansh_174,71,Male,east,154,72,30.4,Maintenance,elderly,vegetarian,none,1666,"evening, night",tangy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Ramesh_175,44,Male,south,170,48,16.6,Muscle Gain,sedentary,vegetarian,none,1856,"evening, morning",spicy,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Asha_176,21,Female,north,150,40,17.8,Muscle Gain,active,vegan,none,2146,"evening, morning, afternoon",rich,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Usha_177,26,Other,northeast,150,40,17.8,Muscle Gain,athletic,non-vegetarian,none,2522,"morning, night, afternoon",earthy,beginner,moderate,"muscle-gain, fitness-focused, quick-meal"
+Abhishek_178,51,Male,north,158,54,21.6,Cardiac,active,vegetarian,none,1684,"night, afternoon, snacks",rich,intermediate,expensive,"vegetarian-friendly, health-focused"
+Arya_179,57,Female,north,152,66,28.6,Maintenance,sedentary,non-vegetarian,none,1538,"snacks, evening, night, afternoon",creamy,intermediate,affordable,budget-conscious
+Harsh_180,64,Male,west,169,60,21.0,Maintenance,sedentary,vegetarian,eggs,1607,"snacks, evening, afternoon, morning",tangy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Krishna_181,53,Male,north,171,56,19.2,Muscle Gain,active,vegetarian,none,2405,"evening, night, morning",spicy,expert,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Lakshmi_182,65,Female,northeast,150,54,24.0,Maintenance,elderly,non-vegetarian,"eggs, fish",1356,"snacks, night",aromatic,intermediate,affordable,"elderly-friendly, budget-conscious"
+Pooja_183,60,Female,west,167,56,20.1,Medical Therapy,sedentary,vegetarian,none,1267,"morning, night, afternoon, snacks",spicy,expert,moderate,vegetarian-friendly
+Himanshu_184,24,Male,north,175,47,15.3,Muscle Gain,active,non-vegetarian,none,2503,"afternoon, evening, snacks, night",spicy,intermediate,affordable,"muscle-gain, budget-conscious"
+Ravi_185,51,Male,north,155,45,18.7,Weight Loss,sedentary,vegetarian,"fish, mustard",1200,"evening, morning, snacks",creamy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Diya_186,33,Female,south,154,43,18.1,Muscle Gain,sedentary,non-vegetarian,none,1715,"morning, afternoon",spicy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Renu_187,56,Female,north,154,52,21.9,Maintenance,sedentary,vegan,none,1395,"night, snacks, evening",rich,intermediate,moderate,vegetarian-friendly
+Dinesh_188,49,Male,south,154,59,24.9,Muscle Gain,sedentary,non-vegetarian,"gluten, mustard",1907,"night, snacks, afternoon",spicy,beginner,moderate,"muscle-gain, quick-meal"
+Anaya_189,28,Female,north,150,49,21.8,Weight Loss,athletic,non-vegetarian,none,1863,"morning, evening, snacks, afternoon",mild,intermediate,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Madhuri_190,46,Female,west,152,53,22.9,Maintenance,elderly,non-vegetarian,none,1451,"afternoon, evening, night, snacks",sweet,expert,affordable,"elderly-friendly, budget-conscious"
+Rekha_191,54,Female,north,154,46,19.4,Recovery,elderly,non-vegetarian,fish,1439,"snacks, evening, afternoon, night",creamy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Kavita_192,42,Female,north,155,49,20.4,Maintenance,sedentary,vegetarian,none,1438,"night, evening, afternoon",creamy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Suresh_193,58,Male,north,151,81,35.5,Maintenance,sedentary,non-vegetarian,none,1882,"afternoon, morning, evening",mild,expert,affordable,budget-conscious
+Rohit_194,25,Male,east,154,69,29.1,Maintenance,active,non-vegetarian,none,2495,"evening, morning, snacks, night",tangy,beginner,moderate,quick-meal
+Diya_195,71,Female,south,155,45,18.7,Maintenance,elderly,vegan,gluten,1243,"night, evening, snacks",spicy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Vijay_196,60,Male,west,166,59,21.4,Cardiac,elderly,vegetarian,none,1301,"snacks, evening, morning",spicy,expert,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Rohit_197,23,Male,south,156,47,19.3,Maintenance,active,non-vegetarian,none,2070,"evening, afternoon, night",tangy,intermediate,moderate,general
+Arya_198,49,Female,west,158,58,23.2,Muscle Gain,sedentary,vegan,none,1813,"evening, morning",tangy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Manju_199,21,Female,west,154,54,22.8,Cardiac,active,vegetarian,fish,1766,"afternoon, evening, morning",creamy,beginner,expensive,"vegetarian-friendly, health-focused, quick-meal"
+Kiara_200,21,Female,south,150,57,25.3,Weight Loss,sedentary,vegetarian,none,1200,"snacks, evening",spicy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, quick-meal"
+Anil_201,71,Male,south,170,53,18.3,Maintenance,sedentary,non-vegetarian,none,1453,"afternoon, night, morning, evening",tangy,intermediate,affordable,budget-conscious
+Ajay_202,20,Male,north,157,61,24.7,Weight Loss,sedentary,non-vegetarian,none,1354,"evening, night, afternoon, snacks",creamy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Pooja_203,65,Female,south,152,55,23.8,Maintenance,elderly,non-vegetarian,none,1374,"afternoon, morning",spicy,intermediate,moderate,elderly-friendly
+Vanya_204,51,Female,east,152,46,19.9,Cardiac,sedentary,non-vegetarian,none,1200,"night, morning, snacks",earthy,expert,moderate,health-focused
+Nikhil_205,41,Male,east,161,68,26.2,Diabetes,active,non-vegetarian,none,2185,"night, morning, evening, snacks",creamy,beginner,affordable,"health-focused, budget-conscious, quick-meal"
+Kavya_206,25,Female,east,150,40,17.8,Muscle Gain,sedentary,vegetarian,none,1708,"afternoon, evening, morning, night",mild,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal"
+Sai_207,37,Male,north,155,59,24.6,Maintenance,athletic,vegetarian,none,2683,"snacks, night, evening, morning",spicy,expert,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Saraswati_208,58,Female,north,151,58,25.4,Cardiac,active,vegetarian,none,1560,"snacks, night",rich,expert,moderate,"vegetarian-friendly, health-focused"
+Nita_209,38,Female,east,150,48,21.3,Muscle Gain,sedentary,non-vegetarian,eggs,1729,"evening, night, afternoon",spicy,expert,affordable,"muscle-gain, budget-conscious"
+Ajay_210,41,Male,west,162,79,30.1,Diabetes,active,vegan,none,2421,"snacks, morning, evening, night",aromatic,beginner,moderate,"vegetarian-friendly, health-focused, quick-meal"
+Dinesh_211,74,Male,north,176,54,17.4,Maintenance,elderly,vegetarian,gluten,1483,"afternoon, evening, night",mild,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Myra_212,75,Female,north,161,42,16.2,Cardiac,elderly,vegetarian,none,1200,"afternoon, snacks, morning",rich,intermediate,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Deepak_213,48,Male,east,150,59,26.2,Maintenance,active,non-vegetarian,none,2055,"morning, afternoon, snacks",sweet,intermediate,affordable,budget-conscious
+Sita_214,42,Female,north,153,56,23.9,Weight Loss,sedentary,vegetarian,"eggs, mustard",1200,"snacks, night, afternoon",creamy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Reyansh_215,37,Male,northeast,162,65,24.8,Maintenance,active,non-vegetarian,none,2366,"afternoon, evening, night",aromatic,intermediate,affordable,budget-conscious
+Anika_216,66,Female,north,150,48,21.3,Cardiac,sedentary,gluten-free,none,1200,"night, morning, evening",spicy,intermediate,moderate,health-focused
+Riya_217,29,Female,north,155,54,22.5,Maintenance,athletic,vegetarian,nuts,2472,"snacks, afternoon, night, morning",spicy,expert,moderate,"vegetarian-friendly, fitness-focused"
+Vishal_218,25,Male,north,154,69,29.1,Weight Loss,active,vegetarian,none,1995,"afternoon, snacks",mild,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Khushi_219,22,Female,north,150,40,17.8,Maintenance,athletic,non-vegetarian,tree nuts,2255,"afternoon, morning, night",mild,expert,affordable,"fitness-focused, budget-conscious"
+Aarohi_220,58,Female,northeast,150,40,17.8,Muscle Gain,athletic,vegetarian,none,2258,"evening, snacks, afternoon",sweet,intermediate,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious"
+Inaya_221,51,Female,south,150,40,17.8,Muscle Gain,athletic,non-vegetarian,eggs,2316,"evening, night, afternoon, snacks",spicy,intermediate,affordable,"muscle-gain, fitness-focused, budget-conscious"
+Nita_222,64,Female,south,158,58,23.2,Maintenance,elderly,non-vegetarian,none,1435,"morning, snacks, afternoon",tangy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Naresh_223,36,Male,north,170,69,23.9,Weight Loss,active,non-vegetarian,none,2017,"evening, snacks, morning",creamy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Krishna_224,18,Male,north,172,82,27.7,Maintenance,active,non-vegetarian,none,2960,"afternoon, morning, evening",rich,intermediate,affordable,budget-conscious
+Khushi_225,64,Female,north,164,47,17.5,Maintenance,elderly,vegetarian,none,1335,"snacks, morning",creamy,expert,moderate,"elderly-friendly, vegetarian-friendly"
+Dinesh_226,50,Male,north,160,55,21.5,Weight Loss,active,non-vegetarian,none,1529,"afternoon, night, evening",creamy,expert,moderate,weight-loss-friendly
+Maya_227,36,Female,south,156,43,17.7,Muscle Gain,active,vegetarian,none,2117,"night, evening, morning",spicy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Suman_228,50,Female,west,160,58,22.7,Muscle Gain,active,vegetarian,none,2257,"night, snacks, morning",creamy,expert,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Devraj_229,28,Male,south,166,47,17.1,Muscle Gain,active,vegetarian,none,2401,"evening, night",spicy,expert,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Pooja_230,66,Female,north,158,55,22.0,Cardiac,elderly,vegetarian,none,1200,"evening, morning, night",rich,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Pooja_231,42,Female,west,157,46,18.7,Maintenance,active,vegetarian,none,1825,"night, snacks, afternoon, evening",earthy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Dinesh_232,71,Male,east,158,66,26.4,Medical Therapy,elderly,vegetarian,none,1393,"snacks, morning, afternoon",tangy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Krishna_233,57,Male,west,177,66,21.1,Muscle Gain,active,vegetarian,none,2622,"evening, snacks",aromatic,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Priya_234,45,Female,north,150,45,20.0,Muscle Gain,sedentary,non-vegetarian,none,1660,"morning, night, evening, snacks",rich,intermediate,moderate,muscle-gain
+Sushma_235,57,Female,east,150,40,17.8,Muscle Gain,elderly,non-vegetarian,none,1542,"snacks, night",mild,intermediate,moderate,"muscle-gain, elderly-friendly"
+Pranav_236,41,Male,east,157,45,18.3,Recovery,sedentary,non-vegetarian,none,1554,"morning, afternoon",mild,intermediate,moderate,general
+Akash_237,46,Male,south,157,71,28.8,Weight Loss,active,non-vegetarian,none,1874,"evening, night, snacks, afternoon",mild,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Lakshmi_238,31,Female,south,150,60,26.7,Weight Loss,sedentary,gluten-free,none,1200,"morning, afternoon",spicy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Khushi_239,32,Female,north,150,54,24.0,Muscle Gain,elderly,vegetarian,none,1827,"snacks, afternoon",rich,beginner,affordable,"muscle-gain, elderly-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Manoj_240,69,Male,north,171,62,21.2,Maintenance,sedentary,non-vegetarian,none,1617,"night, snacks, morning",creamy,intermediate,affordable,budget-conscious
+Anaya_241,26,Female,south,155,57,23.7,Medical Therapy,athletic,vegetarian,none,2350,"snacks, afternoon",spicy,intermediate,moderate,"vegetarian-friendly, fitness-focused"
+Manju_242,40,Female,south,159,46,18.2,Recovery,active,non-vegetarian,none,1948,"afternoon, evening, night",tangy,beginner,affordable,"budget-conscious, quick-meal"
+Aarav_243,62,Male,north,172,63,21.3,Medical Therapy,elderly,vegetarian,none,1486,"snacks, night, morning",mild,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Amit_244,55,Male,east,160,42,16.4,Recovery,active,non-vegetarian,none,1815,"morning, night, snacks, evening",spicy,expert,moderate,general
+Usha_245,40,Female,northeast,153,52,22.2,Maintenance,sedentary,non-vegetarian,none,1475,"evening, snacks",creamy,intermediate,affordable,budget-conscious
+Sita_246,73,Female,west,151,66,28.9,Maintenance,elderly,non-vegetarian,none,1451,"night, snacks, morning",spicy,expert,affordable,"elderly-friendly, budget-conscious"
+Rita_247,55,Female,north,158,58,23.2,Diabetes,athletic,vegan,none,2146,"snacks, afternoon",creamy,intermediate,moderate,"vegetarian-friendly, health-focused, fitness-focused"
+Meera_248,65,Female,north,155,56,23.3,Maintenance,elderly,vegan,none,1396,"afternoon, snacks, morning",rich,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Khushi_249,36,Female,south,150,63,28.0,Weight Loss,active,non-vegetarian,none,1575,"night, evening, snacks",tangy,beginner,expensive,"weight-loss-friendly, quick-meal"
+Khushi_250,21,Female,west,158,51,20.4,Maintenance,sedentary,non-vegetarian,none,1581,"morning, evening, night, afternoon",rich,expert,affordable,budget-conscious
+Vijay_251,58,Male,east,169,61,21.4,Medical Therapy,active,vegan,none,1950,"snacks, night, morning",earthy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Nita_252,72,Female,north,150,40,17.8,Cardiac,sedentary,vegetarian,none,1200,"snacks, night, afternoon, evening",mild,intermediate,moderate,"vegetarian-friendly, health-focused"
+Deepak_253,60,Male,north,166,59,21.4,Maintenance,elderly,non-vegetarian,none,1601,"snacks, night, afternoon",creamy,expert,moderate,elderly-friendly
+Karthik_254,70,Male,east,156,51,21.0,Cardiac,elderly,non-vegetarian,none,1200,"afternoon, snacks, evening",earthy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Meera_255,66,Female,east,150,52,23.1,Medical Therapy,sedentary,non-vegetarian,none,1200,"afternoon, night, morning",spicy,intermediate,affordable,budget-conscious
+Karthik_256,54,Male,south,161,56,21.6,Maintenance,sedentary,vegetarian,none,1565,"night, snacks, afternoon",mild,intermediate,moderate,vegetarian-friendly
+Sushma_257,55,Female,west,150,50,22.2,Maintenance,elderly,vegetarian,tree nuts,1363,"afternoon, night",earthy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Saanvi_258,59,Female,west,153,45,19.2,Muscle Gain,active,non-vegetarian,none,1977,"afternoon, evening, morning",aromatic,intermediate,affordable,"muscle-gain, budget-conscious"
+Anant_259,30,Male,northeast,158,66,26.4,Weight Loss,active,non-vegetarian,none,1918,"morning, night, snacks",sweet,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Renu_260,33,Female,north,163,49,18.4,Muscle Gain,sedentary,non-vegetarian,none,1815,"afternoon, night, evening",mild,intermediate,moderate,muscle-gain
+Yash_261,56,Male,west,160,76,29.7,Weight Loss,elderly,vegetarian,none,1367,"morning, night, afternoon, evening",rich,expert,expensive,"weight-loss-friendly, elderly-friendly, vegetarian-friendly"
+Pushpa_262,74,Female,east,150,52,23.1,Cardiac,elderly,non-vegetarian,none,1200,"night, morning",aromatic,intermediate,moderate,"elderly-friendly, health-focused"
+Siddharth_263,39,Male,east,168,74,26.2,Weight Loss,sedentary,vegetarian,none,1497,"snacks, night",rich,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Karthik_264,25,Male,west,170,81,28.0,Weight Loss,athletic,non-vegetarian,none,3010,"night, morning, evening",aromatic,intermediate,expensive,"weight-loss-friendly, fitness-focused"
+Aahana_265,46,Female,east,160,44,17.2,Recovery,sedentary,non-vegetarian,none,1481,"afternoon, evening, morning",tangy,intermediate,affordable,budget-conscious
+Naresh_266,69,Male,north,161,73,28.2,Maintenance,elderly,non-vegetarian,none,1736,"morning, night",spicy,expert,moderate,elderly-friendly
+Dhruv_267,68,Male,east,161,53,20.4,Maintenance,elderly,non-vegetarian,none,1422,"morning, night, snacks",spicy,intermediate,moderate,elderly-friendly
+Anil_268,25,Male,east,155,45,18.7,Weight Loss,sedentary,non-vegetarian,none,1200,"evening, morning",mild,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Reyansh_269,55,Male,west,169,71,24.9,Muscle Gain,sedentary,non-vegetarian,nuts,2146,"morning, evening, afternoon",aromatic,intermediate,moderate,muscle-gain
+Atharv_270,63,Male,north,155,60,25.0,Maintenance,sedentary,non-vegetarian,none,1534,"night, afternoon, morning",spicy,intermediate,affordable,budget-conscious
+Akash_271,29,Male,north,162,41,15.6,Maintenance,active,vegan,none,1938,"night, afternoon, morning",creamy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Aditya_272,44,Male,north,160,85,33.2,Weight Loss,elderly,non-vegetarian,none,1594,"morning, night, evening",mild,beginner,affordable,"weight-loss-friendly, elderly-friendly, budget-conscious, quick-meal"
+Mukesh_273,75,Male,south,165,64,23.5,Maintenance,elderly,vegetarian,gluten,1574,"night, afternoon, morning",tangy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Harsh_274,61,Male,east,163,59,22.2,Cardiac,elderly,non-vegetarian,none,1277,"evening, night, afternoon",mild,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Ramesh_275,22,Male,north,165,57,20.9,Weight Loss,athletic,vegetarian,none,2385,"morning, night, afternoon",spicy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, fitness-focused, quick-meal"
+Shobha_276,25,Female,north,153,56,23.9,Muscle Gain,active,vegetarian,none,2363,"snacks, afternoon, morning",creamy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Nita_277,34,Female,north,154,53,22.3,Weight Loss,sedentary,vegetarian,none,1200,"evening, snacks, night, afternoon",mild,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Madhuri_278,44,Female,east,150,41,18.2,Muscle Gain,active,vegetarian,none,2006,"evening, night, afternoon",earthy,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal"
+Diya_279,34,Female,west,151,57,25.0,Weight Loss,active,non-vegetarian,eggs,1507,"night, morning, snacks",tangy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Meera_280,57,Female,north,159,50,19.8,Cardiac,active,non-vegetarian,none,1491,"snacks, evening, night",creamy,intermediate,affordable,"health-focused, budget-conscious"
+Anika_281,33,Female,west,153,46,19.7,Weight Loss,elderly,non-vegetarian,none,1200,"evening, morning, snacks",sweet,beginner,affordable,"weight-loss-friendly, elderly-friendly, budget-conscious, quick-meal"
+Radha_282,24,Female,west,155,58,24.1,Maintenance,active,non-vegetarian,none,2108,"evening, morning, snacks",creamy,beginner,affordable,"budget-conscious, quick-meal"
+Shobha_283,40,Female,west,161,53,20.4,Muscle Gain,sedentary,non-vegetarian,none,1815,"morning, night, afternoon, snacks",rich,intermediate,affordable,"muscle-gain, budget-conscious"
+Shanti_284,23,Female,north,153,56,23.9,Maintenance,active,non-vegetarian,none,2076,"evening, afternoon, snacks, morning",rich,intermediate,affordable,budget-conscious
+Pushpa_285,20,Other,northeast,150,40,17.8,Muscle Gain,active,non-vegetarian,"nuts, mustard",2153,"afternoon, morning, evening",tangy,intermediate,affordable,"muscle-gain, budget-conscious"
+Pradeep_286,62,Male,south,172,59,19.9,Cardiac,elderly,gluten-free,none,1322,"morning, evening, afternoon",spicy,intermediate,moderate,"elderly-friendly, health-focused"
+Saanvi_287,24,Female,north,156,48,19.7,Recovery,active,vegan,none,2069,"snacks, evening, night",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Aisha_288,64,Female,north,150,66,29.3,Medical Therapy,elderly,vegetarian,none,1294,"morning, evening",rich,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Karthik_289,60,Male,east,155,50,20.8,Cardiac,sedentary,vegetarian,none,1200,"night, afternoon",rich,intermediate,moderate,"vegetarian-friendly, health-focused"
+Diya_290,54,Female,east,159,45,17.8,Muscle Gain,sedentary,vegetarian,none,1646,"afternoon, evening, night",aromatic,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Asha_291,22,Female,west,150,61,27.1,Diabetes,active,non-vegetarian,none,1940,"evening, afternoon, night",aromatic,beginner,affordable,"health-focused, budget-conscious, quick-meal"
+Devraj_292,23,Male,west,163,69,26.0,Weight Loss,active,vegetarian,tree nuts,2079,"evening, snacks, morning, afternoon",creamy,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Aahana_293,36,Female,north,161,44,17.0,Muscle Gain,active,non-vegetarian,none,2155,"afternoon, snacks, evening",rich,intermediate,moderate,muscle-gain
+Mahesh_294,33,Male,north,168,70,24.8,Medical Therapy,active,non-vegetarian,"mustard, eggs",2349,"snacks, evening",spicy,expert,affordable,budget-conscious
+Krishna_295,59,Male,east,161,82,31.6,Weight Loss,sedentary,vegetarian,none,1449,"night, morning, afternoon, snacks",earthy,expert,moderate,"weight-loss-friendly, vegetarian-friendly"
+Rita_296,47,Female,south,155,49,20.4,Muscle Gain,active,non-vegetarian,none,2124,"evening, snacks, night",spicy,beginner,moderate,"muscle-gain, quick-meal"
+Lakshya_297,33,Male,north,172,64,21.6,Muscle Gain,active,vegan,none,2754,"evening, morning",mild,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Mukesh_298,44,Male,east,157,70,28.4,Diabetes,active,vegan,none,2171,"afternoon, night, morning",creamy,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Pushpa_299,29,Female,north,159,59,23.3,Cardiac,athletic,vegetarian,none,2284,"snacks, evening",mild,beginner,moderate,"vegetarian-friendly, health-focused, fitness-focused, quick-meal"
+Gaurav_300,68,Male,south,170,48,16.6,Medical Therapy,elderly,vegan,none,1200,"afternoon, morning, evening, snacks",tangy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Madhuri_301,31,Female,north,150,44,19.6,Weight Loss,active,non-vegetarian,none,1336,"evening, night, morning",rich,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Kabir_302,62,Male,northeast,156,44,18.1,Medical Therapy,elderly,vegetarian,none,1200,"morning, snacks",rich,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Shanaya_303,75,Female,south,151,40,17.5,Diabetes,elderly,non-vegetarian,none,1200,"night, morning, snacks",tangy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Rajesh_304,56,Male,west,179,64,20.0,Maintenance,sedentary,vegetarian,none,1784,"snacks, afternoon, night, evening",sweet,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Sunita_305,68,Female,south,157,70,28.4,Maintenance,elderly,vegetarian,none,1544,"snacks, night, evening",mild,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Parvati_306,63,Female,south,150,53,23.6,Diabetes,elderly,diabetic-friendly,"mustard, gluten",1200,"night, morning, afternoon, evening",tangy,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Khushi_307,54,Female,north,151,50,21.9,Maintenance,active,vegetarian,none,1773,"morning, evening, snacks",rich,expert,affordable,"vegetarian-friendly, budget-conscious"
+Anant_308,45,Male,south,170,56,19.4,Muscle Gain,sedentary,vegan,none,1978,"night, afternoon",spicy,expert,moderate,"muscle-gain, vegetarian-friendly"
+Atharv_309,42,Male,south,173,49,16.4,Muscle Gain,active,vegetarian,none,2371,"morning, evening, night, afternoon",spicy,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Kiara_310,55,Female,west,150,46,20.4,Maintenance,sedentary,non-vegetarian,none,1319,"night, evening",aromatic,intermediate,moderate,general
+Diya_311,41,Female,east,150,47,20.9,Maintenance,athletic,non-vegetarian,none,2221,"morning, night",aromatic,intermediate,affordable,"fitness-focused, budget-conscious"
+Myra_312,56,Female,west,157,66,26.8,Diabetes,sedentary,diabetic-friendly,none,1362,"afternoon, morning, night",creamy,intermediate,moderate,health-focused
+Siddharth_313,43,Male,northeast,163,49,18.4,Muscle Gain,active,non-vegetarian,none,2288,"afternoon, snacks, evening, morning",mild,intermediate,affordable,"muscle-gain, budget-conscious"
+Aahana_314,47,Female,north,150,60,26.7,Weight Loss,active,gluten-free,none,1458,"snacks, afternoon, evening, morning",rich,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Amit_315,75,Male,south,160,53,20.7,Medical Therapy,elderly,vegetarian,none,1200,"evening, afternoon",spicy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Pankaj_316,68,Male,south,156,65,26.7,Maintenance,elderly,non-vegetarian,none,1586,"morning, evening",tangy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Yash_317,36,Male,east,163,43,16.2,Muscle Gain,elderly,non-vegetarian,none,1790,"afternoon, evening",spicy,beginner,affordable,"muscle-gain, elderly-friendly, budget-conscious, quick-meal"
+Aditya_318,62,Male,south,165,62,22.8,Maintenance,elderly,vegetarian,none,1630,"morning, snacks, night, evening",tangy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Kavita_319,25,Female,north,150,53,23.6,Muscle Gain,sedentary,non-vegetarian,none,1852,"afternoon, evening",rich,intermediate,affordable,"muscle-gain, budget-conscious"
+Vihaan_320,74,Male,north,175,56,18.3,Medical Therapy,elderly,vegan,none,1309,"afternoon, evening",spicy,intermediate,expensive,"elderly-friendly, vegetarian-friendly"
+Arjun_321,62,Male,north,171,77,26.3,Medical Therapy,elderly,non-vegetarian,gluten,1706,"night, morning, evening",mild,expert,affordable,"elderly-friendly, budget-conscious"
+Aahana_322,71,Female,east,161,45,17.4,Cardiac,elderly,vegetarian,none,1200,"night, snacks, afternoon",mild,expert,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Asha_323,66,Female,west,155,59,24.6,Medical Therapy,elderly,non-vegetarian,none,1225,"snacks, morning",tangy,expert,affordable,"elderly-friendly, budget-conscious"
+Anant_324,61,Male,east,150,76,33.8,Maintenance,elderly,non-vegetarian,none,1776,"snacks, afternoon, evening",sweet,intermediate,affordable,"elderly-friendly, budget-conscious"
+Saanvi_325,40,Female,north,150,57,25.3,Weight Loss,sedentary,vegetarian,none,1200,"snacks, evening",mild,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, quick-meal"
+Harsh_326,38,Male,east,158,82,32.8,Weight Loss,sedentary,non-vegetarian,none,1575,"morning, snacks, afternoon",mild,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Radha_327,55,Female,north,150,48,21.3,Weight Loss,active,vegan,none,1232,"night, morning, afternoon",creamy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Suneel_328,66,Male,west,173,67,22.4,Medical Therapy,sedentary,vegetarian,none,1529,"night, morning",spicy,intermediate,moderate,vegetarian-friendly
+Krishna_329,42,Male,south,154,82,34.6,Maintenance,sedentary,vegetarian,none,2025,"evening, afternoon",spicy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Aahana_330,26,Female,north,150,42,18.7,Muscle Gain,athletic,non-vegetarian,none,2557,"afternoon, evening, night, snacks",spicy,intermediate,affordable,"muscle-gain, fitness-focused, budget-conscious"
+Meera_331,48,Female,north,150,62,27.6,Weight Loss,sedentary,gluten-free,none,1200,"snacks, evening, afternoon",rich,expert,affordable,"weight-loss-friendly, budget-conscious"
+Asha_332,71,Female,south,154,51,21.5,Maintenance,sedentary,non-vegetarian,none,1306,"snacks, night, morning, evening",spicy,intermediate,moderate,general
+Maya_333,56,Female,east,150,58,25.8,Weight Loss,sedentary,non-vegetarian,none,1200,"snacks, afternoon, night",tangy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Nita_334,41,Female,west,150,62,27.6,Maintenance,sedentary,non-vegetarian,none,1569,"afternoon, night",mild,beginner,affordable,"budget-conscious, quick-meal"
+Siddharth_335,25,Male,north,164,95,35.3,Weight Loss,sedentary,non-vegetarian,none,1907,"night, snacks",spicy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Pranav_336,72,Male,south,164,86,32.0,Maintenance,elderly,non-vegetarian,none,1942,"morning, evening",mild,intermediate,moderate,elderly-friendly
+Geeta_337,25,Female,west,159,44,17.4,Recovery,sedentary,non-vegetarian,nuts,1586,"evening, snacks, morning",sweet,beginner,affordable,"budget-conscious, quick-meal"
+Shobha_338,44,Female,north,157,61,24.7,Maintenance,active,vegetarian,none,2026,"night, morning, snacks, evening",spicy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Krishna_339,65,Male,east,165,54,19.8,Cardiac,elderly,non-vegetarian,none,1200,"night, morning",earthy,intermediate,moderate,"elderly-friendly, health-focused"
+Naresh_340,32,Male,north,166,68,24.7,Maintenance,sedentary,vegan,none,1937,"evening, afternoon, snacks, morning",rich,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Suman_341,71,Female,south,150,48,21.3,Maintenance,elderly,non-vegetarian,none,1258,"snacks, evening, night",spicy,intermediate,moderate,elderly-friendly
+Inaya_342,67,Female,east,150,40,17.8,Maintenance,sedentary,non-vegetarian,none,1200,"night, evening, snacks",aromatic,expert,affordable,budget-conscious
+Dinesh_343,68,Male,north,164,48,17.8,Maintenance,elderly,non-vegetarian,none,1358,"night, morning, afternoon",creamy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Shanti_344,18,Female,north,150,63,28.0,Weight Loss,active,non-vegetarian,none,1696,"evening, snacks",mild,expert,affordable,"weight-loss-friendly, budget-conscious"
+Dhruv_345,67,Male,north,166,59,21.4,Cardiac,elderly,vegetarian,none,1254,"snacks, afternoon, morning, night",creamy,expert,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Riya_346,73,Female,north,150,56,24.9,Cardiac,sedentary,vegetarian,none,1200,"morning, evening, night, afternoon",rich,expert,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Sai_347,37,Male,west,161,55,21.2,Weight Loss,sedentary,non-vegetarian,none,1200,"evening, afternoon, night",earthy,intermediate,expensive,weight-loss-friendly
+Deepika_348,68,Female,north,153,48,20.5,Maintenance,elderly,vegetarian,none,1285,"snacks, morning",creamy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Shanti_349,46,Female,north,153,40,17.1,Recovery,sedentary,vegetarian,"mustard, tree nuts",1410,"evening, morning, night",creamy,intermediate,expensive,vegetarian-friendly
+Khushi_350,61,Female,north,150,40,17.8,Medical Therapy,elderly,non-vegetarian,none,1200,"evening, snacks, afternoon",rich,expert,moderate,elderly-friendly
+Aadhya_351,71,Female,north,161,47,18.1,Maintenance,elderly,non-vegetarian,none,1288,"afternoon, snacks",spicy,expert,moderate,elderly-friendly
+Kiran_352,44,Female,west,156,46,18.9,Weight Loss,athletic,vegetarian,none,1714,"night, morning",spicy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, fitness-focused, budget-conscious"
+Kavya_353,75,Female,south,150,40,17.8,Medical Therapy,elderly,vegetarian,none,1200,"morning, snacks",spicy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Parvati_354,73,Female,south,160,51,19.9,Cardiac,elderly,non-vegetarian,none,1200,"snacks, afternoon, night",tangy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Pranav_355,43,Male,north,167,58,20.8,Weight Loss,sedentary,vegan,none,1207,"night, evening",spicy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Aryan_356,26,Male,north,168,53,18.8,Maintenance,athletic,vegetarian,"nuts, tree nuts",2768,"evening, morning, night",rich,intermediate,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Kavya_357,46,Female,north,159,54,21.4,Weight Loss,sedentary,vegetarian,none,1200,"afternoon, morning, evening",rich,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Krishna_358,19,Male,west,154,70,29.5,Weight Loss,active,non-vegetarian,none,2068,"evening, night, snacks, afternoon",rich,intermediate,moderate,weight-loss-friendly
+Usha_359,63,Female,south,150,49,21.8,Maintenance,elderly,non-vegetarian,none,1311,"snacks, night, afternoon",spicy,expert,affordable,"elderly-friendly, budget-conscious"
+Ravi_360,31,Male,north,166,84,30.5,Weight Loss,athletic,non-vegetarian,none,2985,"afternoon, morning, snacks",rich,intermediate,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Geeta_361,41,Female,east,150,63,28.0,Weight Loss,sedentary,vegetarian,none,1200,"morning, evening",spicy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, quick-meal"
+Shobha_362,29,Female,east,150,55,24.4,Muscle Gain,sedentary,non-vegetarian,none,1854,"snacks, night",spicy,beginner,moderate,"muscle-gain, quick-meal"
+Neha_363,68,Female,north,166,65,23.6,Maintenance,sedentary,vegetarian,none,1522,"evening, morning, night, afternoon",mild,expert,affordable,"vegetarian-friendly, budget-conscious"
+Pankaj_364,23,Male,north,166,62,22.5,Maintenance,sedentary,non-vegetarian,none,1902,"morning, snacks, night, afternoon",mild,expert,affordable,budget-conscious
+Vikash_365,58,Male,west,167,62,22.2,Medical Therapy,active,vegetarian,none,1956,"afternoon, evening, snacks, night",spicy,expert,moderate,vegetarian-friendly
+Inaya_366,51,Female,north,153,40,17.1,Muscle Gain,sedentary,vegetarian,none,1584,"morning, night, evening, afternoon",creamy,expert,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Aditya_367,65,Male,south,166,43,15.6,Maintenance,sedentary,non-vegetarian,none,1310,"afternoon, night, evening",tangy,intermediate,affordable,budget-conscious
+Suneel_368,72,Male,north,167,58,20.8,Maintenance,elderly,non-vegetarian,none,1509,"afternoon, evening",creamy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Aahana_369,45,Female,north,151,58,25.4,Weight Loss,active,non-vegetarian,eggs,1448,"morning, night",creamy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Vihaan_370,24,Male,south,161,69,26.6,Weight Loss,active,vegetarian,none,2056,"night, morning, afternoon",spicy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Kiran_371,28,Female,west,158,79,31.6,Weight Loss,athletic,non-vegetarian,none,2438,"night, snacks",spicy,intermediate,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Suneel_372,41,Male,south,156,63,25.9,Weight Loss,sedentary,vegetarian,none,1237,"night, evening, morning, afternoon",tangy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Anaya_373,54,Female,south,150,58,25.8,Weight Loss,active,non-vegetarian,none,1382,"evening, afternoon, snacks",spicy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Harsh_374,32,Male,north,168,68,24.1,Maintenance,sedentary,vegetarian,none,1948,"evening, morning, afternoon",creamy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Dhruv_375,44,Male,west,169,70,24.5,Muscle Gain,sedentary,gluten-free,none,2204,"afternoon, night, evening",tangy,beginner,moderate,"muscle-gain, quick-meal"
+Nikhil_376,63,Male,north,162,40,15.2,Cardiac,elderly,vegetarian,none,1200,"snacks, morning, afternoon, evening",spicy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Naresh_377,46,Male,south,158,50,20.0,Cardiac,active,non-vegetarian,none,1645,"evening, afternoon, night",mild,intermediate,moderate,health-focused
+Yogesh_378,52,Male,south,156,71,29.2,Weight Loss,active,vegetarian,none,1814,"afternoon, morning",spicy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Shivam_379,44,Male,west,179,74,23.1,Weight Loss,sedentary,non-vegetarian,mustard,1526,"morning, afternoon, night",aromatic,beginner,moderate,"weight-loss-friendly, quick-meal"
+Kavita_380,48,Female,south,150,59,26.2,Weight Loss,elderly,non-vegetarian,none,1200,"afternoon, snacks, morning",tangy,intermediate,moderate,"weight-loss-friendly, elderly-friendly"
+Yash_381,47,Male,northeast,156,60,24.7,Diabetes,active,diabetic-friendly,none,1929,"evening, afternoon, morning, snacks",aromatic,beginner,affordable,"health-focused, budget-conscious, quick-meal"
+Dinesh_382,40,Male,northeast,150,59,26.2,Weight Loss,elderly,non-vegetarian,none,1200,"morning, afternoon",tangy,intermediate,expensive,"weight-loss-friendly, elderly-friendly"
+Yogesh_383,74,Male,north,170,62,21.5,Maintenance,sedentary,vegetarian,none,1577,"night, snacks, evening",spicy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Lakshmi_384,56,Female,east,150,47,20.9,Weight Loss,sedentary,vegetarian,none,1200,"snacks, night",spicy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Shobha_385,46,Female,east,154,47,19.8,Maintenance,active,non-vegetarian,"fish, mustard",1798,"snacks, evening",earthy,beginner,expensive,quick-meal
+Abhishek_386,35,Male,north,171,84,28.7,Diabetes,sedentary,diabetic-friendly,none,2002,"evening, afternoon",creamy,beginner,moderate,"health-focused, quick-meal"
+Anant_387,65,Male,west,172,42,14.2,Diabetes,elderly,non-vegetarian,none,1200,"morning, night",aromatic,expert,moderate,"elderly-friendly, health-focused"
+Nita_388,44,Female,north,165,47,17.3,Recovery,athletic,vegetarian,none,2385,"evening, snacks",spicy,intermediate,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Suman_389,26,Female,north,152,45,19.5,Weight Loss,athletic,vegetarian,"dairy, nuts",1821,"snacks, morning",creamy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, fitness-focused, budget-conscious, quick-meal, dairy-free"
+Shanaya_390,44,Female,north,150,58,25.8,Weight Loss,active,vegan,none,1450,"night, snacks, morning",rich,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Kiara_391,56,Female,west,152,40,17.3,Maintenance,active,vegan,none,1621,"evening, snacks, morning",mild,intermediate,expensive,vegetarian-friendly
+Maya_392,22,Female,south,156,54,22.2,Muscle Gain,sedentary,vegetarian,tree nuts,1901,"morning, night",mild,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal"
+Harsh_393,59,Male,north,162,53,20.2,Cardiac,active,vegetarian,none,1623,"snacks, morning, afternoon",mild,expert,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Kiran_394,23,Female,south,160,41,16.0,Recovery,active,vegetarian,mustard,1995,"afternoon, evening, night",spicy,beginner,moderate,"vegetarian-friendly, quick-meal"
+Devraj_395,41,Male,north,164,48,17.8,Recovery,sedentary,vegetarian,none,1642,"snacks, afternoon, morning, night",creamy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Dhruv_396,61,Male,south,165,57,20.9,Maintenance,elderly,vegetarian,none,1557,"evening, morning, snacks",spicy,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Pradeep_397,60,Male,west,163,43,16.2,Cardiac,elderly,non-vegetarian,none,1200,"afternoon, morning, night",tangy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Suneel_398,71,Male,south,162,42,16.0,Maintenance,elderly,non-vegetarian,none,1230,"night, snacks, evening",tangy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Akash_399,19,Male,west,169,54,18.9,Weight Loss,active,non-vegetarian,none,1848,"snacks, afternoon, night",earthy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Sunita_400,19,Female,west,150,72,32.0,Weight Loss,active,non-vegetarian,none,1818,"evening, night, afternoon, snacks",creamy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Mukesh_401,47,Male,south,157,52,21.1,Muscle Gain,athletic,vegan,none,2716,"snacks, morning, evening",tangy,intermediate,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious"
+Maya_402,45,Female,west,156,63,25.9,Weight Loss,sedentary,vegetarian,none,1200,"evening, morning, afternoon",aromatic,intermediate,expensive,"weight-loss-friendly, vegetarian-friendly"
+Dhruv_403,65,Male,north,160,76,29.7,Medical Therapy,elderly,non-vegetarian,none,1606,"snacks, night",spicy,intermediate,moderate,elderly-friendly
+Anika_404,38,Female,south,153,44,18.8,Diabetes,active,non-vegetarian,none,1604,"evening, afternoon, night",tangy,intermediate,affordable,"health-focused, budget-conscious"
+Krishna_405,61,Male,south,165,64,23.5,Medical Therapy,sedentary,non-vegetarian,none,1469,"snacks, afternoon, night",mild,intermediate,moderate,general
+Shanaya_406,22,Female,south,157,61,24.7,Maintenance,active,vegan,none,2174,"night, afternoon",tangy,intermediate,moderate,vegetarian-friendly
+Pankaj_407,72,Male,south,166,68,24.7,Medical Therapy,elderly,vegetarian,none,1464,"morning, evening, night",spicy,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Lakshya_408,73,Male,north,165,79,29.0,Maintenance,elderly,vegetarian,none,1828,"evening, afternoon",creamy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Sushma_409,33,Female,south,151,48,21.1,Cardiac,active,vegetarian,none,1585,"snacks, morning",mild,intermediate,moderate,"vegetarian-friendly, health-focused"
+Maya_410,59,Female,south,156,53,21.8,Cardiac,active,vegan,none,1506,"night, evening, morning",tangy,expert,moderate,"vegetarian-friendly, health-focused"
+Sunita_411,29,Female,east,153,46,19.7,Muscle Gain,active,non-vegetarian,"nuts, gluten",2193,"afternoon, evening",sweet,intermediate,affordable,"muscle-gain, budget-conscious"
+Yogesh_412,61,Male,north,164,64,23.8,Diabetes,sedentary,diabetic-friendly,none,1463,"night, afternoon",spicy,intermediate,affordable,"health-focused, budget-conscious"
+Riya_413,43,Female,north,150,40,17.8,Maintenance,sedentary,vegetarian,none,1315,"afternoon, snacks, morning, night",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Sara_414,58,Female,south,153,40,17.1,Muscle Gain,sedentary,non-vegetarian,none,1548,"snacks, morning",mild,intermediate,affordable,"muscle-gain, budget-conscious"
+Sushma_415,36,Female,east,150,51,22.7,Weight Loss,sedentary,non-vegetarian,none,1200,"evening, afternoon, snacks",mild,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Lakshya_416,61,Male,south,169,60,21.0,Medical Therapy,sedentary,non-vegetarian,none,1428,"afternoon, snacks, morning",tangy,expert,expensive,general
+Madhuri_417,64,Female,west,150,44,19.6,Diabetes,sedentary,diabetic-friendly,none,1200,"snacks, afternoon",creamy,expert,moderate,health-focused
+Renu_418,34,Female,west,157,40,16.2,Muscle Gain,elderly,vegan,none,1687,"night, morning, afternoon",earthy,intermediate,affordable,"muscle-gain, elderly-friendly, vegetarian-friendly, budget-conscious"
+Atharv_419,35,Male,south,162,64,24.4,Weight Loss,active,non-vegetarian,none,1862,"afternoon, night",mild,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Pushpa_420,69,Female,west,162,52,19.8,Maintenance,sedentary,non-vegetarian,none,1357,"evening, night",earthy,intermediate,moderate,general
+Amit_421,47,Male,north,156,43,17.7,Muscle Gain,active,non-vegetarian,fish,2076,"afternoon, evening",creamy,intermediate,moderate,muscle-gain
+Rekha_422,49,Female,south,151,60,26.3,Maintenance,active,vegetarian,tree nuts,1949,"afternoon, evening, night",mild,intermediate,moderate,vegetarian-friendly
+Ajay_423,60,Male,south,158,71,28.4,Diabetes,elderly,non-vegetarian,eggs,1548,"night, evening",spicy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Saraswati_424,51,Female,north,152,62,26.8,Maintenance,sedentary,vegan,none,1525,"night, snacks, morning",rich,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Diya_425,36,Female,west,150,47,20.9,Muscle Gain,active,vegetarian,none,2146,"snacks, afternoon",sweet,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Suresh_426,47,Male,west,167,87,31.2,Weight Loss,sedentary,vegetarian,dairy,1646,"night, evening, snacks",tangy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal, dairy-free"
+Dhruv_427,23,Male,west,159,40,15.8,Maintenance,athletic,non-vegetarian,none,2387,"snacks, morning",mild,intermediate,affordable,"fitness-focused, budget-conscious"
+Anika_428,26,Female,north,158,50,20.0,Maintenance,active,vegan,none,1994,"morning, afternoon, night",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Nita_429,69,Female,northeast,152,46,19.9,Maintenance,elderly,gluten-free,none,1254,"snacks, afternoon",earthy,expert,moderate,elderly-friendly
+Vedant_430,52,Male,east,158,64,25.6,Weight Loss,active,non-vegetarian,none,1683,"morning, afternoon, night, evening",aromatic,expert,affordable,"weight-loss-friendly, budget-conscious"
+Vihaan_431,31,Male,east,164,60,22.3,Maintenance,sedentary,vegetarian,none,1803,"night, morning",tangy,intermediate,moderate,vegetarian-friendly
+Nikhil_432,69,Male,north,163,72,27.1,Medical Therapy,sedentary,vegetarian,none,1532,"snacks, evening, morning",spicy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Meera_433,48,Female,south,156,40,16.4,Muscle Gain,sedentary,non-vegetarian,none,1611,"morning, evening, snacks, night",mild,intermediate,moderate,muscle-gain
+Priya_434,42,Female,south,151,64,28.1,Weight Loss,active,vegetarian,none,1554,"morning, evening, snacks, night",tangy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, quick-meal"
+Reyansh_435,64,Male,north,171,67,22.9,Maintenance,sedentary,non-vegetarian,none,1731,"evening, night, snacks",spicy,intermediate,affordable,budget-conscious
+Kabir_436,42,Male,north,165,60,22.0,Diabetes,sedentary,non-vegetarian,tree nuts,1534,"night, snacks, evening",mild,beginner,moderate,"health-focused, quick-meal"
+Aarav_437,58,Male,east,157,70,28.4,Weight Loss,sedentary,non-vegetarian,none,1240,"morning, snacks",creamy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Suresh_438,42,Male,north,151,60,26.3,Weight Loss,active,vegetarian,none,1636,"afternoon, snacks, evening",creamy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Renu_439,71,Female,south,155,44,18.3,Medical Therapy,elderly,vegetarian,none,1200,"snacks, night",spicy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Sai_440,75,Male,north,165,59,21.7,Cardiac,elderly,vegetarian,none,1200,"evening, afternoon, night",creamy,expert,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Sai_441,56,Male,north,157,68,27.6,Maintenance,sedentary,non-vegetarian,none,1721,"morning, afternoon, night, evening",rich,expert,affordable,budget-conscious
+Aahana_442,59,Female,north,150,53,23.6,Weight Loss,sedentary,vegetarian,dairy,1200,"night, morning, evening, snacks",rich,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, dairy-free"
+Manju_443,39,Female,north,154,66,27.8,Weight Loss,sedentary,vegetarian,none,1200,"afternoon, evening",creamy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Geeta_444,40,Female,west,150,75,33.3,Cardiac,active,gluten-free,dairy,1920,"snacks, evening, morning, afternoon",sweet,intermediate,affordable,"health-focused, budget-conscious, dairy-free"
+Aditya_445,31,Male,south,157,68,27.6,Maintenance,athletic,non-vegetarian,none,2995,"morning, evening, snacks, night",spicy,intermediate,moderate,fitness-focused
+Lakshya_446,25,Male,south,160,63,24.6,Medical Therapy,athletic,non-vegetarian,none,2760,"night, morning",spicy,beginner,affordable,"fitness-focused, budget-conscious, quick-meal"
+Abhishek_447,24,Male,north,157,57,23.1,Weight Loss,active,gluten-free,eggs,1777,"evening, snacks, night, morning",creamy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Kavita_448,29,Female,north,155,47,19.6,Muscle Gain,sedentary,non-vegetarian,"tree nuts, dairy",1784,"evening, afternoon",rich,intermediate,affordable,"muscle-gain, budget-conscious, dairy-free"
+Mahesh_449,62,Male,east,158,52,20.8,Medical Therapy,elderly,vegetarian,none,1229,"morning, evening, snacks, night",aromatic,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Vansh_450,21,Male,north,167,40,14.3,Muscle Gain,active,vegetarian,none,2325,"snacks, evening, night",rich,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal"
+Aditya_451,51,Male,south,169,70,24.5,Maintenance,sedentary,non-vegetarian,none,1857,"night, snacks",spicy,intermediate,affordable,budget-conscious
+Abhishek_452,21,Male,south,173,74,24.7,Medical Therapy,active,vegetarian,none,2575,"afternoon, snacks, morning, night",tangy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Reyansh_453,46,Male,west,175,79,25.8,Weight Loss,elderly,non-vegetarian,none,1570,"evening, afternoon, morning",mild,intermediate,affordable,"weight-loss-friendly, elderly-friendly, budget-conscious"
+Diya_454,36,Female,south,151,44,19.3,Muscle Gain,sedentary,gluten-free,none,1699,"morning, evening, afternoon",mild,intermediate,expensive,muscle-gain
+Asha_455,20,Female,south,153,46,19.7,Muscle Gain,athletic,vegetarian,none,2694,"night, snacks, afternoon",spicy,beginner,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious, quick-meal"
+Saanvi_456,34,Female,west,164,50,18.6,Muscle Gain,sedentary,vegetarian,tree nuts,1824,"afternoon, evening, snacks",creamy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Yogesh_457,27,Male,east,166,46,16.7,Recovery,active,non-vegetarian,none,2189,"morning, evening",creamy,beginner,moderate,quick-meal
+Ravi_458,73,Male,east,161,65,25.1,Maintenance,elderly,non-vegetarian,none,1580,"morning, evening, afternoon, night",aromatic,intermediate,expensive,elderly-friendly
+Parvati_459,46,Female,northeast,152,42,18.2,Muscle Gain,active,non-vegetarian,none,2016,"night, snacks, afternoon",aromatic,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Aditya_460,30,Male,south,168,54,19.1,Maintenance,athletic,vegetarian,none,2750,"night, snacks, afternoon",tangy,intermediate,moderate,"vegetarian-friendly, fitness-focused"
+Neha_461,54,Female,northeast,151,54,23.7,Maintenance,sedentary,non-vegetarian,none,1417,"evening, morning, snacks",sweet,expert,affordable,budget-conscious
+Geeta_462,39,Female,north,163,46,17.3,Muscle Gain,athletic,vegetarian,none,2597,"morning, night, evening, snacks",mild,intermediate,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious"
+Sneha_463,34,Female,east,150,47,20.9,Muscle Gain,sedentary,non-vegetarian,none,1739,"evening, snacks",aromatic,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Dhruv_464,29,Male,east,164,64,23.8,Muscle Gain,sedentary,vegetarian,dairy,2181,"evening, snacks, afternoon",mild,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal, dairy-free"
+Nita_465,60,Female,north,150,51,22.7,Medical Therapy,elderly,vegetarian,none,1200,"snacks, night, morning",creamy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Anil_466,51,Male,northeast,155,57,23.7,Maintenance,elderly,non-vegetarian,none,1567,"night, evening, afternoon",earthy,expert,affordable,"elderly-friendly, budget-conscious"
+Saanvi_467,55,Female,east,159,46,18.2,Recovery,sedentary,non-vegetarian,none,1452,"evening, night, afternoon",rich,expert,moderate,general
+Lata_468,64,Female,west,150,52,23.1,Medical Therapy,elderly,non-vegetarian,none,1200,"morning, snacks, evening",sweet,expert,affordable,"elderly-friendly, budget-conscious"
+Abhishek_469,69,Male,south,174,55,18.2,Medical Therapy,elderly,vegetarian,eggs,1322,"evening, afternoon",spicy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Vihaan_470,75,Male,west,167,61,21.9,Maintenance,elderly,vegetarian,none,1537,"afternoon, night, morning, evening",spicy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Ayaan_471,30,Male,east,161,43,16.6,Recovery,athletic,non-vegetarian,none,2506,"afternoon, evening, snacks",creamy,expert,affordable,"fitness-focused, budget-conscious"
+Meera_472,55,Female,south,150,54,24.0,Weight Loss,sedentary,vegetarian,none,1200,"snacks, morning",tangy,expert,expensive,"weight-loss-friendly, vegetarian-friendly"
+Shanti_473,45,Female,south,150,56,24.9,Maintenance,active,vegetarian,none,1914,"afternoon, night",spicy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Atharv_474,43,Male,north,160,58,22.7,Maintenance,sedentary,vegetarian,none,1666,"evening, night, morning",mild,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Kiran_475,38,Female,northeast,153,45,19.2,Maintenance,active,non-vegetarian,none,1818,"afternoon, evening, snacks",earthy,intermediate,affordable,budget-conscious
+Karthik_476,43,Male,north,159,59,23.3,Maintenance,active,vegetarian,mustard,2166,"evening, afternoon, morning, snacks",rich,intermediate,moderate,vegetarian-friendly
+Naresh_477,74,Male,south,168,62,22.0,Maintenance,sedentary,non-vegetarian,none,1566,"afternoon, night",spicy,expert,affordable,budget-conscious
+Akash_478,43,Male,north,168,41,14.5,Muscle Gain,active,non-vegetarian,none,2159,"night, morning",creamy,beginner,moderate,"muscle-gain, quick-meal"
+Suresh_479,53,Male,north,169,89,31.2,Maintenance,sedentary,non-vegetarian,none,2149,"evening, night",rich,expert,moderate,general
+Vikash_480,20,Male,north,154,64,27.0,Maintenance,active,non-vegetarian,none,2435,"snacks, evening",rich,intermediate,affordable,budget-conscious
+Madhuri_481,60,Female,north,150,47,20.9,Maintenance,elderly,vegetarian,none,1304,"night, afternoon, morning",rich,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Kabir_482,50,Male,east,161,70,27.0,Maintenance,active,non-vegetarian,tree nuts,2348,"morning, night, snacks, afternoon",sweet,expert,affordable,budget-conscious
+Myra_483,75,Female,south,157,40,16.2,Maintenance,sedentary,non-vegetarian,none,1200,"evening, snacks",spicy,intermediate,moderate,general
+Suneel_484,75,Male,south,170,58,20.1,Cardiac,elderly,vegetarian,none,1206,"morning, evening, afternoon",spicy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Aryan_485,65,Male,south,159,51,20.2,Cardiac,elderly,non-vegetarian,none,1200,"afternoon, evening, night",spicy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Riya_486,47,Female,south,150,47,20.9,Maintenance,active,vegetarian,dairy,1772,"afternoon, snacks, morning",tangy,intermediate,moderate,"vegetarian-friendly, dairy-free"
+Usha_487,26,Female,north,156,40,16.4,Muscle Gain,active,vegetarian,none,2141,"morning, evening, night, afternoon",creamy,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Harsh_488,48,Male,northeast,173,74,24.7,Maintenance,active,non-vegetarian,none,2538,"snacks, afternoon, evening",tangy,intermediate,affordable,budget-conscious
+Krishna_489,57,Male,north,159,68,26.9,Weight Loss,active,vegetarian,none,1730,"morning, evening, afternoon, night",spicy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Akash_490,37,Male,south,161,40,15.4,Muscle Gain,athletic,vegan,none,2554,"night, snacks",spicy,beginner,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious, quick-meal"
+Ajay_491,48,Male,west,158,68,27.2,Weight Loss,sedentary,non-vegetarian,none,1282,"morning, afternoon, night",mild,beginner,moderate,"weight-loss-friendly, quick-meal"
+Maya_492,26,Female,east,153,53,22.6,Weight Loss,active,non-vegetarian,"dairy, eggs",1513,"night, evening",spicy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal, dairy-free"
+Aisha_493,63,Female,south,150,47,20.9,Cardiac,elderly,non-vegetarian,none,1200,"snacks, afternoon, morning",tangy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Geeta_494,72,Female,south,150,51,22.7,Maintenance,sedentary,non-vegetarian,none,1286,"snacks, morning",spicy,expert,affordable,budget-conscious
+Inaya_495,24,Female,north,154,43,18.1,Muscle Gain,active,vegetarian,none,2188,"snacks, afternoon",mild,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal"
+Santosh_496,19,Male,north,180,63,19.4,Weight Loss,active,vegetarian,"gluten, tree nuts",2116,"evening, afternoon",spicy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Kavita_497,46,Female,west,152,40,17.3,Recovery,elderly,vegetarian,none,1407,"snacks, evening",tangy,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Myra_498,39,Female,north,156,55,22.6,Muscle Gain,active,non-vegetarian,none,2269,"evening, afternoon",creamy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Lata_499,57,Female,north,155,54,22.5,Weight Loss,elderly,non-vegetarian,none,1200,"snacks, evening, morning",rich,intermediate,moderate,"weight-loss-friendly, elderly-friendly"
+Lata_500,59,Female,north,150,49,21.8,Recovery,active,vegetarian,none,1820,"evening, morning, snacks, night",spicy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Suman_501,34,Female,west,156,44,18.1,Maintenance,active,gluten-free,none,1845,"snacks, afternoon, morning, night",earthy,intermediate,moderate,general
+Kiran_502,60,Female,south,160,43,16.8,Diabetes,sedentary,vegan,dairy,1200,"morning, snacks, night",mild,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious, dairy-free"
+Pradeep_503,69,Male,east,164,58,21.6,Cardiac,sedentary,non-vegetarian,none,1212,"snacks, evening, night",rich,intermediate,moderate,health-focused
+Pihu_504,18,Female,north,164,60,22.3,Recovery,active,vegan,none,2320,"snacks, night, evening, morning",mild,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Usha_505,54,Female,north,150,60,26.7,Weight Loss,sedentary,gluten-free,"mustard, fish",1200,"evening, snacks",spicy,intermediate,moderate,weight-loss-friendly
+Devraj_506,68,Male,east,159,83,32.8,Maintenance,sedentary,non-vegetarian,none,1892,"afternoon, night, snacks",spicy,intermediate,moderate,general
+Harsh_507,28,Male,west,164,44,16.4,Muscle Gain,athletic,non-vegetarian,none,2781,"morning, snacks, night",earthy,expert,affordable,"muscle-gain, fitness-focused, budget-conscious"
+Nita_508,49,Female,north,153,40,17.1,Recovery,active,non-vegetarian,none,1772,"night, snacks, afternoon",creamy,intermediate,affordable,budget-conscious
+Pihu_509,75,Female,south,161,41,15.8,Medical Therapy,elderly,vegetarian,none,1200,"evening, afternoon",spicy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Priya_510,21,Female,south,156,68,27.9,Maintenance,active,non-vegetarian,none,2276,"evening, snacks, afternoon",tangy,beginner,moderate,quick-meal
+Aisha_511,32,Female,north,153,54,23.1,Maintenance,active,vegetarian,none,1987,"evening, morning, afternoon",creamy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Anvi_512,72,Other,south,151,49,21.5,Maintenance,elderly,non-vegetarian,none,1268,"night, morning, afternoon",mild,intermediate,affordable,"elderly-friendly, budget-conscious"
+Nita_513,73,Female,north,150,55,24.4,Cardiac,elderly,non-vegetarian,none,1200,"afternoon, snacks",mild,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Dhruv_514,35,Male,north,180,59,18.2,Muscle Gain,active,non-vegetarian,none,2693,"morning, evening, afternoon",mild,beginner,moderate,"muscle-gain, quick-meal"
+Gaurav_515,48,Male,north,168,68,24.1,Maintenance,sedentary,vegetarian,"eggs, gluten",1839,"afternoon, evening, night, snacks",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Rohit_516,69,Male,north,165,66,24.2,Diabetes,elderly,diabetic-friendly,none,1447,"afternoon, night",mild,intermediate,moderate,"elderly-friendly, health-focused"
+Asha_517,68,Female,south,150,52,23.1,Medical Therapy,sedentary,non-vegetarian,none,1200,"night, snacks, afternoon",spicy,intermediate,moderate,general
+Usha_518,27,Female,south,150,48,21.3,Weight Loss,active,non-vegetarian,dairy,1420,"morning, night, evening",mild,intermediate,affordable,"weight-loss-friendly, budget-conscious, dairy-free"
+Harsh_519,32,Male,west,165,71,26.1,Weight Loss,active,vegetarian,none,2057,"afternoon, snacks, evening",aromatic,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Kavita_520,40,Female,north,150,52,23.1,Maintenance,active,non-vegetarian,none,1890,"morning, snacks, afternoon, evening",spicy,beginner,affordable,"budget-conscious, quick-meal"
+Pankaj_521,39,Male,north,168,78,27.6,Weight Loss,sedentary,vegan,none,1561,"night, evening",spicy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Sneha_522,31,Female,east,156,44,18.1,Maintenance,sedentary,non-vegetarian,none,1444,"morning, snacks",sweet,intermediate,affordable,budget-conscious
+Vedant_523,21,Male,west,165,69,25.3,Diabetes,active,non-vegetarian,gluten,2412,"evening, snacks, afternoon",creamy,intermediate,affordable,"health-focused, budget-conscious"
+Sunita_524,23,Female,north,151,40,17.5,Muscle Gain,active,vegetarian,dairy,2137,"night, morning, evening, snacks",rich,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal, dairy-free"
+Sunita_525,55,Female,north,161,53,20.4,Diabetes,athletic,non-vegetarian,none,2076,"snacks, evening, morning",spicy,intermediate,affordable,"health-focused, fitness-focused, budget-conscious"
+Meera_526,59,Female,northeast,150,40,17.8,Muscle Gain,active,vegetarian,none,1891,"snacks, night",tangy,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Dinesh_527,34,Male,north,167,71,25.5,Weight Loss,sedentary,gluten-free,none,1477,"snacks, evening, night",spicy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Mukesh_528,32,Male,north,162,57,21.7,Maintenance,sedentary,vegetarian,none,1737,"snacks, morning, night",rich,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Dhruv_529,72,Male,northeast,160,46,18.0,Cardiac,elderly,non-vegetarian,eggs,1200,"evening, snacks, night",creamy,expert,moderate,"elderly-friendly, health-focused"
+Atharv_530,66,Male,north,168,58,20.5,Maintenance,sedentary,non-vegetarian,none,1556,"afternoon, snacks",mild,intermediate,affordable,budget-conscious
+Shanti_531,38,Female,south,150,52,23.1,Recovery,active,non-vegetarian,fish,2004,"night, morning",spicy,intermediate,affordable,budget-conscious
+Saanvi_532,26,Female,east,157,47,19.1,Medical Therapy,athletic,non-vegetarian,none,2186,"morning, afternoon, evening, night",sweet,beginner,affordable,"fitness-focused, budget-conscious, quick-meal"
+Rekha_533,65,Female,west,150,54,24.0,Maintenance,elderly,non-vegetarian,none,1356,"snacks, night",spicy,expert,affordable,"elderly-friendly, budget-conscious"
+Yash_534,22,Male,south,156,101,41.5,Weight Loss,active,vegetarian,none,2701,"snacks, afternoon, night",tangy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Gaurav_535,49,Male,east,163,48,18.1,Muscle Gain,active,non-vegetarian,none,2214,"evening, afternoon",sweet,beginner,moderate,"muscle-gain, quick-meal"
+Radha_536,18,Female,south,150,44,19.6,Weight Loss,sedentary,vegetarian,fish,1200,"evening, snacks",spicy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Asha_537,38,Female,east,151,44,19.3,Weight Loss,elderly,non-vegetarian,none,1200,"snacks, night, evening",creamy,expert,moderate,"weight-loss-friendly, elderly-friendly"
+Ajay_538,71,Male,north,151,60,26.3,Diabetes,elderly,diabetic-friendly,none,1256,"evening, night, morning",mild,intermediate,moderate,"elderly-friendly, health-focused"
+Atharv_539,33,Male,north,178,73,23.0,Diabetes,sedentary,vegan,nuts,1879,"morning, night, evening",creamy,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Shanaya_540,73,Female,northeast,156,50,20.5,Maintenance,elderly,non-vegetarian,none,1292,"morning, night, afternoon, snacks",rich,expert,affordable,"elderly-friendly, budget-conscious"
+Renu_541,25,Female,south,154,50,21.1,Muscle Gain,athletic,vegetarian,none,2729,"morning, night, snacks",spicy,beginner,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious, quick-meal"
+Neha_542,43,Female,south,150,57,25.3,Weight Loss,active,vegetarian,none,1442,"snacks, night, morning",spicy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Shobha_543,30,Female,south,150,40,17.8,Recovery,active,non-vegetarian,none,1886,"afternoon, morning",spicy,intermediate,moderate,general
+Ajay_544,50,Male,north,167,65,23.3,Weight Loss,sedentary,non-vegetarian,none,1272,"morning, afternoon, snacks, night",mild,expert,affordable,"weight-loss-friendly, budget-conscious"
+Priya_545,25,Female,south,156,40,16.4,Muscle Gain,active,non-vegetarian,none,2148,"night, afternoon",tangy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Pranav_546,28,Male,west,166,60,21.8,Maintenance,active,non-vegetarian,mustard,2371,"afternoon, night, evening",creamy,intermediate,moderate,general
+Saraswati_547,36,Female,south,161,53,20.4,Muscle Gain,active,non-vegetarian,fish,2284,"night, morning, evening, snacks",tangy,intermediate,affordable,"muscle-gain, budget-conscious"
+Neha_548,25,Other,north,150,57,25.3,Weight Loss,sedentary,vegetarian,none,1200,"afternoon, evening, night",creamy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Rekha_549,55,Female,south,152,46,19.9,Weight Loss,athletic,non-vegetarian,none,1600,"snacks, night, afternoon",spicy,expert,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Arya_550,73,Female,west,159,50,19.8,Cardiac,elderly,non-vegetarian,none,1200,"night, evening, snacks, afternoon",earthy,expert,moderate,"elderly-friendly, health-focused"
+Mukesh_551,40,Male,south,163,57,21.5,Weight Loss,active,non-vegetarian,tree nuts,1681,"evening, night, morning",tangy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Anvi_552,25,Female,east,154,54,22.8,Maintenance,active,non-vegetarian,nuts,2039,"snacks, evening, morning",mild,beginner,moderate,quick-meal
+Santosh_553,38,Male,east,157,66,26.8,Maintenance,active,non-vegetarian,none,2340,"evening, afternoon, snacks",spicy,expert,affordable,budget-conscious
+Suneel_554,18,Male,north,167,73,26.2,Maintenance,active,vegetarian,none,2736,"night, evening, afternoon",spicy,beginner,moderate,"vegetarian-friendly, quick-meal"
+Vansh_555,53,Male,south,163,50,18.8,Medical Therapy,elderly,gluten-free,fish,1287,"evening, snacks, morning",tangy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Ajay_556,48,Male,west,166,61,22.1,Weight Loss,active,vegetarian,none,1716,"snacks, night, afternoon",creamy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Vansh_557,49,Male,east,159,49,19.4,Recovery,active,non-vegetarian,tree nuts,2006,"afternoon, evening, morning, snacks",rich,intermediate,affordable,budget-conscious
+Manju_558,36,Female,east,150,41,18.2,Muscle Gain,active,non-vegetarian,none,2060,"morning, evening, afternoon",mild,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Maya_559,53,Female,north,150,55,24.4,Muscle Gain,sedentary,non-vegetarian,none,1729,"evening, night, morning, snacks",spicy,intermediate,moderate,muscle-gain
+Vishal_560,72,Male,west,177,66,21.1,Cardiac,elderly,vegetarian,none,1395,"evening, snacks, morning, night",sweet,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Pushpa_561,52,Female,south,152,55,23.8,Muscle Gain,active,vegetarian,none,2162,"snacks, afternoon, morning",tangy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Kiara_562,59,Female,east,150,40,17.8,Muscle Gain,sedentary,non-vegetarian,none,1532,"snacks, afternoon",creamy,expert,affordable,"muscle-gain, budget-conscious"
+Abhishek_563,44,Male,north,165,53,19.5,Weight Loss,active,vegetarian,none,1577,"afternoon, morning, night",rich,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Pranav_564,47,Male,west,165,49,18.0,Muscle Gain,active,gluten-free,none,2268,"evening, night, morning",sweet,intermediate,moderate,muscle-gain
+Mukesh_565,31,Male,south,168,52,18.4,Muscle Gain,active,non-vegetarian,none,2493,"afternoon, morning, evening, night",spicy,expert,affordable,"muscle-gain, budget-conscious"
+Sita_566,24,Female,east,150,40,17.8,Muscle Gain,active,vegan,none,2126,"night, snacks",rich,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Pradeep_567,45,Male,northeast,156,47,19.3,Muscle Gain,sedentary,non-vegetarian,"gluten, nuts",1753,"evening, snacks, night, morning",spicy,intermediate,affordable,"muscle-gain, budget-conscious"
+Yogesh_568,39,Male,east,172,40,13.5,Recovery,sedentary,non-vegetarian,none,1573,"morning, afternoon, evening",aromatic,intermediate,affordable,budget-conscious
+Parvati_569,44,Female,east,150,40,17.8,Recovery,active,non-vegetarian,none,1792,"morning, afternoon, night, snacks",spicy,beginner,moderate,quick-meal
+Saanvi_570,61,Female,north,150,41,18.2,Cardiac,elderly,non-vegetarian,none,1200,"night, snacks, morning",rich,expert,moderate,"elderly-friendly, health-focused"
+Parvati_571,43,Female,north,152,42,18.2,Muscle Gain,active,vegan,none,2037,"evening, morning",spicy,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Aarav_572,31,Male,east,159,52,20.6,Weight Loss,sedentary,non-vegetarian,none,1200,"evening, morning",rich,intermediate,moderate,weight-loss-friendly
+Siddharth_573,66,Male,west,171,78,26.7,Maintenance,elderly,vegetarian,none,1895,"evening, night, snacks, afternoon",aromatic,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Kabir_574,24,Male,south,167,63,22.6,Weight Loss,active,vegan,"tree nuts, fish",1976,"night, evening, morning",spicy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Inaya_575,22,Female,north,150,58,25.8,Weight Loss,athletic,non-vegetarian,none,2071,"evening, afternoon, snacks",spicy,intermediate,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Harsh_576,19,Male,south,164,66,24.5,Muscle Gain,active,non-vegetarian,none,2860,"evening, afternoon, morning",spicy,expert,affordable,"muscle-gain, budget-conscious"
+Naresh_577,69,Male,east,165,47,17.3,Maintenance,sedentary,non-vegetarian,none,1341,"evening, snacks",earthy,intermediate,affordable,budget-conscious
+Kiran_578,71,Female,south,151,58,25.4,Cardiac,sedentary,vegetarian,none,1200,"afternoon, snacks",tangy,expert,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Pushpa_579,59,Female,east,150,54,24.0,Medical Therapy,active,vegetarian,none,1592,"night, snacks",mild,intermediate,moderate,vegetarian-friendly
+Shivam_580,25,Male,east,154,56,23.6,Maintenance,sedentary,non-vegetarian,none,1722,"evening, morning, afternoon",rich,beginner,affordable,"budget-conscious, quick-meal"
+Sushma_581,40,Female,north,150,40,17.8,Maintenance,sedentary,vegetarian,none,1330,"morning, afternoon",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Kabir_582,58,Male,north,176,86,27.8,Weight Loss,active,vegan,none,2221,"night, evening",mild,expert,expensive,"weight-loss-friendly, vegetarian-friendly"
+Anvi_583,27,Female,north,150,40,17.8,Muscle Gain,athletic,vegetarian,none,2513,"morning, evening, afternoon",creamy,beginner,moderate,"muscle-gain, vegetarian-friendly, fitness-focused, quick-meal"
+Anvi_584,42,Female,north,156,64,26.3,Weight Loss,active,non-vegetarian,none,1578,"night, evening, afternoon",rich,expert,moderate,weight-loss-friendly
+Santosh_585,36,Male,east,165,52,19.1,Maintenance,active,non-vegetarian,none,2127,"snacks, morning, afternoon, evening",tangy,beginner,affordable,"budget-conscious, quick-meal"
+Anil_586,43,Male,west,167,58,20.8,Maintenance,active,vegetarian,none,2205,"afternoon, morning, evening",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Sai_587,59,Male,south,164,56,20.8,Maintenance,sedentary,vegetarian,none,1548,"night, evening, morning",spicy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Radha_588,52,Female,east,150,40,17.8,Recovery,athletic,vegetarian,none,2108,"snacks, evening, night",aromatic,expert,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Inaya_589,18,Female,west,153,66,28.2,Weight Loss,athletic,vegetarian,mustard,2262,"evening, snacks",mild,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, fitness-focused, budget-conscious, quick-meal"
+Gaurav_590,29,Male,north,151,69,30.3,Diabetes,active,diabetic-friendly,none,2237,"afternoon, snacks, morning",mild,beginner,affordable,"health-focused, budget-conscious, quick-meal"
+Devraj_591,23,Male,north,176,59,19.0,Muscle Gain,sedentary,vegetarian,none,2211,"afternoon, night, evening, snacks",spicy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Pranav_592,36,Male,north,174,54,17.8,Recovery,sedentary,vegetarian,none,1830,"snacks, night, evening",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Ramesh_593,38,Male,south,159,58,22.9,Muscle Gain,sedentary,non-vegetarian,tree nuts,1995,"afternoon, snacks",spicy,intermediate,moderate,muscle-gain
+Mukesh_594,32,Male,east,162,44,16.8,Maintenance,active,non-vegetarian,none,1974,"snacks, morning",tangy,beginner,expensive,quick-meal
+Akash_595,34,Male,northeast,167,62,22.2,Weight Loss,sedentary,non-vegetarian,"eggs, fish",1332,"evening, morning",aromatic,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Kiran_596,69,Female,north,157,77,31.2,Cardiac,elderly,gluten-free,none,1316,"morning, snacks, evening, night",spicy,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Kiran_597,29,Female,west,158,55,22.0,Muscle Gain,active,non-vegetarian,fish,2346,"afternoon, snacks, night, evening",spicy,intermediate,moderate,muscle-gain
+Sai_598,58,Male,north,180,40,12.3,Muscle Gain,sedentary,vegetarian,none,1690,"afternoon, night, morning",mild,expert,moderate,"muscle-gain, vegetarian-friendly"
+Asha_599,20,Female,south,155,46,19.1,Maintenance,sedentary,non-vegetarian,eggs,1519,"morning, night",spicy,beginner,moderate,quick-meal
+Kabir_600,61,Male,south,162,48,18.3,Maintenance,elderly,vegetarian,none,1395,"snacks, night, afternoon",tangy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Ajay_601,43,Male,northeast,164,63,23.4,Weight Loss,active,non-vegetarian,none,1786,"morning, night",mild,intermediate,moderate,weight-loss-friendly
+Shobha_602,36,Female,north,150,52,23.1,Weight Loss,elderly,vegetarian,none,1200,"evening, morning, afternoon",rich,intermediate,moderate,"weight-loss-friendly, elderly-friendly, vegetarian-friendly"
+Suresh_603,18,Male,south,169,79,27.7,Weight Loss,active,vegetarian,none,2376,"morning, afternoon, evening",spicy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Aahana_604,48,Female,south,150,51,22.7,Maintenance,sedentary,non-vegetarian,none,1411,"morning, night, afternoon",tangy,intermediate,affordable,budget-conscious
+Madhuri_605,22,Female,south,152,56,24.2,Maintenance,active,vegan,none,2078,"morning, snacks, night",spicy,intermediate,expensive,vegetarian-friendly
+Devraj_606,40,Male,east,154,52,21.9,Maintenance,sedentary,non-vegetarian,none,1556,"morning, evening, afternoon, snacks",earthy,beginner,affordable,"budget-conscious, quick-meal"
+Yogesh_607,22,Male,north,166,44,16.0,Muscle Gain,active,vegetarian,gluten,2391,"night, evening",rich,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Lakshya_608,31,Male,west,168,60,21.3,Maintenance,sedentary,non-vegetarian,none,1826,"night, snacks, afternoon, morning",rich,intermediate,affordable,budget-conscious
+Shobha_609,33,Female,north,158,45,18.0,Maintenance,sedentary,vegetarian,mustard,1452,"snacks, afternoon",rich,beginner,moderate,"vegetarian-friendly, quick-meal"
+Maya_610,43,Female,south,150,53,23.6,Muscle Gain,active,vegetarian,tree nuts,2185,"evening, morning, night",spicy,expert,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Sneha_611,34,Female,south,150,51,22.7,Muscle Gain,active,vegetarian,none,2216,"night, afternoon, evening",spicy,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Amit_612,38,Male,west,174,63,20.8,Weight Loss,sedentary,vegetarian,none,1362,"morning, snacks",tangy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Santosh_613,43,Male,south,165,82,30.1,Weight Loss,active,non-vegetarian,eggs,2188,"snacks, night, evening",tangy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Lakshya_614,70,Male,south,165,72,26.4,Cardiac,sedentary,non-vegetarian,none,1436,"afternoon, snacks, night",mild,intermediate,affordable,"health-focused, budget-conscious"
+Vansh_615,32,Male,west,163,62,23.3,Weight Loss,athletic,non-vegetarian,none,2387,"afternoon, evening",aromatic,intermediate,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Diya_616,70,Female,east,150,54,24.0,Maintenance,elderly,non-vegetarian,none,1330,"morning, snacks, evening, afternoon",mild,intermediate,affordable,"elderly-friendly, budget-conscious"
+Gaurav_617,20,Male,northeast,154,46,19.4,Maintenance,active,non-vegetarian,none,2061,"morning, afternoon, snacks",tangy,beginner,affordable,"budget-conscious, quick-meal"
+Ayaan_618,40,Male,east,161,72,27.8,Weight Loss,sedentary,non-vegetarian,none,1418,"morning, snacks, afternoon",creamy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Pankaj_619,71,Male,south,163,60,22.6,Cardiac,sedentary,non-vegetarian,none,1225,"morning, afternoon, evening",spicy,intermediate,affordable,"health-focused, budget-conscious"
+Reyansh_620,40,Male,west,175,65,21.2,Weight Loss,active,vegetarian,none,1936,"night, snacks, morning",earthy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Sneha_621,52,Female,east,150,58,25.8,Maintenance,active,non-vegetarian,none,1896,"afternoon, morning",creamy,intermediate,affordable,budget-conscious
+Kabir_622,65,Male,north,160,73,28.5,Maintenance,elderly,vegetarian,none,1758,"snacks, evening, morning",creamy,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Mahesh_623,23,Male,north,170,52,18.0,Muscle Gain,active,vegetarian,fish,2578,"evening, snacks, morning",mild,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Shanaya_624,30,Female,east,151,40,17.5,Muscle Gain,athletic,non-vegetarian,gluten,2495,"snacks, afternoon",tangy,beginner,moderate,"muscle-gain, fitness-focused, quick-meal"
+Pranav_625,45,Male,south,166,63,22.9,Maintenance,active,non-vegetarian,none,2283,"evening, snacks, morning, night",spicy,beginner,affordable,"budget-conscious, quick-meal"
+Abhishek_626,44,Male,west,159,72,28.5,Maintenance,active,non-vegetarian,none,2427,"night, snacks, morning",sweet,intermediate,affordable,budget-conscious
+Kavita_627,54,Female,west,157,61,24.7,Maintenance,active,non-vegetarian,none,1959,"night, evening, snacks",mild,intermediate,affordable,budget-conscious
+Pranav_628,30,Male,north,167,81,29.0,Cardiac,active,vegetarian,none,2497,"night, afternoon",creamy,beginner,affordable,"vegetarian-friendly, health-focused, budget-conscious, quick-meal"
+Shanaya_629,29,Female,south,150,54,24.0,Muscle Gain,active,non-vegetarian,none,2293,"night, afternoon",spicy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Dinesh_630,38,Male,east,154,49,20.7,Maintenance,sedentary,vegetarian,none,1521,"snacks, night, morning, evening",sweet,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Shanaya_631,70,Female,north,152,46,19.9,Cardiac,elderly,non-vegetarian,none,1200,"afternoon, night",rich,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Arjun_632,48,Male,north,172,68,23.0,Weight Loss,sedentary,non-vegetarian,none,1362,"snacks, night, afternoon",creamy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Deepak_633,36,Male,south,158,57,22.8,Maintenance,active,vegetarian,none,2179,"snacks, afternoon, night",tangy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Anvi_634,50,Female,east,150,55,24.4,Maintenance,sedentary,vegetarian,"nuts, gluten",1445,"evening, morning, afternoon",sweet,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Sunita_635,70,Female,north,163,45,16.9,Medical Therapy,sedentary,vegetarian,none,1200,"morning, afternoon",mild,expert,affordable,"vegetarian-friendly, budget-conscious"
+Kiara_636,53,Female,east,150,51,22.7,Muscle Gain,sedentary,non-vegetarian,none,1685,"evening, night",mild,expert,affordable,"muscle-gain, budget-conscious"
+Shobha_637,54,Other,north,165,63,23.1,Maintenance,elderly,non-vegetarian,none,1569,"snacks, morning",mild,intermediate,affordable,"elderly-friendly, budget-conscious"
+Aahana_638,40,Female,east,150,52,23.1,Weight Loss,athletic,non-vegetarian,none,1817,"afternoon, snacks, night",aromatic,beginner,affordable,"weight-loss-friendly, fitness-focused, budget-conscious, quick-meal"
+Pihu_639,59,Female,west,154,60,25.3,Weight Loss,sedentary,vegetarian,none,1200,"evening, snacks, morning",sweet,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Vikash_640,26,Male,south,151,65,28.5,Weight Loss,active,vegetarian,none,1881,"afternoon, morning, evening",spicy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Dinesh_641,73,Male,west,182,40,12.1,Cardiac,elderly,non-vegetarian,none,1200,"night, afternoon",creamy,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Madhuri_642,75,Female,south,151,52,22.8,Maintenance,elderly,non-vegetarian,none,1285,"snacks, afternoon, night",spicy,expert,affordable,"elderly-friendly, budget-conscious"
+Rajesh_643,32,Male,northeast,157,50,20.3,Medical Therapy,sedentary,non-vegetarian,none,1395,"snacks, evening, afternoon, night",spicy,intermediate,affordable,budget-conscious
+Rita_644,41,Female,east,152,49,21.2,Weight Loss,active,vegetarian,none,1350,"snacks, evening, afternoon",sweet,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Vanya_645,38,Female,south,150,40,17.8,Muscle Gain,active,non-vegetarian,none,2032,"evening, night",spicy,intermediate,moderate,muscle-gain
+Rita_646,25,Female,north,158,64,25.6,Maintenance,athletic,vegetarian,none,2699,"morning, night, afternoon, snacks",mild,beginner,affordable,"vegetarian-friendly, fitness-focused, budget-conscious, quick-meal"
+Atharv_647,40,Male,south,160,75,29.3,Weight Loss,sedentary,vegetarian,none,1460,"evening, night, morning",tangy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Ajay_648,50,Male,north,162,62,23.6,Weight Loss,sedentary,vegan,none,1200,"afternoon, snacks",mild,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Vihaan_649,37,Male,north,167,78,28.0,Diabetes,sedentary,vegan,none,1869,"evening, night",mild,beginner,affordable,"vegetarian-friendly, health-focused, budget-conscious, quick-meal"
+Manoj_650,71,Male,west,161,73,28.2,Maintenance,elderly,non-vegetarian,none,1723,"afternoon, snacks, night",sweet,intermediate,affordable,"elderly-friendly, budget-conscious"
+Amit_651,43,Male,south,165,76,27.9,Weight Loss,sedentary,non-vegetarian,none,1485,"night, afternoon, snacks, evening",spicy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Vanya_652,70,Female,west,159,60,23.7,Maintenance,sedentary,vegetarian,none,1430,"night, snacks",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Harsh_653,24,Male,east,156,58,23.8,Recovery,athletic,non-vegetarian,none,2907,"afternoon, evening, morning",aromatic,beginner,affordable,"fitness-focused, budget-conscious, quick-meal"
+Kabir_654,22,Male,east,159,53,21.0,Weight Loss,active,non-vegetarian,none,1726,"snacks, night",tangy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Arya_655,21,Female,east,150,47,20.9,Weight Loss,active,non-vegetarian,none,1446,"snacks, morning, evening",earthy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Saanvi_656,46,Female,east,155,63,26.2,Weight Loss,active,non-vegetarian,none,1532,"morning, snacks, night",earthy,intermediate,moderate,weight-loss-friendly
+Pranav_657,30,Male,east,170,65,22.5,Recovery,active,non-vegetarian,none,2587,"afternoon, snacks, morning",spicy,intermediate,affordable,budget-conscious
+Manju_658,67,Female,east,152,45,19.5,Medical Therapy,elderly,vegetarian,none,1200,"afternoon, morning, night",creamy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Asha_659,61,Female,east,152,55,23.8,Maintenance,elderly,vegetarian,none,1395,"night, evening",earthy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Kiara_660,46,Female,north,150,56,24.9,Weight Loss,sedentary,vegan,none,1200,"snacks, night, evening",mild,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Usha_661,30,Female,north,150,40,17.8,Muscle Gain,athletic,non-vegetarian,none,2489,"morning, snacks, evening",creamy,expert,moderate,"muscle-gain, fitness-focused"
+Deepika_662,53,Female,south,151,61,26.8,Weight Loss,elderly,non-vegetarian,none,1200,"night, morning, snacks",spicy,expert,affordable,"weight-loss-friendly, elderly-friendly, budget-conscious"
+Neha_663,31,Female,west,154,43,18.1,Muscle Gain,active,non-vegetarian,none,2141,"evening, snacks, morning, afternoon",creamy,beginner,moderate,"muscle-gain, quick-meal"
+Arya_664,55,Female,south,156,71,29.2,Weight Loss,elderly,non-vegetarian,none,1200,"morning, snacks, evening, night",spicy,expert,affordable,"weight-loss-friendly, elderly-friendly, budget-conscious"
+Rajesh_665,45,Male,north,169,52,18.2,Muscle Gain,sedentary,vegan,none,1908,"afternoon, evening, snacks",creamy,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Ravi_666,54,Male,north,165,64,23.5,Maintenance,sedentary,vegetarian,none,1717,"night, morning",mild,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Atharv_667,20,Male,north,170,57,19.7,Maintenance,athletic,non-vegetarian,none,2953,"night, snacks",mild,intermediate,affordable,"fitness-focused, budget-conscious"
+Ajay_668,73,Male,north,169,43,15.1,Maintenance,elderly,vegetarian,"gluten, mustard",1273,"afternoon, evening, night",mild,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Krishna_669,62,Male,northeast,174,47,15.5,Medical Therapy,elderly,non-vegetarian,mustard,1241,"morning, snacks",mild,intermediate,affordable,"elderly-friendly, budget-conscious"
+Radha_670,25,Female,north,157,45,18.3,Muscle Gain,sedentary,vegetarian,none,1790,"night, snacks, evening",spicy,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Rekha_671,25,Female,east,150,52,23.1,Diabetes,athletic,non-vegetarian,none,2241,"morning, snacks, evening, night",earthy,intermediate,affordable,"health-focused, fitness-focused, budget-conscious"
+Myra_672,32,Female,east,150,59,26.2,Maintenance,sedentary,vegetarian,none,1583,"night, snacks, evening",tangy,intermediate,moderate,vegetarian-friendly
+Siddharth_673,20,Male,north,169,75,26.3,Diabetes,active,diabetic-friendly,none,2575,"snacks, morning",mild,intermediate,affordable,"health-focused, budget-conscious"
+Neha_674,66,Female,north,154,42,17.7,Cardiac,elderly,vegetarian,none,1200,"morning, afternoon, snacks",rich,expert,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Anil_675,29,Male,north,172,52,17.6,Muscle Gain,sedentary,vegan,none,2034,"snacks, night, afternoon",rich,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Saanvi_676,20,Female,east,150,45,20.0,Maintenance,athletic,vegetarian,none,2359,"morning, evening, night",tangy,intermediate,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Kiran_677,44,Female,west,152,50,21.6,Maintenance,sedentary,non-vegetarian,mustard,1428,"morning, afternoon, night",rich,beginner,affordable,"budget-conscious, quick-meal"
+Vihaan_678,55,Male,west,156,81,33.3,Cardiac,sedentary,non-vegetarian,none,1631,"afternoon, snacks, evening",tangy,expert,moderate,health-focused
+Nikhil_679,74,Male,east,170,64,22.1,Maintenance,elderly,non-vegetarian,none,1609,"morning, evening, snacks",rich,intermediate,affordable,"elderly-friendly, budget-conscious"
+Ajay_680,58,Male,south,165,64,23.5,Muscle Gain,active,vegan,none,2482,"afternoon, night, evening, snacks",spicy,expert,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Meera_681,53,Female,east,156,46,18.9,Cardiac,athletic,non-vegetarian,none,1840,"afternoon, morning, evening",earthy,expert,affordable,"health-focused, fitness-focused, budget-conscious"
+Naresh_682,55,Male,south,156,80,32.9,Weight Loss,sedentary,non-vegetarian,none,1415,"evening, morning",spicy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Dhruv_683,63,Male,north,165,55,20.2,Medical Therapy,elderly,vegetarian,none,1311,"night, afternoon, morning",rich,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Pooja_684,35,Female,west,154,55,23.2,Cardiac,sedentary,vegan,none,1238,"snacks, night",sweet,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Saraswati_685,34,Female,north,158,40,16.0,Muscle Gain,sedentary,vegetarian,none,1691,"evening, morning",rich,intermediate,expensive,"muscle-gain, vegetarian-friendly"
+Abhishek_686,74,Male,west,174,60,19.8,Medical Therapy,elderly,non-vegetarian,none,1368,"evening, night",sweet,intermediate,affordable,"elderly-friendly, budget-conscious"
+Himanshu_687,45,Male,south,159,58,22.9,Weight Loss,sedentary,non-vegetarian,none,1200,"afternoon, evening",mild,intermediate,moderate,weight-loss-friendly
+Deepika_688,46,Female,east,150,40,17.8,Recovery,elderly,non-vegetarian,none,1399,"night, snacks",earthy,beginner,affordable,"elderly-friendly, budget-conscious, quick-meal"
+Arya_689,43,Female,west,150,50,22.2,Diabetes,sedentary,diabetic-friendly,none,1226,"snacks, night, morning",aromatic,intermediate,affordable,"health-focused, budget-conscious"
+Yogesh_690,38,Male,south,162,49,18.7,Weight Loss,active,non-vegetarian,none,1525,"snacks, evening, morning",spicy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Manju_691,40,Female,south,150,49,21.8,Weight Loss,sedentary,vegetarian,dairy,1200,"morning, evening, snacks",mild,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, dairy-free"
+Meera_692,66,Female,south,150,40,17.8,Diabetes,sedentary,non-vegetarian,none,1200,"afternoon, night",mild,intermediate,affordable,"health-focused, budget-conscious"
+Karthik_693,74,Male,east,150,47,20.9,Medical Therapy,sedentary,vegetarian,none,1200,"evening, morning",sweet,expert,affordable,"vegetarian-friendly, budget-conscious"
+Myra_694,55,Female,north,151,51,22.4,Muscle Gain,active,vegan,none,2080,"morning, evening, afternoon",mild,intermediate,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Atharv_695,40,Male,south,163,68,25.6,Maintenance,athletic,vegetarian,none,2953,"evening, morning",spicy,intermediate,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Aisha_696,66,Female,east,154,52,21.9,Medical Therapy,elderly,non-vegetarian,none,1200,"morning, afternoon, night",rich,intermediate,affordable,"elderly-friendly, budget-conscious"
+Nita_697,37,Female,north,151,52,22.8,Muscle Gain,elderly,vegetarian,none,1783,"snacks, night, morning",spicy,expert,affordable,"muscle-gain, elderly-friendly, vegetarian-friendly, budget-conscious"
+Vihaan_698,67,Male,east,160,56,21.9,Medical Therapy,elderly,non-vegetarian,none,1271,"morning, evening",tangy,expert,moderate,elderly-friendly
+Deepak_699,39,Male,northeast,153,57,24.3,Weight Loss,active,non-vegetarian,dairy,1615,"snacks, evening",sweet,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal, dairy-free"
+Meera_700,31,Female,north,163,53,19.9,Muscle Gain,sedentary,vegetarian,dairy,1870,"evening, night",spicy,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal, dairy-free"
+Lakshya_701,33,Male,east,153,66,28.2,Maintenance,active,non-vegetarian,"tree nuts, dairy",2355,"snacks, afternoon, evening",tangy,beginner,moderate,"quick-meal, dairy-free"
+Neha_702,55,Female,north,155,40,16.6,Maintenance,sedentary,non-vegetarian,none,1271,"afternoon, night, morning, evening",creamy,expert,moderate,general
+Khushi_703,52,Female,south,150,57,25.3,Weight Loss,active,non-vegetarian,none,1382,"evening, snacks",spicy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Usha_704,26,Female,east,150,52,23.1,Maintenance,active,gluten-free,none,1984,"afternoon, morning, night",spicy,beginner,affordable,"budget-conscious, quick-meal"
+Geeta_705,18,Female,west,150,48,21.3,Weight Loss,athletic,non-vegetarian,none,1928,"evening, night, afternoon",mild,intermediate,moderate,"weight-loss-friendly, fitness-focused"
+Rekha_706,21,Female,north,158,40,16.0,Muscle Gain,active,vegetarian,tree nuts,2184,"morning, evening",mild,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Suresh_707,64,Male,south,163,78,29.4,Medical Therapy,sedentary,non-vegetarian,none,1662,"afternoon, night, evening, morning",spicy,expert,affordable,budget-conscious
+Harsh_708,18,Male,east,154,54,22.8,Cardiac,athletic,non-vegetarian,none,2452,"morning, afternoon, night",tangy,intermediate,moderate,"health-focused, fitness-focused"
+Aarav_709,68,Male,north,178,67,21.1,Cardiac,sedentary,non-vegetarian,none,1444,"night, evening, snacks",creamy,intermediate,affordable,"health-focused, budget-conscious"
+Meera_710,23,Female,east,150,44,19.6,Recovery,active,non-vegetarian,none,1990,"evening, night",rich,beginner,affordable,"budget-conscious, quick-meal"
+Siddharth_711,45,Male,south,166,80,29.0,Weight Loss,active,gluten-free,none,2137,"night, afternoon, snacks, evening",mild,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Shanti_712,31,Female,northeast,153,53,22.6,Maintenance,athletic,non-vegetarian,none,2427,"afternoon, night, snacks, morning",creamy,beginner,affordable,"fitness-focused, budget-conscious, quick-meal"
+Nikhil_713,70,Male,west,168,63,22.3,Diabetes,elderly,non-vegetarian,none,1409,"evening, snacks",rich,intermediate,moderate,"elderly-friendly, health-focused"
+Naresh_714,51,Male,north,165,70,25.7,Diabetes,sedentary,vegan,none,1634,"night, afternoon, snacks",creamy,intermediate,moderate,"vegetarian-friendly, health-focused"
+Meera_715,65,Female,west,150,48,21.3,Medical Therapy,elderly,non-vegetarian,none,1200,"evening, night, afternoon, morning",creamy,intermediate,moderate,elderly-friendly
+Ajay_716,37,Male,north,158,54,21.6,Maintenance,active,vegetarian,none,2107,"afternoon, snacks",rich,intermediate,moderate,vegetarian-friendly
+Shobha_717,69,Female,northeast,153,52,22.2,Diabetes,elderly,non-vegetarian,none,1200,"snacks, morning, evening",spicy,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Harsh_718,60,Male,west,167,65,23.3,Cardiac,elderly,vegetarian,mustard,1403,"afternoon, night, snacks",earthy,expert,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Madhuri_719,49,Female,south,150,60,26.7,Weight Loss,active,non-vegetarian,none,1445,"morning, night, evening, afternoon",mild,beginner,moderate,"weight-loss-friendly, quick-meal"
+Kabir_720,57,Male,east,155,63,26.2,Diabetes,active,non-vegetarian,none,1896,"evening, afternoon, night, morning",sweet,expert,moderate,health-focused
+Manju_721,21,Female,south,150,49,21.8,Maintenance,active,non-vegetarian,none,1975,"night, snacks, morning, afternoon",tangy,intermediate,moderate,general
+Shanti_722,72,Female,east,151,53,23.2,Cardiac,elderly,non-vegetarian,none,1200,"night, snacks, evening, afternoon",mild,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Vishal_723,37,Male,south,161,56,21.6,Maintenance,active,non-vegetarian,none,2171,"morning, evening",tangy,expert,moderate,general
+Anil_724,22,Male,south,157,62,25.2,Weight Loss,active,non-vegetarian,none,1898,"snacks, morning, night",tangy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Saraswati_725,62,Female,east,155,53,22.1,Medical Therapy,sedentary,non-vegetarian,none,1200,"afternoon, evening, morning",earthy,intermediate,affordable,budget-conscious
+Maya_726,51,Female,south,158,68,27.2,Maintenance,active,vegetarian,none,2084,"snacks, morning, evening",spicy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Pradeep_727,26,Male,northeast,159,62,24.5,Muscle Gain,active,non-vegetarian,none,2678,"night, evening, afternoon",rich,expert,affordable,"muscle-gain, budget-conscious"
+Sara_728,39,Female,north,165,56,20.6,Maintenance,active,gluten-free,none,2026,"morning, snacks",mild,intermediate,moderate,general
+Vanya_729,45,Female,north,156,49,20.1,Maintenance,sedentary,non-vegetarian,none,1426,"afternoon, snacks, night, evening",mild,intermediate,expensive,general
+Nikhil_730,58,Male,south,163,50,18.8,Maintenance,elderly,non-vegetarian,eggs,1453,"snacks, afternoon",mild,expert,affordable,"elderly-friendly, budget-conscious"
+Vansh_731,49,Male,east,166,58,21.0,Muscle Gain,elderly,gluten-free,none,1960,"morning, night, snacks",tangy,beginner,affordable,"muscle-gain, elderly-friendly, budget-conscious, quick-meal"
+Manoj_732,52,Male,south,160,87,34.0,Weight Loss,athletic,vegetarian,none,2780,"night, morning, snacks",tangy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, fitness-focused, budget-conscious"
+Mahesh_733,32,Male,west,180,70,21.6,Muscle Gain,active,vegetarian,none,2947,"afternoon, evening, snacks, night",aromatic,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Rita_734,48,Female,south,162,52,19.8,Weight Loss,active,non-vegetarian,none,1394,"afternoon, night, snacks",spicy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Devraj_735,68,Male,north,164,59,21.9,Cardiac,elderly,vegetarian,none,1235,"morning, night",mild,expert,moderate,"elderly-friendly, vegetarian-friendly, health-focused"
+Renu_736,54,Female,north,150,62,27.6,Weight Loss,sedentary,non-vegetarian,none,1200,"night, evening, morning",rich,expert,moderate,weight-loss-friendly
+Santosh_737,37,Male,south,169,57,20.0,Muscle Gain,active,non-vegetarian,none,2552,"morning, snacks, night",mild,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Siddharth_738,61,Male,north,167,86,30.8,Maintenance,sedentary,vegetarian,none,2034,"morning, afternoon, evening, snacks",mild,expert,moderate,vegetarian-friendly
+Akash_739,47,Male,south,170,74,25.6,Maintenance,athletic,non-vegetarian,gluten,3094,"snacks, afternoon, night",spicy,intermediate,affordable,"fitness-focused, budget-conscious"
+Deepak_740,22,Male,east,156,57,23.4,Maintenance,active,non-vegetarian,none,2287,"night, snacks, morning",spicy,beginner,moderate,quick-meal
+Radha_741,30,Female,northeast,150,51,22.7,Cardiac,athletic,vegetarian,none,2082,"afternoon, snacks, evening",creamy,expert,moderate,"vegetarian-friendly, health-focused, fitness-focused"
+Ramesh_742,39,Male,north,172,72,24.3,Muscle Gain,sedentary,gluten-free,eggs,2288,"night, morning, evening",rich,beginner,moderate,"muscle-gain, quick-meal"
+Gaurav_743,70,Male,east,150,84,37.3,Maintenance,sedentary,vegetarian,none,1843,"afternoon, night",spicy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Suman_744,74,Female,south,153,56,23.9,Medical Therapy,elderly,non-vegetarian,none,1200,"night, snacks, morning",spicy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Manju_745,55,Female,east,150,50,22.2,Medical Therapy,athletic,non-vegetarian,none,1959,"afternoon, snacks",aromatic,intermediate,affordable,"fitness-focused, budget-conscious"
+Khushi_746,31,Female,west,150,50,22.2,Maintenance,sedentary,vegetarian,none,1488,"morning, snacks, evening, night",rich,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Atharv_747,45,Male,south,173,78,26.1,Weight Loss,athletic,non-vegetarian,none,2745,"evening, afternoon, night, morning",spicy,beginner,affordable,"weight-loss-friendly, fitness-focused, budget-conscious, quick-meal"
+Vanya_748,29,Female,north,156,61,25.1,Weight Loss,active,vegetarian,none,1622,"night, evening, snacks",creamy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Lakshya_749,61,Male,north,167,85,30.5,Medical Therapy,elderly,vegetarian,none,1818,"snacks, night",spicy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Suman_750,35,Female,north,155,62,25.8,Cardiac,sedentary,vegetarian,none,1319,"morning, evening",mild,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Vansh_751,27,Male,north,170,70,24.2,Muscle Gain,sedentary,vegetarian,tree nuts,2326,"night, afternoon, evening",spicy,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Suneel_752,60,Male,north,156,79,32.5,Maintenance,elderly,vegetarian,tree nuts,1865,"evening, morning, snacks",creamy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Kabir_753,63,Male,north,165,64,23.5,Medical Therapy,elderly,vegetarian,none,1455,"evening, morning, night",rich,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Shanaya_754,67,Female,south,154,58,24.5,Maintenance,elderly,non-vegetarian,none,1405,"morning, afternoon, night",mild,expert,moderate,elderly-friendly
+Anil_755,72,Male,north,156,77,31.6,Maintenance,elderly,vegan,none,1751,"afternoon, night",rich,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Pranav_756,66,Male,north,167,56,20.1,Maintenance,sedentary,non-vegetarian,none,1518,"snacks, afternoon, evening",creamy,intermediate,moderate,general
+Lakshya_757,62,Male,south,163,86,32.4,Medical Therapy,elderly,non-vegetarian,none,1804,"night, afternoon, snacks",tangy,expert,affordable,"elderly-friendly, budget-conscious"
+Abhishek_758,35,Male,west,179,59,18.4,Recovery,sedentary,non-vegetarian,none,1946,"snacks, afternoon, evening",creamy,intermediate,affordable,budget-conscious
+Aryan_759,68,Male,west,175,69,22.5,Cardiac,elderly,vegetarian,none,1459,"night, evening, morning",mild,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Aditya_760,69,Male,south,166,52,18.9,Maintenance,elderly,non-vegetarian,nuts,1427,"night, morning, afternoon",spicy,intermediate,moderate,elderly-friendly
+Aadhya_761,58,Female,east,150,56,24.9,Recovery,active,non-vegetarian,none,1927,"night, afternoon",rich,intermediate,affordable,budget-conscious
+Rohit_762,45,Male,west,168,62,22.0,Muscle Gain,athletic,vegetarian,none,3092,"night, snacks",earthy,beginner,moderate,"muscle-gain, vegetarian-friendly, fitness-focused, quick-meal"
+Pranav_763,21,Male,south,154,55,23.2,Diabetes,athletic,non-vegetarian,none,2545,"night, snacks",spicy,beginner,affordable,"health-focused, fitness-focused, budget-conscious, quick-meal"
+Manju_764,30,Female,north,153,59,25.2,Cardiac,active,vegetarian,none,1772,"night, snacks, morning, evening",mild,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Ajay_765,69,Male,north,163,52,19.6,Maintenance,elderly,non-vegetarian,none,1410,"morning, afternoon, night",spicy,intermediate,affordable,"elderly-friendly, budget-conscious"
+Saanvi_766,63,Female,south,150,42,18.7,Cardiac,sedentary,non-vegetarian,none,1200,"evening, afternoon, snacks",tangy,intermediate,affordable,"health-focused, budget-conscious"
+Manoj_767,74,Male,west,168,78,27.6,Maintenance,sedentary,vegetarian,none,1823,"afternoon, night, evening",spicy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Parvati_768,44,Female,north,150,54,24.0,Recovery,sedentary,gluten-free,none,1565,"night, morning, evening, snacks",mild,beginner,affordable,"budget-conscious, quick-meal"
+Ravi_769,30,Male,north,163,84,31.6,Weight Loss,active,vegetarian,none,2329,"snacks, evening",spicy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, quick-meal"
+Sneha_770,29,Female,north,150,55,24.4,Weight Loss,active,gluten-free,none,1507,"morning, night, evening, snacks",rich,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Geeta_771,56,Female,north,150,45,20.0,Weight Loss,sedentary,non-vegetarian,none,1200,"morning, afternoon, night",spicy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Reyansh_772,57,Male,south,164,65,24.2,Weight Loss,active,vegetarian,none,1705,"night, evening, afternoon",spicy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Myra_773,50,Female,north,150,66,29.3,Weight Loss,elderly,non-vegetarian,none,1200,"night, morning",rich,expert,affordable,"weight-loss-friendly, elderly-friendly, budget-conscious"
+Saraswati_774,18,Female,east,150,46,20.4,Weight Loss,sedentary,non-vegetarian,none,1200,"afternoon, snacks",tangy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Naresh_775,43,Male,north,166,65,23.6,Maintenance,sedentary,non-vegetarian,none,1814,"snacks, evening, night",spicy,beginner,affordable,"budget-conscious, quick-meal"
+Gaurav_776,51,Male,south,165,67,24.6,Maintenance,sedentary,vegan,none,1785,"night, afternoon, evening",tangy,intermediate,moderate,vegetarian-friendly
+Kabir_777,70,Male,north,158,74,29.6,Maintenance,elderly,vegetarian,none,1728,"afternoon, snacks, morning",mild,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Ajay_778,20,Male,south,171,69,23.6,Weight Loss,sedentary,non-vegetarian,none,1563,"evening, snacks, night, morning",tangy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Karthik_779,35,Male,south,164,85,31.6,Weight Loss,sedentary,vegetarian,"mustard, nuts",1678,"evening, snacks, night",tangy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Mukesh_780,32,Male,south,163,74,27.9,Diabetes,sedentary,diabetic-friendly,none,1816,"morning, afternoon, night, snacks",mild,beginner,affordable,"health-focused, budget-conscious, quick-meal"
+Ravi_781,22,Male,north,154,59,24.9,Weight Loss,athletic,vegetarian,none,2336,"afternoon, snacks",mild,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly, fitness-focused"
+Rajesh_782,35,Male,east,150,62,27.6,Weight Loss,active,non-vegetarian,none,1732,"afternoon, evening, morning, snacks",creamy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Himanshu_783,31,Male,west,162,62,23.6,Muscle Gain,active,gluten-free,none,2656,"afternoon, evening, night, snacks",earthy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Meera_784,68,Female,south,150,53,23.6,Maintenance,elderly,vegetarian,none,1329,"night, morning, evening",tangy,expert,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Yogesh_785,57,Male,west,164,60,22.3,Muscle Gain,elderly,vegetarian,none,1926,"morning, night",tangy,expert,affordable,"muscle-gain, elderly-friendly, vegetarian-friendly, budget-conscious"
+Asha_786,47,Female,east,150,44,19.6,Muscle Gain,sedentary,non-vegetarian,none,1638,"evening, snacks",tangy,intermediate,affordable,"muscle-gain, budget-conscious"
+Harsh_787,49,Male,northeast,160,51,19.9,Diabetes,active,diabetic-friendly,none,1754,"night, evening, snacks, morning",sweet,beginner,moderate,"health-focused, quick-meal"
+Yogesh_788,52,Male,west,169,45,15.8,Muscle Gain,sedentary,non-vegetarian,none,1748,"morning, night",spicy,intermediate,moderate,muscle-gain
+Abhishek_789,68,Male,east,153,53,22.6,Diabetes,elderly,non-vegetarian,mustard,1200,"evening, morning, snacks",mild,expert,moderate,"elderly-friendly, health-focused"
+Nikhil_790,63,Male,west,175,52,17.0,Maintenance,sedentary,non-vegetarian,none,1520,"afternoon, night, morning",aromatic,intermediate,affordable,budget-conscious
+Himanshu_791,74,Male,north,160,71,27.7,Medical Therapy,sedentary,non-vegetarian,none,1464,"evening, snacks, afternoon",spicy,intermediate,moderate,general
+Pooja_792,36,Female,north,159,55,21.8,Maintenance,sedentary,vegetarian,none,1551,"snacks, afternoon, evening, night",spicy,intermediate,moderate,vegetarian-friendly
+Siddharth_793,64,Male,west,168,60,21.3,Maintenance,sedentary,vegetarian,mustard,1602,"morning, snacks, night",mild,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Lata_794,39,Female,north,158,40,16.0,Muscle Gain,sedentary,non-vegetarian,none,1665,"night, morning",creamy,expert,affordable,"muscle-gain, budget-conscious"
+Sai_795,54,Male,south,156,58,23.8,Weight Loss,sedentary,non-vegetarian,none,1200,"afternoon, night, snacks, morning",spicy,intermediate,moderate,weight-loss-friendly
+Vedant_796,41,Male,north,161,53,20.4,Maintenance,sedentary,non-vegetarian,none,1605,"afternoon, snacks",rich,beginner,affordable,"budget-conscious, quick-meal"
+Pradeep_797,61,Male,south,163,60,22.6,Medical Therapy,elderly,vegan,none,1393,"evening, afternoon, night, morning",spicy,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Maya_798,53,Female,south,150,52,23.1,Maintenance,active,non-vegetarian,none,1803,"evening, snacks, morning",spicy,intermediate,expensive,general
+Sunita_799,22,Female,east,151,50,21.9,Muscle Gain,athletic,vegetarian,none,2736,"afternoon, morning, snacks",rich,intermediate,moderate,"muscle-gain, vegetarian-friendly, fitness-focused"
+Lata_800,29,Female,south,160,51,19.9,Muscle Gain,athletic,vegetarian,nuts,2749,"afternoon, night, evening, morning",spicy,intermediate,moderate,"muscle-gain, vegetarian-friendly, fitness-focused"
+Manju_801,73,Female,east,150,40,17.8,Maintenance,elderly,non-vegetarian,none,1200,"morning, snacks",tangy,intermediate,moderate,elderly-friendly
+Vikash_802,49,Male,north,171,71,24.3,Weight Loss,active,vegetarian,none,1952,"night, morning, snacks",creamy,expert,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Suman_803,63,Female,west,150,63,28.0,Medical Therapy,elderly,gluten-free,none,1266,"afternoon, night, morning",aromatic,intermediate,affordable,"elderly-friendly, budget-conscious"
+Aadhya_804,48,Female,north,150,46,20.4,Muscle Gain,sedentary,vegetarian,none,1655,"evening, morning",rich,expert,moderate,"muscle-gain, vegetarian-friendly"
+Geeta_805,61,Female,south,152,44,19.0,Maintenance,elderly,non-vegetarian,none,1273,"afternoon, night, morning",tangy,expert,moderate,elderly-friendly
+Riya_806,35,Female,west,154,52,21.9,Weight Loss,sedentary,vegan,none,1200,"night, morning, evening",creamy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Dhruv_807,65,Male,east,150,40,17.8,Maintenance,elderly,non-vegetarian,none,1200,"morning, evening, afternoon",earthy,intermediate,moderate,elderly-friendly
+Santosh_808,40,Male,south,166,75,27.2,Weight Loss,active,vegetarian,none,2077,"afternoon, night, morning",spicy,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, quick-meal"
+Pradeep_809,36,Male,east,155,47,19.6,Cardiac,sedentary,non-vegetarian,none,1208,"afternoon, morning, evening, night",mild,intermediate,moderate,health-focused
+Gaurav_810,47,Male,south,170,57,19.7,Muscle Gain,sedentary,non-vegetarian,none,1981,"afternoon, night, snacks",spicy,intermediate,affordable,"muscle-gain, budget-conscious"
+Mahesh_811,54,Male,west,162,59,22.5,Weight Loss,active,vegan,none,1591,"afternoon, snacks",aromatic,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Pranav_812,67,Male,north,165,68,25.0,Diabetes,elderly,diabetic-friendly,none,1493,"snacks, night, morning",mild,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Krishna_813,58,Male,west,161,44,17.0,Muscle Gain,sedentary,vegetarian,none,1645,"morning, afternoon",mild,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Dinesh_814,49,Male,east,158,56,22.4,Weight Loss,elderly,non-vegetarian,none,1200,"morning, night",sweet,expert,moderate,"weight-loss-friendly, elderly-friendly"
+Kavita_815,54,Female,north,159,66,26.1,Weight Loss,active,vegetarian,none,1540,"night, evening, morning, snacks",rich,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Ravi_816,35,Male,west,155,46,19.1,Weight Loss,sedentary,non-vegetarian,none,1200,"morning, afternoon, evening, night",sweet,intermediate,moderate,weight-loss-friendly
+Saraswati_817,54,Female,south,158,53,21.2,Weight Loss,sedentary,non-vegetarian,none,1200,"morning, evening, snacks",tangy,intermediate,moderate,weight-loss-friendly
+Akash_818,32,Male,west,167,54,19.4,Muscle Gain,sedentary,gluten-free,none,2017,"snacks, afternoon",tangy,intermediate,moderate,muscle-gain
+Naresh_819,69,Male,west,156,53,21.8,Maintenance,elderly,non-vegetarian,none,1386,"night, evening, snacks",mild,expert,expensive,elderly-friendly
+Arjun_820,36,Male,south,176,52,16.8,Muscle Gain,active,vegetarian,none,2509,"afternoon, night, snacks",mild,beginner,moderate,"muscle-gain, vegetarian-friendly, quick-meal"
+Inaya_821,56,Female,south,150,51,22.7,Weight Loss,active,vegan,none,1269,"afternoon, night, evening",mild,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Shanti_822,32,Female,east,150,40,17.8,Muscle Gain,sedentary,non-vegetarian,none,1672,"morning, snacks, afternoon",creamy,intermediate,affordable,"muscle-gain, budget-conscious"
+Priya_823,40,Female,north,154,55,23.2,Diabetes,active,diabetic-friendly,gluten,1753,"night, snacks",spicy,intermediate,affordable,"health-focused, budget-conscious"
+Sunita_824,24,Female,south,154,40,16.9,Muscle Gain,active,non-vegetarian,fish,2145,"afternoon, night, morning",mild,intermediate,affordable,"muscle-gain, budget-conscious"
+Vihaan_825,42,Male,south,165,60,22.0,Maintenance,sedentary,non-vegetarian,none,1734,"snacks, morning, night",mild,beginner,moderate,quick-meal
+Vanya_826,59,Female,north,162,59,22.5,Muscle Gain,elderly,vegetarian,none,1787,"afternoon, morning",rich,intermediate,affordable,"muscle-gain, elderly-friendly, vegetarian-friendly, budget-conscious"
+Kiara_827,46,Female,east,150,49,21.8,Muscle Gain,athletic,non-vegetarian,tree nuts,2515,"night, evening, snacks",mild,intermediate,moderate,"muscle-gain, fitness-focused"
+Suneel_828,71,Male,south,169,40,14.0,Medical Therapy,elderly,non-vegetarian,none,1200,"snacks, night, afternoon",spicy,intermediate,moderate,elderly-friendly
+Madhuri_829,54,Female,west,163,56,21.1,Weight Loss,elderly,non-vegetarian,none,1200,"night, morning, evening, snacks",tangy,intermediate,moderate,"weight-loss-friendly, elderly-friendly"
+Ravi_830,68,Male,west,167,75,26.9,Medical Therapy,sedentary,non-vegetarian,"dairy, nuts",1610,"morning, afternoon, snacks",mild,intermediate,moderate,dairy-free
+Vishal_831,21,Male,south,168,68,24.1,Maintenance,athletic,non-vegetarian,none,3204,"evening, night, snacks, morning",spicy,intermediate,affordable,"fitness-focused, budget-conscious"
+Santosh_832,75,Male,north,174,44,14.5,Maintenance,sedentary,non-vegetarian,none,1304,"night, afternoon, morning",rich,intermediate,moderate,general
+Rajesh_833,46,Male,west,173,71,23.7,Weight Loss,sedentary,non-vegetarian,none,1430,"morning, night, snacks",aromatic,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Rita_834,44,Female,east,154,46,19.4,Muscle Gain,sedentary,non-vegetarian,none,1691,"snacks, morning, afternoon",mild,intermediate,affordable,"muscle-gain, budget-conscious"
+Sushma_835,64,Female,west,161,46,17.7,Maintenance,elderly,vegetarian,none,1313,"afternoon, morning",mild,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Aadhya_836,71,Female,north,150,55,24.4,Maintenance,elderly,vegan,none,1336,"afternoon, morning, night",rich,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Usha_837,72,Female,north,156,60,24.7,Cardiac,sedentary,vegetarian,none,1200,"evening, snacks, morning, afternoon",creamy,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Aisha_838,67,Female,west,160,40,15.6,Maintenance,elderly,non-vegetarian,none,1227,"evening, morning, night, afternoon",spicy,intermediate,moderate,elderly-friendly
+Vedant_839,48,Male,northeast,167,63,22.6,Maintenance,sedentary,non-vegetarian,none,1753,"evening, morning, afternoon",creamy,beginner,moderate,quick-meal
+Manju_840,74,Female,west,159,40,15.8,Medical Therapy,elderly,vegetarian,none,1200,"snacks, morning, afternoon, evening",mild,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Shivam_841,61,Male,east,156,49,20.1,Diabetes,sedentary,diabetic-friendly,nuts,1200,"morning, night, evening, snacks",creamy,intermediate,affordable,"health-focused, budget-conscious"
+Atharv_842,40,Male,north,170,66,22.8,Cardiac,sedentary,vegetarian,none,1573,"afternoon, evening, morning",creamy,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Kiran_843,46,Female,east,152,41,17.7,Recovery,sedentary,vegetarian,none,1418,"morning, afternoon, evening",mild,beginner,moderate,"vegetarian-friendly, quick-meal"
+Shivam_844,70,Male,east,163,54,20.3,Cardiac,sedentary,non-vegetarian,none,1200,"morning, snacks, night",earthy,expert,moderate,health-focused
+Rajesh_845,39,Male,west,177,59,18.8,Maintenance,athletic,non-vegetarian,none,2862,"morning, night",spicy,intermediate,moderate,fitness-focused
+Atharv_846,62,Male,west,161,89,34.3,Cardiac,sedentary,non-vegetarian,none,1741,"night, afternoon, morning",rich,intermediate,affordable,"health-focused, budget-conscious"
+Reyansh_847,25,Male,west,164,51,19.0,Weight Loss,active,non-vegetarian,none,1695,"snacks, night, morning",creamy,intermediate,moderate,weight-loss-friendly
+Priya_848,47,Female,east,155,46,19.1,Weight Loss,active,vegetarian,none,1281,"afternoon, night, evening",rich,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Priya_849,44,Female,north,151,47,20.6,Weight Loss,active,vegetarian,none,1297,"evening, morning, snacks, afternoon",mild,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Inaya_850,54,Female,north,150,44,19.6,Diabetes,sedentary,non-vegetarian,none,1200,"snacks, morning, night, evening",spicy,expert,moderate,health-focused
+Neha_851,63,Female,north,159,54,21.4,Cardiac,sedentary,vegetarian,none,1200,"morning, night, snacks, afternoon",creamy,expert,moderate,"vegetarian-friendly, health-focused"
+Anika_852,32,Female,east,156,40,16.4,Recovery,sedentary,non-vegetarian,none,1494,"evening, snacks, morning",rich,expert,moderate,general
+Deepak_853,21,Male,east,165,68,25.0,Maintenance,active,non-vegetarian,none,2591,"night, morning",aromatic,expert,moderate,general
+Atharv_854,34,Male,north,169,56,19.6,Weight Loss,active,vegetarian,none,1757,"afternoon, evening, night",mild,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Santosh_855,42,Male,south,156,50,20.5,Weight Loss,elderly,non-vegetarian,mustard,1200,"snacks, afternoon, night, evening",tangy,intermediate,moderate,"weight-loss-friendly, elderly-friendly"
+Suman_856,29,Female,east,150,45,20.0,Muscle Gain,sedentary,non-vegetarian,none,1743,"night, afternoon, evening",spicy,expert,moderate,muscle-gain
+Sneha_857,29,Other,north,159,63,24.9,Muscle Gain,active,vegetarian,none,2465,"afternoon, snacks, morning, night",mild,intermediate,moderate,"muscle-gain, vegetarian-friendly"
+Anaya_858,41,Female,north,150,47,20.9,Maintenance,active,gluten-free,gluten,1812,"snacks, evening, night, morning",spicy,intermediate,affordable,budget-conscious
+Siddharth_859,61,Male,north,170,54,18.7,Maintenance,elderly,non-vegetarian,none,1537,"morning, night, evening",creamy,expert,affordable,"elderly-friendly, budget-conscious"
+Mahesh_860,22,Male,west,160,57,22.3,Maintenance,active,non-vegetarian,nuts,2317,"morning, afternoon, evening",mild,intermediate,moderate,general
+Rajesh_861,68,Male,north,165,78,28.7,Diabetes,elderly,vegan,eggs,1646,"night, morning",rich,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Yash_862,24,Male,north,170,74,25.6,Weight Loss,active,non-vegetarian,none,2226,"evening, morning, night",creamy,intermediate,moderate,weight-loss-friendly
+Riya_863,18,Female,east,153,47,20.1,Muscle Gain,sedentary,non-vegetarian,none,1833,"snacks, night, evening, afternoon",earthy,intermediate,affordable,"muscle-gain, budget-conscious"
+Rita_864,18,Female,south,159,40,15.8,Recovery,sedentary,vegan,none,1578,"morning, snacks, evening",spicy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Kabir_865,18,Male,west,173,56,18.7,Maintenance,active,vegetarian,none,2428,"night, morning",earthy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Suman_866,74,Female,north,155,43,17.9,Medical Therapy,sedentary,non-vegetarian,none,1200,"snacks, morning, afternoon",rich,intermediate,affordable,budget-conscious
+Sushma_867,39,Female,east,159,54,21.4,Recovery,active,non-vegetarian,none,2069,"afternoon, snacks, night, evening",mild,expert,affordable,budget-conscious
+Karthik_868,56,Male,west,173,62,20.7,Weight Loss,active,vegetarian,none,1718,"night, evening",spicy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Karthik_869,50,Male,south,169,85,29.8,Weight Loss,sedentary,vegetarian,none,1605,"night, evening",mild,expert,moderate,"weight-loss-friendly, vegetarian-friendly"
+Amit_870,35,Male,northeast,156,67,27.5,Diabetes,active,non-vegetarian,none,2180,"morning, afternoon",tangy,intermediate,moderate,health-focused
+Aisha_871,39,Female,northeast,150,40,17.8,Recovery,active,non-vegetarian,none,1825,"snacks, morning, night",earthy,beginner,affordable,"budget-conscious, quick-meal"
+Sara_872,69,Female,north,167,44,15.8,Maintenance,elderly,vegan,none,1287,"afternoon, night, snacks",mild,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Priya_873,27,Female,south,150,55,24.4,Muscle Gain,active,non-vegetarian,none,2321,"night, morning, evening",tangy,intermediate,moderate,muscle-gain
+Vansh_874,71,Male,south,162,54,20.6,Maintenance,elderly,non-vegetarian,none,1423,"afternoon, night",spicy,expert,moderate,elderly-friendly
+Shanaya_875,42,Female,north,161,40,15.4,Recovery,sedentary,vegetarian,none,1461,"night, evening, morning",spicy,intermediate,moderate,vegetarian-friendly
+Krishna_876,20,Male,east,165,73,26.8,Weight Loss,active,non-vegetarian,none,2204,"afternoon, evening, night, morning",mild,expert,moderate,weight-loss-friendly
+Pihu_877,54,Female,north,160,40,15.6,Muscle Gain,active,gluten-free,"tree nuts, nuts",1972,"afternoon, morning, evening",rich,intermediate,moderate,muscle-gain
+Rajesh_878,20,Male,south,163,74,27.9,Weight Loss,active,non-vegetarian,none,2210,"evening, night, snacks",spicy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Arjun_879,34,Male,south,160,59,23.0,Maintenance,sedentary,non-vegetarian,none,1744,"evening, snacks",spicy,intermediate,expensive,general
+Arya_880,55,Female,south,150,53,23.6,Diabetes,active,diabetic-friendly,dairy,1604,"night, snacks, evening",spicy,intermediate,affordable,"health-focused, budget-conscious, dairy-free"
+Parvati_881,39,Female,north,162,76,29.0,Diabetes,athletic,diabetic-friendly,fish,2618,"afternoon, morning, snacks",creamy,beginner,moderate,"health-focused, fitness-focused, quick-meal"
+Dhruv_882,39,Male,north,167,66,23.7,Maintenance,athletic,vegetarian,none,2949,"afternoon, morning, night, evening",creamy,intermediate,moderate,"vegetarian-friendly, fitness-focused"
+Yogesh_883,63,Male,north,153,46,19.7,Diabetes,elderly,diabetic-friendly,none,1200,"afternoon, snacks, morning",creamy,intermediate,moderate,"elderly-friendly, health-focused"
+Radha_884,32,Female,north,155,51,21.2,Diabetes,sedentary,diabetic-friendly,"nuts, mustard",1312,"morning, evening, snacks, night",spicy,beginner,affordable,"health-focused, budget-conscious, quick-meal"
+Ayaan_885,40,Male,north,170,64,22.1,Weight Loss,active,vegetarian,"gluten, mustard",1878,"night, afternoon",mild,expert,moderate,"weight-loss-friendly, vegetarian-friendly"
+Myra_886,24,Female,east,150,56,24.9,Maintenance,active,non-vegetarian,none,2055,"evening, morning, night, afternoon",mild,intermediate,affordable,budget-conscious
+Kiara_887,49,Female,north,155,40,16.6,Maintenance,active,vegetarian,none,1682,"afternoon, night, evening",rich,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Nikhil_888,32,Male,north,164,80,29.7,Maintenance,athletic,non-vegetarian,none,3354,"night, morning, afternoon",creamy,expert,moderate,fitness-focused
+Shobha_889,23,Female,south,150,55,24.4,Maintenance,athletic,non-vegetarian,none,2510,"night, afternoon",tangy,intermediate,expensive,fitness-focused
+Vansh_890,43,Male,northeast,162,52,19.8,Weight Loss,sedentary,non-vegetarian,none,1200,"afternoon, snacks",earthy,beginner,moderate,"weight-loss-friendly, quick-meal"
+Khushi_891,18,Female,north,150,53,23.6,Weight Loss,athletic,non-vegetarian,nuts,2016,"night, afternoon, morning",creamy,beginner,affordable,"weight-loss-friendly, fitness-focused, budget-conscious, quick-meal"
+Gaurav_892,65,Male,north,176,69,22.3,Maintenance,sedentary,vegetarian,none,1786,"snacks, afternoon, evening, night",rich,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Usha_893,41,Female,north,153,45,19.2,Weight Loss,sedentary,vegetarian,none,1200,"night, snacks",creamy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious"
+Kiara_894,58,Female,north,154,52,21.9,Maintenance,sedentary,non-vegetarian,none,1385,"morning, evening",spicy,intermediate,affordable,budget-conscious
+Lakshya_895,32,Male,east,167,64,22.9,Muscle Gain,active,non-vegetarian,none,2726,"afternoon, night, morning",aromatic,intermediate,moderate,muscle-gain
+Pradeep_896,35,Male,east,150,68,30.2,Weight Loss,sedentary,non-vegetarian,none,1324,"snacks, afternoon, evening",spicy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Sneha_897,73,Female,south,158,50,20.0,Medical Therapy,elderly,non-vegetarian,none,1200,"morning, night",tangy,expert,affordable,"elderly-friendly, budget-conscious"
+Manju_898,31,Female,east,151,50,21.9,Weight Loss,sedentary,non-vegetarian,none,1200,"evening, night, snacks, afternoon",aromatic,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Vansh_899,59,Male,north,177,65,20.7,Muscle Gain,active,non-vegetarian,none,2584,"snacks, evening, afternoon",creamy,expert,moderate,muscle-gain
+Ravi_900,48,Male,west,159,56,22.2,Muscle Gain,athletic,vegetarian,none,2825,"afternoon, morning",rich,intermediate,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious"
+Karthik_901,72,Male,east,169,72,25.2,Maintenance,elderly,non-vegetarian,none,1746,"snacks, afternoon, morning",aromatic,expert,affordable,"elderly-friendly, budget-conscious"
+Yogesh_902,68,Male,north,174,87,28.7,Cardiac,elderly,non-vegetarian,none,1743,"evening, morning, afternoon",mild,expert,moderate,"elderly-friendly, health-focused"
+Neha_903,71,Female,north,150,54,24.0,Diabetes,sedentary,vegan,none,1200,"evening, afternoon, morning",creamy,intermediate,affordable,"vegetarian-friendly, health-focused, budget-conscious"
+Dhruv_904,54,Male,north,174,60,19.8,Recovery,sedentary,vegetarian,none,1804,"afternoon, snacks",rich,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Khushi_905,35,Female,north,150,70,31.1,Weight Loss,active,vegetarian,none,1682,"snacks, morning, night, afternoon",rich,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly"
+Kavita_906,69,Female,north,159,62,24.5,Diabetes,elderly,non-vegetarian,none,1257,"afternoon, snacks, morning, night",mild,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Parvati_907,53,Female,north,150,40,17.8,Maintenance,active,non-vegetarian,none,1631,"evening, morning",creamy,intermediate,moderate,general
+Suneel_908,48,Male,west,173,53,17.7,Muscle Gain,athletic,gluten-free,none,2876,"evening, afternoon, snacks",spicy,beginner,moderate,"muscle-gain, fitness-focused, quick-meal"
+Diya_909,49,Female,north,150,52,23.1,Muscle Gain,active,non-vegetarian,none,2130,"night, evening, morning",spicy,beginner,moderate,"muscle-gain, quick-meal"
+Himanshu_910,73,Male,north,162,66,25.1,Maintenance,sedentary,vegetarian,none,1602,"morning, snacks, night",mild,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Riya_911,21,Female,west,162,58,22.1,Weight Loss,athletic,vegetarian,none,2150,"snacks, afternoon",aromatic,beginner,moderate,"weight-loss-friendly, vegetarian-friendly, fitness-focused, quick-meal"
+Anaya_912,68,Female,east,151,43,18.9,Maintenance,elderly,non-vegetarian,none,1222,"snacks, night, morning",sweet,intermediate,affordable,"elderly-friendly, budget-conscious"
+Siddharth_913,31,Male,east,154,56,23.6,Recovery,active,gluten-free,none,2272,"snacks, afternoon, morning",creamy,expert,moderate,general
+Pooja_914,20,Female,east,150,43,19.1,Muscle Gain,active,non-vegetarian,none,2196,"afternoon, evening, morning",mild,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Vihaan_915,73,Male,west,167,59,21.2,Cardiac,elderly,gluten-free,none,1218,"afternoon, snacks",aromatic,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Yogesh_916,72,Male,east,163,68,25.6,Cardiac,elderly,non-vegetarian,none,1347,"morning, evening, snacks",creamy,intermediate,moderate,"elderly-friendly, health-focused"
+Sunita_917,41,Female,northeast,150,40,17.8,Muscle Gain,elderly,non-vegetarian,none,1625,"night, morning, afternoon, evening",earthy,intermediate,affordable,"muscle-gain, elderly-friendly, budget-conscious"
+Karthik_918,22,Male,south,161,57,22.0,Weight Loss,athletic,vegan,none,2349,"afternoon, snacks, evening",tangy,intermediate,moderate,"weight-loss-friendly, vegetarian-friendly, fitness-focused"
+Geeta_919,62,Female,north,157,50,20.3,Cardiac,elderly,non-vegetarian,none,1200,"night, evening, morning",creamy,expert,affordable,"elderly-friendly, health-focused, budget-conscious"
+Manju_920,40,Female,south,160,48,18.7,Maintenance,sedentary,vegetarian,none,1456,"snacks, evening, morning, night",spicy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Meera_921,65,Female,north,157,53,21.5,Maintenance,sedentary,vegetarian,none,1371,"evening, snacks",rich,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Aisha_922,20,Female,east,150,51,22.7,Maintenance,active,non-vegetarian,none,2010,"afternoon, morning, evening",rich,beginner,moderate,quick-meal
+Kiran_923,35,Female,south,159,49,19.4,Maintenance,sedentary,vegetarian,none,1490,"night, morning",tangy,intermediate,moderate,vegetarian-friendly
+Arya_924,43,Female,south,159,51,20.2,Muscle Gain,sedentary,non-vegetarian,none,1770,"snacks, evening, night",mild,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Riya_925,48,Female,south,153,56,23.9,Muscle Gain,sedentary,non-vegetarian,none,1777,"snacks, morning, afternoon",mild,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Yash_926,19,Male,west,171,78,26.7,Weight Loss,active,non-vegetarian,none,2361,"evening, morning",spicy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Rajesh_927,38,Male,west,177,87,27.8,Diabetes,active,non-vegetarian,none,2725,"evening, snacks, morning, night",spicy,intermediate,moderate,health-focused
+Suneel_928,44,Male,south,160,63,24.6,Maintenance,elderly,vegetarian,none,1740,"evening, night, morning",spicy,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Vanya_929,42,Female,west,155,66,27.5,Weight Loss,sedentary,gluten-free,none,1200,"afternoon, snacks, evening, morning",mild,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Kavita_930,32,Female,north,157,60,24.3,Maintenance,sedentary,vegan,nuts,1620,"morning, snacks, night",creamy,beginner,moderate,"vegetarian-friendly, quick-meal"
+Meera_931,55,Female,northeast,150,51,22.7,Weight Loss,sedentary,non-vegetarian,none,1200,"night, snacks, morning",aromatic,expert,affordable,"weight-loss-friendly, budget-conscious"
+Sita_932,65,Female,north,157,44,17.9,Maintenance,elderly,vegetarian,none,1271,"night, snacks, afternoon, evening",creamy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Sara_933,44,Female,west,170,45,15.6,Muscle Gain,active,non-vegetarian,none,2159,"night, afternoon",earthy,expert,expensive,muscle-gain
+Aryan_934,25,Male,east,163,53,19.9,Muscle Gain,active,non-vegetarian,none,2530,"night, morning, snacks, afternoon",earthy,intermediate,expensive,muscle-gain
+Anaya_935,27,Female,east,160,54,21.1,Weight Loss,active,non-vegetarian,none,1554,"evening, snacks",aromatic,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Dhruv_936,66,Male,north,173,55,18.4,Maintenance,sedentary,vegetarian,none,1536,"morning, evening, snacks",creamy,expert,affordable,"vegetarian-friendly, budget-conscious"
+Meera_937,55,Female,northeast,153,47,20.1,Muscle Gain,athletic,non-vegetarian,gluten,2424,"morning, snacks",aromatic,intermediate,affordable,"muscle-gain, fitness-focused, budget-conscious"
+Siddharth_938,43,Male,north,175,44,14.4,Muscle Gain,active,non-vegetarian,none,2273,"snacks, night, evening",spicy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Anaya_939,48,Female,northeast,154,40,16.9,Muscle Gain,sedentary,non-vegetarian,none,1604,"night, afternoon, evening, snacks",earthy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Aryan_940,46,Male,east,150,64,28.4,Weight Loss,athletic,non-vegetarian,none,2168,"morning, snacks",spicy,beginner,affordable,"weight-loss-friendly, fitness-focused, budget-conscious, quick-meal"
+Siddharth_941,20,Male,south,171,58,19.8,Maintenance,active,non-vegetarian,none,2437,"afternoon, snacks",mild,expert,affordable,budget-conscious
+Pranav_942,75,Male,north,180,46,14.2,Medical Therapy,elderly,vegetarian,none,1200,"snacks, evening",creamy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Ramesh_943,35,Male,west,171,62,21.2,Medical Therapy,sedentary,non-vegetarian,nuts,1649,"evening, afternoon, morning",tangy,expert,affordable,budget-conscious
+Kiara_944,62,Female,south,150,46,20.4,Diabetes,elderly,non-vegetarian,none,1200,"night, snacks",spicy,expert,moderate,"elderly-friendly, health-focused"
+Kavya_945,61,Female,north,150,44,19.6,Maintenance,elderly,vegetarian,none,1266,"morning, evening, snacks",rich,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Vedant_946,43,Male,west,167,57,20.4,Maintenance,active,non-vegetarian,none,2184,"morning, evening, night",creamy,intermediate,moderate,general
+Abhishek_947,30,Male,northeast,156,47,19.3,Maintenance,sedentary,non-vegetarian,none,1555,"snacks, night",mild,expert,expensive,general
+Diya_948,60,Female,north,150,40,17.8,Cardiac,elderly,vegetarian,none,1200,"morning, snacks, night",mild,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Aryan_949,64,Male,west,174,69,22.8,Maintenance,sedentary,non-vegetarian,none,1781,"evening, morning",tangy,intermediate,affordable,budget-conscious
+Devraj_950,58,Male,east,157,68,27.6,Weight Loss,athletic,non-vegetarian,none,2204,"morning, evening, afternoon",sweet,intermediate,affordable,"weight-loss-friendly, fitness-focused, budget-conscious"
+Devraj_951,35,Male,north,166,58,21.0,Medical Therapy,sedentary,non-vegetarian,none,1555,"night, evening",mild,expert,expensive,general
+Krishna_952,36,Male,north,159,45,17.8,Muscle Gain,active,vegan,none,2237,"snacks, night, morning",rich,expert,affordable,"muscle-gain, vegetarian-friendly, budget-conscious"
+Sunita_953,71,Female,north,152,44,19.0,Maintenance,elderly,non-vegetarian,none,1221,"night, evening, morning",mild,intermediate,expensive,elderly-friendly
+Anant_954,46,Male,south,163,64,24.1,Maintenance,athletic,vegetarian,none,2787,"morning, evening, afternoon",spicy,expert,affordable,"vegetarian-friendly, fitness-focused, budget-conscious"
+Harsh_955,74,Male,south,165,45,16.5,Diabetes,sedentary,diabetic-friendly,none,1200,"evening, afternoon, night",spicy,intermediate,affordable,"health-focused, budget-conscious"
+Ajay_956,25,Male,northeast,154,70,29.5,Weight Loss,athletic,non-vegetarian,none,2584,"morning, afternoon, evening, snacks",aromatic,beginner,moderate,"weight-loss-friendly, fitness-focused, quick-meal"
+Krishna_957,46,Male,west,153,66,28.2,Weight Loss,sedentary,non-vegetarian,none,1234,"evening, night",spicy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Lakshmi_958,65,Female,east,154,40,16.9,Medical Therapy,elderly,vegetarian,none,1200,"snacks, afternoon, evening, morning",aromatic,expert,moderate,"elderly-friendly, vegetarian-friendly"
+Lakshya_959,18,Male,south,167,66,23.7,Muscle Gain,active,gluten-free,none,2891,"snacks, night, evening",tangy,intermediate,affordable,"muscle-gain, budget-conscious"
+Mukesh_960,33,Male,south,160,83,32.4,Diabetes,elderly,vegan,none,1936,"night, afternoon",tangy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, health-focused, budget-conscious"
+Devraj_961,62,Male,south,155,50,20.8,Medical Therapy,elderly,non-vegetarian,none,1200,"evening, morning, afternoon",mild,intermediate,affordable,"elderly-friendly, budget-conscious"
+Manju_962,25,Female,north,150,56,24.9,Medical Therapy,sedentary,vegetarian,dairy,1386,"snacks, afternoon, morning",spicy,intermediate,moderate,"vegetarian-friendly, dairy-free"
+Lakshmi_963,19,Female,north,150,44,19.6,Diabetes,active,diabetic-friendly,none,1717,"night, afternoon",creamy,expert,moderate,health-focused
+Aryan_964,72,Male,south,174,68,22.5,Cardiac,sedentary,vegetarian,none,1410,"afternoon, snacks, morning",spicy,intermediate,moderate,"vegetarian-friendly, health-focused"
+Saanvi_965,22,Female,west,157,47,19.1,Maintenance,sedentary,non-vegetarian,none,1527,"night, morning, evening",aromatic,intermediate,affordable,budget-conscious
+Vedant_966,32,Male,north,150,70,31.1,Cardiac,sedentary,non-vegetarian,none,1577,"afternoon, snacks, evening",rich,intermediate,moderate,health-focused
+Vanya_967,49,Female,east,155,50,20.8,Muscle Gain,active,non-vegetarian,nuts,2125,"morning, snacks, afternoon",creamy,intermediate,moderate,muscle-gain
+Deepak_968,49,Male,south,168,44,15.6,Muscle Gain,sedentary,non-vegetarian,none,1747,"night, evening, afternoon",spicy,intermediate,affordable,"muscle-gain, budget-conscious"
+Akash_969,63,Male,south,164,40,14.9,Maintenance,sedentary,non-vegetarian,none,1264,"night, morning, evening",spicy,expert,moderate,general
+Pushpa_970,18,Female,northeast,159,49,19.4,Weight Loss,active,non-vegetarian,none,1538,"snacks, night",creamy,intermediate,affordable,"weight-loss-friendly, budget-conscious"
+Sai_971,23,Male,north,177,54,17.2,Muscle Gain,athletic,vegan,"eggs, gluten",3208,"afternoon, morning, night",mild,beginner,affordable,"muscle-gain, vegetarian-friendly, fitness-focused, budget-conscious, quick-meal"
+Ajay_972,36,Male,north,163,58,21.8,Maintenance,sedentary,non-vegetarian,none,1731,"morning, evening, night, afternoon",creamy,expert,expensive,general
+Sita_973,62,Female,south,152,51,22.1,Maintenance,elderly,vegetarian,none,1345,"evening, night, snacks",spicy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Usha_974,39,Female,north,158,55,22.0,Maintenance,sedentary,non-vegetarian,none,1532,"snacks, night, morning",creamy,intermediate,moderate,general
+Arya_975,44,Female,south,154,43,18.1,Muscle Gain,active,vegetarian,none,2054,"evening, night, morning",spicy,beginner,affordable,"muscle-gain, vegetarian-friendly, budget-conscious, quick-meal"
+Pushpa_976,28,Female,south,155,63,26.2,Weight Loss,athletic,non-vegetarian,none,2139,"snacks, night",mild,intermediate,moderate,"weight-loss-friendly, fitness-focused"
+Saanvi_977,63,Female,north,150,61,27.1,Maintenance,sedentary,vegan,none,1444,"night, evening",rich,expert,moderate,vegetarian-friendly
+Anil_978,71,Male,east,150,70,31.1,Maintenance,elderly,non-vegetarian,"gluten, dairy",1611,"night, evening",mild,intermediate,affordable,"elderly-friendly, budget-conscious, dairy-free"
+Sunita_979,19,Female,north,151,58,25.4,Maintenance,sedentary,non-vegetarian,none,1643,"morning, evening, afternoon, night",spicy,beginner,affordable,"budget-conscious, quick-meal"
+Ravi_980,66,Male,north,169,78,27.3,Medical Therapy,elderly,vegan,none,1683,"night, morning, snacks, evening",creamy,intermediate,affordable,"elderly-friendly, vegetarian-friendly, budget-conscious"
+Shanaya_981,41,Female,south,160,55,21.5,Muscle Gain,sedentary,non-vegetarian,mustard,1829,"night, evening, afternoon",spicy,beginner,affordable,"muscle-gain, budget-conscious, quick-meal"
+Mahesh_982,36,Male,south,160,82,32.0,Weight Loss,sedentary,non-vegetarian,none,1600,"night, morning, snacks, afternoon",spicy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Vikash_983,60,Male,north,167,47,16.9,Medical Therapy,elderly,vegetarian,none,1214,"night, snacks, evening, afternoon",spicy,expert,moderate,"elderly-friendly, vegetarian-friendly"
+Arjun_984,45,Male,west,153,59,25.2,Diabetes,elderly,non-vegetarian,none,1429,"snacks, afternoon, morning",aromatic,beginner,affordable,"elderly-friendly, health-focused, budget-conscious, quick-meal"
+Santosh_985,25,Male,east,156,57,23.4,Maintenance,active,non-vegetarian,"mustard, fish",2261,"night, afternoon",aromatic,beginner,moderate,quick-meal
+Yogesh_986,45,Male,east,150,57,25.3,Weight Loss,active,vegetarian,none,1540,"snacks, morning",tangy,beginner,affordable,"weight-loss-friendly, vegetarian-friendly, budget-conscious, quick-meal"
+Aditya_987,25,Male,north,164,77,28.6,Weight Loss,athletic,vegetarian,none,2853,"afternoon, snacks",spicy,intermediate,affordable,"weight-loss-friendly, vegetarian-friendly, fitness-focused, budget-conscious"
+Arjun_988,59,Male,north,164,62,23.1,Maintenance,active,vegetarian,none,2125,"afternoon, morning, snacks",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Arjun_989,18,Male,north,176,64,20.7,Maintenance,sedentary,vegetarian,none,2025,"evening, afternoon, night",creamy,intermediate,affordable,"vegetarian-friendly, budget-conscious"
+Sunita_990,67,Female,east,151,48,21.1,Diabetes,elderly,non-vegetarian,none,1200,"night, snacks, evening",sweet,intermediate,affordable,"elderly-friendly, health-focused, budget-conscious"
+Sai_991,63,Male,north,172,53,17.9,Maintenance,sedentary,non-vegetarian,none,1519,"morning, afternoon",mild,expert,moderate,general
+Sunita_992,67,Female,north,160,54,21.1,Maintenance,elderly,vegetarian,none,1383,"night, snacks, morning",rich,intermediate,moderate,"elderly-friendly, vegetarian-friendly"
+Devraj_993,36,Male,north,156,71,29.2,Weight Loss,active,non-vegetarian,fish,1954,"snacks, evening",spicy,beginner,affordable,"weight-loss-friendly, budget-conscious, quick-meal"
+Vansh_994,63,Male,north,167,81,29.0,Medical Therapy,elderly,vegan,gluten,1740,"evening, morning",creamy,expert,expensive,"elderly-friendly, vegetarian-friendly"
+Manoj_995,24,Male,south,166,53,19.2,Muscle Gain,athletic,vegan,none,3071,"morning, night, snacks, evening",spicy,beginner,moderate,"muscle-gain, vegetarian-friendly, fitness-focused, quick-meal"
+Ajay_996,52,Male,south,172,62,21.0,Maintenance,athletic,non-vegetarian,none,2753,"afternoon, snacks, evening",tangy,intermediate,moderate,fitness-focused
+Amit_997,30,Male,east,166,44,16.0,Recovery,active,vegetarian,none,2121,"afternoon, evening, night, snacks",tangy,beginner,affordable,"vegetarian-friendly, budget-conscious, quick-meal"
+Asha_998,25,Female,north,155,57,23.7,Weight Loss,active,non-vegetarian,none,1587,"morning, snacks, afternoon, night",creamy,expert,affordable,"weight-loss-friendly, budget-conscious"
+Maya_999,40,Female,south,150,40,17.8,Muscle Gain,sedentary,non-vegetarian,none,1630,"afternoon, morning, night",spicy,intermediate,affordable,"muscle-gain, budget-conscious"
+Vanya_1000,19,Female,north,159,53,21.0,Muscle Gain,athletic,non-vegetarian,none,2861,"snacks, evening, night, afternoon",rich,beginner,affordable,"muscle-gain, fitness-focused, budget-conscious, quick-meal"

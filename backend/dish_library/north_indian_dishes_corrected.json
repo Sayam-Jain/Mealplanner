@@ -1,0 +1,651 @@
+[
+  {
+    "name": "Sarson Ka Saag",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 280,
+    "ingredients": [
+      "mustard greens",
+      "spinach",
+      "bathua",
+      "makki flour",
+      "ginger",
+      "garlic",
+      "green chili",
+      "ghee"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-fiber",
+      "iron-rich"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "improves digestion",
+      "boosts immunity"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "earthy with mild spices",
+    "cultural_significance": "Punjabi winter staple served with makki ki roti",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "mustard"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "elderly-friendly",
+      "weight-loss-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "spicy": -1
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Kashmiri Apple",
+    "meal_type": "fruit",
+    "region": "north",
+    "calories": 72,
+    "ingredients": [
+      "apple"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "low-fat",
+      "fiber-rich"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance",
+      "heart health"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "improves digestion",
+      "antioxidant-rich",
+      "heart-healthy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "sweet and crisp",
+    "cultural_significance": "Kashmiri apple is prized for its quality and sweetness",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "low",
+    "seasonal_availability": [
+      "autumn",
+      "winter"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "health-conscious",
+      "weight-loss-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3,
+        "diabetic-friendly": 2
+      },
+      "caloric_density": {
+        "low": 3,
+        "moderate": 1,
+        "high": -2
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "crisp": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 0,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Himachali Pomegranate",
+    "meal_type": "fruit",
+    "region": "north",
+    "calories": 83,
+    "ingredients": [
+      "pomegranate"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "antioxidant-rich",
+      "heart-healthy"
+    ],
+    "health_suitability": [
+      "heart health",
+      "anti-inflammatory",
+      "immune support"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "reduces inflammation",
+      "boosts immunity",
+      "improves heart health"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "sweet-tart and juicy",
+    "cultural_significance": "Revered in traditional Ayurvedic medicine",
+    "time_of_day_suitability": [
+      "morning",
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "low",
+    "seasonal_availability": [
+      "autumn",
+      "winter"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "health-conscious",
+      "anti-aging"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3,
+        "diabetic-friendly": 2
+      },
+      "caloric_density": {
+        "low": 3,
+        "moderate": 1,
+        "high": -2
+      },
+      "flavor_profile": {
+        "sweet": 2,
+        "tart": 2,
+        "juicy": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 1,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "North Indian Mango",
+    "meal_type": "fruit",
+    "region": "north",
+    "calories": 99,
+    "ingredients": [
+      "mango"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "vitamin-rich"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "immunity",
+      "skin health"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_benefits": [
+      "improves immunity",
+      "promotes skin health",
+      "aids digestion"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "sweet and aromatic",
+    "cultural_significance": "National fruit of India, symbolizes prosperity",
+    "time_of_day_suitability": [
+      "morning",
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "latex allergies"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "summer"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "family-friendly",
+      "seasonal-eater"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "aromatic": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 1,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Kashmiri Walnut",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 185,
+    "ingredients": [
+      "walnut"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "high-protein",
+      "brain-food",
+      "omega-3-rich"
+    ],
+    "health_suitability": [
+      "brain health",
+      "heart health",
+      "anti-inflammatory"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan",
+      "keto",
+      "paleo"
+    ],
+    "health_benefits": [
+      "improves brain function",
+      "reduces inflammation",
+      "supports heart health"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "rich and earthy",
+    "cultural_significance": "Kashmiri walnuts are considered premium quality in India",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [
+      "tree nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "autumn"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "brain-health",
+      "fitness-focused"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 3,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3,
+        "keto": 3,
+        "paleo": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "earthy": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 0,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 1,
+        "moderate": 2,
+        "expensive": 2
+      }
+    }
+  },
+  {
+    "name": "Pista (Pistachio)",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 170,
+    "ingredients": [
+      "pistachio"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "protein-rich",
+      "heart-healthy"
+    ],
+    "health_suitability": [
+      "weight management",
+      "heart health",
+      "blood sugar control"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan",
+      "keto",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "lowers cholesterol",
+      "controls blood sugar",
+      "improves eye health"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "expensive",
+    "flavor_profile": "nutty and slightly sweet",
+    "cultural_significance": "Used in many traditional North Indian desserts",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [
+      "tree nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "luxury-food",
+      "heart-healthy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 3,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3,
+        "keto": 3,
+        "diabetic-friendly": 2
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "nutty": 3,
+        "sweet": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 0,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": -1,
+        "moderate": 1,
+        "expensive": 3
+      }
+    }
+  },
+  {
+    "name": "Cashew Nuts",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 160,
+    "ingredients": [
+      "cashew"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "vegan",
+      "heart-healthy",
+      "iron-rich"
+    ],
+    "health_suitability": [
+      "heart health",
+      "energy boost",
+      "bone health"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_benefits": [
+      "supports heart health",
+      "strengthens bones",
+      "boosts energy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic",
+      "sedentary"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "creamy and buttery",
+    "cultural_significance": "Commonly used in North Indian festive cooking",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [
+      "tree nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "gourmet-cook",
+      "energy-seeker"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 2,
+        "high": 3
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "buttery": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 0,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 1,
+        "moderate": 3,
+        "expensive": 1
+      }
+    }
+  }
+]

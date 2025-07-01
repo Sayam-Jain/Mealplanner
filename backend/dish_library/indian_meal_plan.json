@@ -1,0 +1,883 @@
+{
+  "north_indian_dishes": [
+    {
+      "name": "Paneer Bhurji",
+      "meal_type": "breakfast",
+      "region": "north",
+      "calories": 300,
+      "ingredients": [
+        "paneer",
+        "onion",
+        "tomato",
+        "turmeric",
+        "cumin",
+        "coriander"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "weight loss"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Moong Dal Chilla",
+      "meal_type": "breakfast",
+      "region": "north",
+      "calories": 180,
+      "ingredients": [
+        "moong dal",
+        "ginger",
+        "green chili",
+        "onion",
+        "tomato"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "diabetic-friendly",
+        "vegetarian",
+        "low-sodium"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "medical recovery",
+        "diabetes",
+        "hypertension"
+      ],
+      "prep_time_min": 20
+    },
+    {
+      "name": "Besan Chilla",
+      "meal_type": "breakfast",
+      "region": "north",
+      "calories": 200,
+      "ingredients": [
+        "chickpea flour",
+        "onion",
+        "tomato",
+        "green chili",
+        "coriander"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "gluten-free",
+        "vegetarian"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "cardiac"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Methi Paratha",
+      "meal_type": "breakfast",
+      "region": "north",
+      "calories": 220,
+      "ingredients": [
+        "wheat flour",
+        "fenugreek leaves",
+        "minimal oil",
+        "spices"
+      ],
+      "diet_tags": [
+        "diabetic-friendly",
+        "vegetarian",
+        "iron-rich"
+      ],
+      "health_suitability": [
+        "diabetes",
+        "medical recovery",
+        "maintenance"
+      ],
+      "prep_time_min": 25
+    },
+    {
+      "name": "Egg Bhurji",
+      "meal_type": "breakfast",
+      "region": "north",
+      "calories": 280,
+      "ingredients": [
+        "eggs",
+        "onion",
+        "tomato",
+        "turmeric",
+        "minimal oil"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "non-vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "weight loss",
+        "endurance"
+      ],
+      "prep_time_min": 12
+    },
+    {
+      "name": "Paneer Tikka",
+      "meal_type": "snack",
+      "region": "north",
+      "calories": 220,
+      "ingredients": [
+        "paneer",
+        "yogurt",
+        "ginger-garlic paste",
+        "bell peppers",
+        "spices"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "maintenance"
+      ],
+      "prep_time_min": 30
+    },
+    {
+      "name": "Roasted Chickpeas",
+      "meal_type": "snack",
+      "region": "north",
+      "calories": 150,
+      "ingredients": [
+        "chickpeas",
+        "cumin",
+        "chaat masala",
+        "black pepper"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "low-fat",
+        "vegetarian",
+        "heart-healthy"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "cardiac",
+        "hypertension"
+      ],
+      "prep_time_min": 25
+    },
+    {
+      "name": "Sprouted Moong Salad",
+      "meal_type": "snack",
+      "region": "north",
+      "calories": 100,
+      "ingredients": [
+        "sprouted moong",
+        "onion",
+        "tomato",
+        "lemon",
+        "chaat masala"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "low-fat",
+        "vegetarian",
+        "digestive"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "IBS",
+        "diabetes"
+      ],
+      "prep_time_min": 10
+    },
+    {
+      "name": "Chicken Tikka",
+      "meal_type": "snack",
+      "region": "north",
+      "calories": 250,
+      "ingredients": [
+        "chicken breast",
+        "yogurt",
+        "tandoori masala",
+        "lemon juice"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "non-vegetarian",
+        "low-carb"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "weight loss",
+        "endurance"
+      ],
+      "prep_time_min": 35
+    },
+    {
+      "name": "Dal Tadka",
+      "meal_type": "lunch",
+      "region": "north",
+      "calories": 127,
+      "ingredients": [
+        "toor dal",
+        "onion",
+        "tomato",
+        "cumin",
+        "garlic",
+        "ginger"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "diabetic-friendly",
+        "vegetarian",
+        "heart-healthy"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "medical recovery",
+        "maintenance",
+        "cardiac",
+        "diabetes"
+      ],
+      "prep_time_min": 30
+    },
+    {
+      "name": "Palak Paneer",
+      "meal_type": "lunch",
+      "region": "north",
+      "calories": 146,
+      "ingredients": [
+        "paneer",
+        "spinach",
+        "onion",
+        "tomato",
+        "minimal cream"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "iron-rich",
+        "vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "medical recovery",
+        "maintenance",
+        "joint pain"
+      ],
+      "prep_time_min": 25
+    },
+    {
+      "name": "Rajma Curry",
+      "meal_type": "lunch",
+      "region": "north",
+      "calories": 121,
+      "ingredients": [
+        "kidney beans",
+        "onion",
+        "tomato",
+        "ginger-garlic",
+        "minimal oil"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "heart-healthy",
+        "vegetarian",
+        "fiber-rich"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "medical recovery",
+        "cardiac",
+        "hypertension"
+      ],
+      "prep_time_min": 40
+    },
+    {
+      "name": "Chicken Curry (Low Oil)",
+      "meal_type": "lunch",
+      "region": "north",
+      "calories": 280,
+      "ingredients": [
+        "chicken",
+        "onion",
+        "tomato",
+        "yogurt",
+        "spices"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "non-vegetarian",
+        "low-fat"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "weight loss",
+        "endurance"
+      ],
+      "prep_time_min": 45
+    },
+    {
+      "name": "Grilled Tandoori Chicken",
+      "meal_type": "dinner",
+      "region": "north",
+      "calories": 280,
+      "ingredients": [
+        "chicken breast",
+        "yogurt",
+        "tandoori masala",
+        "lemon"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "low-fat",
+        "non-vegetarian"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "cardiac"
+      ],
+      "prep_time_min": 40
+    },
+    {
+      "name": "Khichdi",
+      "meal_type": "dinner",
+      "region": "north",
+      "calories": 125,
+      "ingredients": [
+        "rice",
+        "moong dal",
+        "turmeric",
+        "cumin",
+        "ginger"
+      ],
+      "diet_tags": [
+        "easy-digest",
+        "diabetic-friendly",
+        "vegetarian",
+        "comfort-food"
+      ],
+      "health_suitability": [
+        "medical recovery",
+        "weight loss",
+        "IBS",
+        "diabetes"
+      ],
+      "prep_time_min": 20
+    },
+    {
+      "name": "Vegetable Pulao",
+      "meal_type": "dinner",
+      "region": "north",
+      "calories": 180,
+      "ingredients": [
+        "basmati rice",
+        "mixed vegetables",
+        "whole spices",
+        "minimal oil"
+      ],
+      "diet_tags": [
+        "vegetarian",
+        "fiber-rich"
+      ],
+      "health_suitability": [
+        "maintenance",
+        "weight loss",
+        "hypertension"
+      ],
+      "prep_time_min": 35
+    },
+    {
+      "name": "Fish Curry (North Style)",
+      "meal_type": "dinner",
+      "region": "north",
+      "calories": 240,
+      "ingredients": [
+        "fish",
+        "onion",
+        "tomato",
+        "yogurt",
+        "spices"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "omega-3",
+        "non-vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "cardiac",
+        "joint pain"
+      ],
+      "prep_time_min": 35
+    }
+  ],
+  "south_indian_dishes": [
+    {
+      "name": "Idli with Sambar",
+      "meal_type": "breakfast",
+      "region": "south",
+      "calories": 150,
+      "ingredients": [
+        "rice",
+        "urad dal",
+        "fenugreek seeds",
+        "lentils",
+        "vegetables"
+      ],
+      "diet_tags": [
+        "low-fat",
+        "diabetic-friendly",
+        "vegetarian",
+        "probiotic"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "medical recovery",
+        "maintenance",
+        "diabetes",
+        "IBS"
+      ],
+      "prep_time_min": 20
+    },
+    {
+      "name": "Pesarattu",
+      "meal_type": "breakfast",
+      "region": "south",
+      "calories": 220,
+      "ingredients": [
+        "moong dal",
+        "ginger",
+        "green chili",
+        "cumin seeds"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "diabetic-friendly",
+        "vegetarian",
+        "gluten-free"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "medical recovery",
+        "diabetes"
+      ],
+      "prep_time_min": 25
+    },
+    {
+      "name": "Rava Upma",
+      "meal_type": "breakfast",
+      "region": "south",
+      "calories": 180,
+      "ingredients": [
+        "semolina",
+        "mustard seeds",
+        "curry leaves",
+        "ginger",
+        "vegetables"
+      ],
+      "diet_tags": [
+        "vegetarian",
+        "fiber-rich"
+      ],
+      "health_suitability": [
+        "maintenance",
+        "weight loss",
+        "diabetes"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Oats Upma",
+      "meal_type": "breakfast",
+      "region": "south",
+      "calories": 160,
+      "ingredients": [
+        "oats",
+        "vegetables",
+        "mustard seeds",
+        "curry leaves",
+        "ginger"
+      ],
+      "diet_tags": [
+        "high-fiber",
+        "diabetic-friendly",
+        "vegetarian",
+        "heart-healthy"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "diabetes",
+        "cardiac",
+        "hypertension"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Egg Dosa",
+      "meal_type": "breakfast",
+      "region": "south",
+      "calories": 280,
+      "ingredients": [
+        "dosa batter",
+        "eggs",
+        "onion",
+        "green chili",
+        "coriander"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "non-vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "endurance"
+      ],
+      "prep_time_min": 20
+    },
+    {
+      "name": "Sundal",
+      "meal_type": "snack",
+      "region": "south",
+      "calories": 120,
+      "ingredients": [
+        "chickpeas",
+        "coconut",
+        "mustard seeds",
+        "curry leaves"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "low-fat",
+        "vegetarian",
+        "fiber-rich"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "muscle gain",
+        "diabetes",
+        "cardiac"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Steamed Idli",
+      "meal_type": "snack",
+      "region": "south",
+      "calories": 80,
+      "ingredients": [
+        "rice",
+        "urad dal",
+        "fenugreek seeds"
+      ],
+      "diet_tags": [
+        "low-calorie",
+        "diabetic-friendly",
+        "vegetarian",
+        "easy-digest"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "medical recovery",
+        "IBS",
+        "diabetes"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Chicken 65",
+      "meal_type": "snack",
+      "region": "south",
+      "calories": 300,
+      "ingredients": [
+        "chicken",
+        "curry leaves",
+        "ginger",
+        "garlic",
+        "spices"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "non-vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "endurance"
+      ],
+      "prep_time_min": 30
+    },
+    {
+      "name": "Ragi Dosa",
+      "meal_type": "snack",
+      "region": "south",
+      "calories": 140,
+      "ingredients": [
+        "finger millet flour",
+        "rice flour",
+        "minimal oil"
+      ],
+      "diet_tags": [
+        "diabetic-friendly",
+        "gluten-free",
+        "vegetarian",
+        "calcium-rich"
+      ],
+      "health_suitability": [
+        "diabetes",
+        "weight loss",
+        "joint pain"
+      ],
+      "prep_time_min": 20
+    },
+    {
+      "name": "Sambar Rice",
+      "meal_type": "lunch",
+      "region": "south",
+      "calories": 200,
+      "ingredients": [
+        "rice",
+        "toor dal",
+        "tamarind",
+        "vegetables",
+        "sambar powder"
+      ],
+      "diet_tags": [
+        "diabetic-friendly",
+        "vegetarian",
+        "fiber-rich"
+      ],
+      "health_suitability": [
+        "medical recovery",
+        "maintenance",
+        "weight loss",
+        "diabetes"
+      ],
+      "prep_time_min": 35
+    },
+    {
+      "name": "Rasam",
+      "meal_type": "lunch",
+      "region": "south",
+      "calories": 80,
+      "ingredients": [
+        "tamarind",
+        "tomato",
+        "turmeric",
+        "pepper",
+        "cumin"
+      ],
+      "diet_tags": [
+        "low-calorie",
+        "digestive",
+        "vegetarian",
+        "anti-inflammatory"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "medical recovery",
+        "IBS",
+        "joint pain"
+      ],
+      "prep_time_min": 20
+    },
+    {
+      "name": "Fish Curry (South Style)",
+      "meal_type": "lunch",
+      "region": "south",
+      "calories": 250,
+      "ingredients": [
+        "fish",
+        "coconut milk",
+        "tamarind",
+        "curry leaves",
+        "spices"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "omega-3",
+        "non-vegetarian"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "medical recovery",
+        "cardiac",
+        "joint pain"
+      ],
+      "prep_time_min": 30
+    },
+    {
+      "name": "Vegetable Kootu",
+      "meal_type": "lunch",
+      "region": "south",
+      "calories": 150,
+      "ingredients": [
+        "mixed vegetables",
+        "moong dal",
+        "coconut",
+        "cumin"
+      ],
+      "diet_tags": [
+        "high-fiber",
+        "vegetarian",
+        "low-calorie"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "medical recovery",
+        "diabetes",
+        "IBS"
+      ],
+      "prep_time_min": 25
+    },
+    {
+      "name": "Lemon Rice",
+      "meal_type": "lunch",
+      "region": "south",
+      "calories": 180,
+      "ingredients": [
+        "rice",
+        "lemon juice",
+        "turmeric",
+        "mustard seeds",
+        "curry leaves"
+      ],
+      "diet_tags": [
+        "vegetarian",
+        "digestive",
+        "probiotic"
+      ],
+      "health_suitability": [
+        "maintenance",
+        "medical recovery",
+        "IBS"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Ragi Mudde",
+      "meal_type": "dinner",
+      "region": "south",
+      "calories": 160,
+      "ingredients": [
+        "finger millet flour",
+        "water",
+        "salt"
+      ],
+      "diet_tags": [
+        "gluten-free",
+        "diabetic-friendly",
+        "vegetarian",
+        "calcium-rich"
+      ],
+      "health_suitability": [
+        "medical recovery",
+        "weight loss",
+        "maintenance",
+        "diabetes",
+        "joint pain"
+      ],
+      "prep_time_min": 20
+    },
+    {
+      "name": "Aviyal",
+      "meal_type": "dinner",
+      "region": "south",
+      "calories": 140,
+      "ingredients": [
+        "mixed vegetables",
+        "coconut",
+        "minimal yogurt",
+        "curry leaves"
+      ],
+      "diet_tags": [
+        "low-calorie",
+        "vegetarian",
+        "fiber-rich"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "medical recovery",
+        "joint pain"
+      ],
+      "prep_time_min": 30
+    },
+    {
+      "name": "Curd Rice",
+      "meal_type": "dinner",
+      "region": "south",
+      "calories": 180,
+      "ingredients": [
+        "rice",
+        "yogurt",
+        "mustard seeds",
+        "curry leaves",
+        "ginger"
+      ],
+      "diet_tags": [
+        "probiotic",
+        "cooling",
+        "vegetarian",
+        "easy-digest"
+      ],
+      "health_suitability": [
+        "medical recovery",
+        "maintenance",
+        "IBS"
+      ],
+      "prep_time_min": 15
+    },
+    {
+      "name": "Pepper Chicken",
+      "meal_type": "dinner",
+      "region": "south",
+      "calories": 320,
+      "ingredients": [
+        "chicken",
+        "black pepper",
+        "curry leaves",
+        "ginger",
+        "garlic"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "non-vegetarian",
+        "anti-inflammatory"
+      ],
+      "health_suitability": [
+        "muscle gain",
+        "endurance",
+        "joint pain"
+      ],
+      "prep_time_min": 40
+    },
+    {
+      "name": "Moong Dal Curry",
+      "meal_type": "dinner",
+      "region": "south",
+      "calories": 120,
+      "ingredients": [
+        "moong dal",
+        "coconut",
+        "green chili",
+        "curry leaves"
+      ],
+      "diet_tags": [
+        "high-protein",
+        "easy-digest",
+        "vegetarian"
+      ],
+      "health_suitability": [
+        "weight loss",
+        "medical recovery",
+        "IBS",
+        "diabetes"
+      ],
+      "prep_time_min": 25
+    }
+  ]
+}

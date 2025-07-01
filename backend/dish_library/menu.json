@@ -1,0 +1,6906 @@
+[
+  {
+    "name": "Sarson Ka Saag",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 650,
+    "protein_grams": 18,
+    "ingredients": [
+      "mustard greens",
+      "spinach",
+      "bathua",
+      "makki flour",
+      "ginger",
+      "garlic",
+      "green chili",
+      "ghee",
+      "makki ki roti (2 pieces)",
+      "white butter"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-fiber",
+      "iron-rich"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "improves digestion",
+      "boosts immunity"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "earthy with mild spices",
+    "cultural_significance": "Traditional mustard-greens saag served with two makki ki roti and a generous pat of ghee",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "mustard"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "elderly-friendly",
+      "weight-loss-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "spicy": -1
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Rogan Josh",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 35,
+    "ingredients": [
+      "lamb (250g)",
+      "yogurt",
+      "onion",
+      "ginger",
+      "garlic",
+      "kashmiri red chili",
+      "fennel powder",
+      "cloves",
+      "cardamom",
+      "cinnamon",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "non-vegetarian"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "recovery"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "anti-inflammatory",
+      "rich in iron"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "rich and aromatic",
+    "cultural_significance": "Kashmiri signature dish with Persian influences",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "athletic",
+      "recovery-focused"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": -1,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": -2,
+        "elderly": -1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "aromatic": 3,
+        "spicy": 2
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 1,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Aloo Paratha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 480,
+    "protein_grams": 12,
+    "ingredients": [
+      "whole wheat flour",
+      "potatoes (2 medium)",
+      "cumin seeds",
+      "coriander leaves",
+      "green chili",
+      "ghee",
+      "curd (80g)",
+      "pickle"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-carb"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "sustained energy",
+      "digestive health"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "savory with mild spices",
+    "cultural_significance": "Two whole-wheat aloo parathas served with 80g fresh curd and pickle",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "family-friendly",
+      "active-lifestyle"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": -2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 2,
+        "elderly": 1,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-carb": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "mild": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Chole Bhature",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 650,
+    "protein_grams": 22,
+    "ingredients": [
+      "chickpeas (200g cooked)",
+      "maida",
+      "yogurt",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "cumin seeds",
+      "coriander powder",
+      "garam masala",
+      "oil for frying"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-carb"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "fiber content"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "spicy and tangy",
+    "cultural_significance": "Iconic Punjabi street food",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "active-lifestyle",
+      "comfort-food"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": -3,
+        "maintenance": -1
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": -2,
+        "elderly": -1,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-carb": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": -1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "spicy": 3,
+        "tangy": 3
+      },
+      "prep_complexity": {
+        "easy": -1,
+        "moderate": 2,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Paneer Tikka",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 180,
+    "protein_grams": 15,
+    "ingredients": [
+      "paneer (100g)",
+      "bell peppers",
+      "onion",
+      "yogurt",
+      "ginger-garlic paste",
+      "turmeric",
+      "garam masala",
+      "kashmiri red chili"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein",
+      "low-carb"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "low-carb"
+    ],
+    "health_benefits": [
+      "high calcium",
+      "protein-rich"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic",
+      "sedentary"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "smoky and mildly spicy",
+    "cultural_significance": "Popular tandoori appetizer",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "weight-loss-friendly",
+      "muscle-gain"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "low-carb": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "smoky": 3,
+        "mildly_spicy": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Rajma Chawal",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 20,
+    "ingredients": [
+      "kidney beans (200g cooked)",
+      "basmati rice (1 cup)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "cumin seeds",
+      "coriander powder",
+      "garam masala",
+      "ghee"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein",
+      "high-fiber"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "muscle gain"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "heart health",
+      "blood sugar control"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "active"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "creamy and mildly spicy",
+    "cultural_significance": "Comfort food of North Indian households",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "family-friendly",
+      "budget-conscious"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 2,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-fiber": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "mildly_spicy": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Tandoori Chicken",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 620,
+    "protein_grams": 45,
+    "ingredients": [
+      "chicken (250g)",
+      "yogurt",
+      "ginger",
+      "garlic",
+      "lemon juice",
+      "kashmiri red chili",
+      "garam masala",
+      "naan (1 piece)",
+      "jeera rice (1 cup)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "low-fat",
+      "non-vegetarian"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "low-fat"
+    ],
+    "health_benefits": [
+      "high protein",
+      "low saturated fat"
+    ],
+    "lifestyle_suitability": [
+      "athletic",
+      "active"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "smoky and tangy",
+    "cultural_significance": "Half-portion tandoori chicken served with one small naan or 1 cup jeera rice",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "fitness-focused",
+      "weight-loss"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "low-fat": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "smoky": 3,
+        "tangy": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Dal Makhani with Rice",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 620,
+    "protein_grams": 18,
+    "ingredients": [
+      "black lentils (150g cooked)",
+      "kidney beans (50g cooked)",
+      "butter",
+      "cream",
+      "ginger",
+      "garlic",
+      "tomato",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "fiber-rich",
+      "protein source"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "creamy and rich",
+    "cultural_significance": "Punjabi delicacy often served at celebrations",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "comfort-food",
+      "family-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": -1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -1,
+        "moderate": 3,
+        "high": 1
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "rich": 3
+      },
+      "prep_complexity": {
+        "easy": -1,
+        "moderate": 2,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Aloo Gobi with Rice and Dal",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 16,
+    "ingredients": [
+      "potatoes (2 medium)",
+      "cauliflower (200g)",
+      "onion",
+      "tomato",
+      "turmeric",
+      "cumin seeds",
+      "coriander leaves",
+      "basmati rice (1 cup)",
+      "simple dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "low-calorie"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_benefits": [
+      "vitamin C",
+      "fiber-rich"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spiced",
+    "cultural_significance": "Dry aloo-gobi sabzi served with 1 cup steamed basmati rice and ½ cup simple dal",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "budget-friendly",
+      "elderly-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": -1,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": -1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "spiced": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Butter Chicken",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 650,
+    "protein_grams": 38,
+    "ingredients": [
+      "chicken (200g)",
+      "tomato",
+      "butter",
+      "cream",
+      "cashew paste",
+      "ginger",
+      "garlic",
+      "garam masala",
+      "kashmiri red chili",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain"
+    ],
+    "dietary_suitability": [
+      "high-calorie"
+    ],
+    "health_benefits": [
+      "protein-rich"
+    ],
+    "lifestyle_suitability": [
+      "athletic",
+      "active"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "creamy and rich",
+    "cultural_significance": "Iconic Punjabi dish invented in Delhi",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "comfort-food",
+      "celebration"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": -3,
+        "maintenance": -1
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": -2,
+        "elderly": -1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": -1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "rich": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 1,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Khichdi",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 480,
+    "protein_grams": 14,
+    "ingredients": [
+      "rice (½ cup)",
+      "moong dal (½ cup)",
+      "turmeric",
+      "cumin seeds",
+      "ginger",
+      "ghee (2 tsp)",
+      "curd (½ cup)",
+      "roasted papad (1 piece)"
+    ],
+    "diet_tags": [
+      "easy-digest",
+      "diabetic-friendly",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "health_suitability": [
+      "medical recovery",
+      "weight loss",
+      "IBS",
+      "diabetes"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "digestive health",
+      "comfort food"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spiced",
+    "cultural_significance": "Moong dal–rice khichdi drizzled with 1 tsp ghee, served with ½ cup curd and roasted papad",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "digestive-health",
+      "elderly-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mildly_spiced": 3,
+        "spicy": -1
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Palak Paneer with Rice",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 620,
+    "protein_grams": 22,
+    "ingredients": [
+      "paneer (150g)",
+      "spinach (300g)",
+      "onion",
+      "tomato",
+      "minimal cream",
+      "ginger",
+      "garlic",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "iron-rich",
+      "vegetarian"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "medical recovery",
+      "maintenance",
+      "joint pain"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "iron-rich",
+      "bone health"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "creamy and mildly spiced",
+    "cultural_significance": "Creamy spinach gravy with paneer cubes served alongside 1 cup basmati rice",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "iron-rich",
+      "elderly-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "iron-rich": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "mildly_spiced": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Kashmiri Apple",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 150,
+    "protein_grams": 0.5,
+    "ingredients": [
+      "apple (1 large)",
+      "almonds (10 pieces)"
+    ],
+    "diet_tags": [
+      "low-calorie",
+      "high-fiber"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegan",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "heart health",
+      "antioxidants"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "crisp and sweet",
+    "cultural_significance": "One medium Kashmiri apple with almonds, crisp and naturally sweet",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [
+      "tree nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "low",
+    "seasonal_availability": [
+      "autumn"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "diabetic-friendly",
+      "heart-healthy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegan": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": 3,
+        "moderate": -1,
+        "high": -2
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "crisp": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": -1,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Kashmiri Walnuts",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 185,
+    "protein_grams": 4.3,
+    "ingredients": [
+      "walnuts (28g)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "omega-3"
+    ],
+    "health_suitability": [
+      "brain health",
+      "heart health"
+    ],
+    "dietary_suitability": [
+      "vegan",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "omega-3 fatty acids",
+      "antioxidants"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "earthy and crunchy",
+    "cultural_significance": "Traditional nut from Kashmir",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "tree nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "brain-boost",
+      "heart-healthy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegan": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "earthy": 3,
+        "crunchy": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": -1,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Almonds (Badam)",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 170,
+    "protein_grams": 6,
+    "ingredients": [
+      "almonds (28g)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "heart-healthy"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "vegan",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "vitamin E",
+      "magnesium"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "nutty and slightly sweet",
+    "cultural_significance": "Common in North Indian cuisine",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "tree nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "heart-healthy",
+      "diabetic-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegan": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "nutty": 3,
+        "slightly_sweet": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": -1,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Pomegranate (Anar)",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 150,
+    "protein_grams": 3,
+    "ingredients": [
+      "pomegranate (1 medium)",
+      "black salt",
+      "chaat masala"
+    ],
+    "diet_tags": [
+      "low-calorie",
+      "antioxidant-rich"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "recovery"
+    ],
+    "dietary_suitability": [
+      "vegan",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "anti-inflammatory",
+      "vitamin C"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and sweet",
+    "cultural_significance": "½ cup fresh pomegranate arils, rich in antioxidants",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "low",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "immunity-booster",
+      "anti-inflammatory"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegan": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": 3,
+        "moderate": -1,
+        "high": -2
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "sweet": 3
+      },
+      "prep_complexity": {
+        "easy": 2,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Cashew (Kaju)",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 155,
+    "protein_grams": 5,
+    "ingredients": [
+      "cashews (28g)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "magnesium-rich"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "heart health"
+    ],
+    "dietary_suitability": [
+      "vegan",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "heart health",
+      "bone strength"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "creamy and buttery",
+    "cultural_significance": "Common in North Indian sweets",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "tree nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "heart-healthy",
+      "bone-health"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegan": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "buttery": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": -1,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Moong Dal Chilla",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 420,
+    "protein_grams": 18,
+    "ingredients": [
+      "moong dal (100g)",
+      "ginger",
+      "green chili",
+      "onion",
+      "tomato",
+      "carrot",
+      "capsicum",
+      "mint chutney (2 tbsp)",
+      "coriander chutney (2 tbsp)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "diabetic-friendly",
+      "vegetarian",
+      "low-sodium"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "muscle gain",
+      "medical recovery",
+      "diabetes",
+      "hypertension"
+    ],
+    "dietary_suitability": [
+      "low-carb",
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "digestive health"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spicy",
+    "cultural_significance": "Two protein-rich moong dal chillas with vegetables, served with 2 tbsp mint-coriander chutney",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "weight-loss-friendly",
+      "diabetic-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "low-carb": 3,
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mildly_spicy": 3,
+        "spicy": -1
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Besan Chilla",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 460,
+    "protein_grams": 16,
+    "ingredients": [
+      "chickpea flour (100g)",
+      "onion",
+      "tomato",
+      "green chili",
+      "coriander leaves",
+      "spinach",
+      "coriander chutney (2 tbsp)",
+      "ghee (1 tsp)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "muscle gain",
+      "cardiac"
+    ],
+    "dietary_suitability": [
+      "gluten-free",
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "heart-healthy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "savory with mild spices",
+    "cultural_significance": "Two fluffy besan chillas with chopped vegetables, served with 2 tbsp coriander chutney and 1 tsp ghee",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "heart-healthy",
+      "quick-meal"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "gluten-free": 3,
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "mild": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  
+  {
+    "name": "Methi Paratha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 420,
+    "protein_grams": 14,
+    "ingredients": [
+      "wheat flour",
+      "fenugreek leaves (100g)",
+      "minimal oil",
+      "ajwain",
+      "cumin seeds",
+      "curd (100g)",
+      "ghee (1 tsp)"
+    ],
+    "diet_tags": [
+      "diabetic-friendly",
+      "vegetarian",
+      "iron-rich"
+    ],
+    "health_suitability": [
+      "diabetes",
+      "medical recovery",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "improves digestion",
+      "iron-rich"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "bitter and mildly spiced",
+    "cultural_significance": "Two fenugreek-infused parathas served with 100g fresh curd and a touch of ghee",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "diabetic-friendly",
+      "iron-rich"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "bitter": 2,
+        "mildly_spiced": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Egg Bhurji",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 480,
+    "protein_grams": 25,
+    "ingredients": [
+      "eggs (3 large)",
+      "onion",
+      "tomato",
+      "turmeric",
+      "green chili",
+      "coriander leaves",
+      "minimal oil",
+      "whole wheat flour (2 small parathas)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "non-vegetarian"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss",
+      "endurance"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "rich in protein",
+      "quick energy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "savory and mildly spicy",
+    "cultural_significance": "Spiced scrambled eggs (3 eggs) served with two small whole-wheat parathas",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "eggs"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "quick-meal",
+      "muscle-gain"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "mildly_spicy": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Kadhi Pakora with Rice",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 16,
+    "ingredients": [
+      "yogurt (200ml)",
+      "besan (100g)",
+      "onion pakoras (6 pieces)",
+      "fenugreek seeds",
+      "turmeric",
+      "ginger",
+      "green chili",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "probiotic"
+    ],
+    "health_suitability": [
+      "digestive health"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "gut health",
+      "anti-inflammatory"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and mildly spiced",
+    "cultural_significance": "Gram-flour yogurt kadhi with pakoras served with 1 cup basmati rice",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "digestive-health",
+      "comfort-food"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": -1,
+        "weight_loss": 1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": -1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "probiotic": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "mild": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Vegetable Pulao",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 480,
+    "protein_grams": 12,
+    "ingredients": [
+      "basmati rice (1 cup)",
+      "mixed vegetables (peas, carrots, beans, potatoes)",
+      "whole spices (bay leaf, cardamom, cinnamon)",
+      "minimal oil",
+      "cucumber raita (½ cup)",
+      "roasted papad (1 piece)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "fiber-rich"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "weight loss",
+      "hypertension"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "fiber-rich",
+      "heart-healthy"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "fragrant and mildly spiced",
+    "cultural_significance": "Mixed-vegetable basmati pulao served with ½ cup cucumber raita and roasted papad",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "family-friendly",
+      "vegetarian-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "fiber-rich": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "fragrant": 3,
+        "mildly_spiced": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Fish Curry (North Style)",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 540,
+    "protein_grams": 32,
+    "ingredients": [
+      "fish (200g)",
+      "onion",
+      "tomato",
+      "yogurt",
+      "ginger",
+      "garlic",
+      "turmeric",
+      "coriander powder",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "omega-3",
+      "non-vegetarian"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "cardiac",
+      "joint pain"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "heart-healthy",
+      "anti-inflammatory"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "mildly spicy and tangy",
+    "cultural_significance": "Light tomato-based fish curry (200g fish) served with 1 cup basmati rice",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "fish"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "heart-healthy",
+      "joint-pain-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "high-protein": 3,
+        "omega-3": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "mildly_spicy": 3,
+        "tangy": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Sprouted Moong Salad",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 180,
+    "protein_grams": 8,
+    "ingredients": [
+      "sprouted moong (100g)",
+      "onion",
+      "tomato",
+      "cucumber",
+      "carrot",
+      "lemon juice",
+      "chaat masala",
+      "coriander leaves"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "low-fat",
+      "vegetarian",
+      "digestive"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "muscle gain",
+      "IBS",
+      "diabetes"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "digestive"
+    ],
+    "health_benefits": [
+      "digestive health",
+      "protein-rich"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "fresh and tangy",
+    "cultural_significance": "Healthy North Indian snack",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "low",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "digestive-health",
+      "weight-loss-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "digestive": 3
+      },
+      "caloric_density": {
+        "low": 3,
+        "moderate": 2,
+        "high": -2
+      },
+      "flavor_profile": {
+        "fresh": 3,
+        "tangy": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Roasted Chickpeas",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 210,
+    "protein_grams": 10,
+    "ingredients": [
+      "chickpeas (100g cooked)",
+      "cumin powder",
+      "chaat masala",
+      "black pepper",
+      "lemon juice",
+      "onion",
+      "green chili"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "low-fat",
+      "vegetarian",
+      "heart-healthy"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "muscle gain",
+      "cardiac",
+      "hypertension"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "heart-healthy"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "fiber-rich"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "spicy and crunchy",
+    "cultural_significance": "Popular North Indian snack",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "heart-healthy",
+      "weight-loss-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "heart-healthy": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -2
+      },
+      "flavor_profile": {
+        "spicy": 3,
+        "crunchy": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Chicken Tikka",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 250,
+    "protein_grams": 28,
+    "ingredients": [
+      "chicken breast (150g)",
+      "yogurt",
+      "tandoori masala",
+      "lemon juice",
+      "ginger",
+      "garlic",
+      "oil"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "non-vegetarian",
+      "low-carb"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss",
+      "endurance"
+    ],
+    "dietary_suitability": [
+      "low-carb",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "high protein",
+      "low saturated fat"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "smoky and tangy",
+    "cultural_significance": "Popular tandoori appetizer",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "muscle-gain",
+      "weight-loss"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "low-carb": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "smoky": 3,
+        "tangy": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Dal Tadka with Rice and Chapati",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 20,
+    "ingredients": [
+      "toor dal (150g cooked)",
+      "onion",
+      "tomato",
+      "cumin seeds",
+      "garlic",
+      "ginger",
+      "steamed rice (1 cup)",
+      "chapati (1 small)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "diabetic-friendly",
+      "vegetarian",
+      "heart-healthy"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "medical recovery",
+      "maintenance",
+      "cardiac",
+      "diabetes"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "heart-healthy"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "aromatic and mildly spiced",
+    "cultural_significance": "Tempered mixed-lentil dal served with 1 cup steamed rice and one small chapati",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "diabetic-friendly",
+      "heart-healthy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "aromatic": 3,
+        "mildly_spiced": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Grilled Tandoori Chicken with Naan",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 42,
+    "ingredients": [
+      "chicken breast (200g)",
+      "yogurt",
+      "tandoori masala",
+      "lemon juice",
+      "ginger",
+      "garlic",
+      "naan (1 small)",
+      "jeera rice (1 cup)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "low-fat",
+      "non-vegetarian"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "muscle gain",
+      "cardiac"
+    ],
+    "dietary_suitability": [
+      "low-fat",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "high protein",
+      "low saturated fat"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "smoky and tangy",
+    "cultural_significance": "Grilled tandoori-marinated chicken breast served with one small naan or 1 cup jeera rice",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "fitness-focused",
+      "weight-loss"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "low-fat": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "smoky": 3,
+        "tangy": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Low Oil Chicken Curry with Rice",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 620,
+    "protein_grams": 38,
+    "ingredients": [
+      "chicken (200g)",
+      "onion",
+      "tomato",
+      "yogurt",
+      "ginger",
+      "garlic",
+      "turmeric",
+      "coriander powder",
+      "garam masala",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "high-protein",
+      "non-vegetarian",
+      "low-fat"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss",
+      "endurance"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "low-fat"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "aromatic and mildly spicy",
+    "cultural_significance": "Lean chicken curry cooked with minimal oil, served with 1 cup basmati rice",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "muscle-gain",
+      "weight-loss"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3,
+        "low-fat": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "aromatic": 3,
+        "mildly_spicy": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Poha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 450,
+    "protein_grams": 8,
+    "ingredients": [
+      "flattened rice (100g)",
+      "onion",
+      "green chili",
+      "mustard seeds",
+      "curry leaves",
+      "turmeric",
+      "peanuts (20g)",
+      "coriander leaves",
+      "lemon juice"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free",
+      "light"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "easy digestion",
+      "quick energy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spiced and tangy",
+    "cultural_significance": "Popular Maharashtra-origin breakfast now common across North India, served with lime and coriander",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "peanuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "quick-meal",
+      "weight-loss-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "tangy": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Onion Paratha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 520,
+    "protein_grams": 14,
+    "ingredients": [
+      "whole wheat flour",
+      "onion (2 large)",
+      "green chili",
+      "ginger",
+      "coriander leaves",
+      "ghee",
+      "curd (100g)",
+      "pickle"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-carb"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "sustained energy",
+      "digestive health"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "savory and aromatic",
+    "cultural_significance": "Two onion-stuffed parathas served with 100g fresh curd and pickle",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "family-friendly",
+      "comfort-food"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": -1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "aromatic": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Upma",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 480,
+    "protein_grams": 10,
+    "ingredients": [
+      "semolina (100g)",
+      "onion",
+      "green chili",
+      "ginger",
+      "mustard seeds",
+      "curry leaves",
+      "mixed vegetables (carrots, peas, beans)",
+      "ghee",
+      "coconut chutney (2 tbsp)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "fiber-rich"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost",
+      "digestive health"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "fiber-rich",
+      "sustained energy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spiced and hearty",
+    "cultural_significance": "South Indian origin breakfast now popular across North India, served hot with coconut chutney",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "digestive-health",
+      "elderly-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "fiber-rich": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "hearty": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Paneer Paratha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 540,
+    "protein_grams": 22,
+    "ingredients": [
+      "whole wheat flour",
+      "paneer (100g)",
+      "green chili",
+      "ginger",
+      "coriander leaves",
+      "ghee",
+      "curd (100g)",
+      "green chutney (2 tbsp)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "calcium source"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "rich and savory",
+    "cultural_significance": "Two paneer-stuffed parathas served with 100g curd and green chutney",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "gluten"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "muscle-gain",
+      "protein-rich"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": -1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "savory": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Bread Upma",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 420,
+    "protein_grams": 12,
+    "ingredients": [
+      "bread slices (6 pieces)",
+      "onion",
+      "tomato",
+      "green chili",
+      "mustard seeds",
+      "curry leaves",
+      "mixed vegetables",
+      "ghee"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "quick-meal"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "quick energy",
+      "easy preparation"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and mildly spiced",
+    "cultural_significance": "Modern adaptation using 6 bread slices with vegetables and tempering",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "quick-meal",
+      "budget-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 2,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "mild": 2
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Pudina Paratha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 500,
+    "protein_grams": 13,
+    "ingredients": [
+      "whole wheat flour",
+      "mint leaves (50g)",
+      "green chili",
+      "ginger",
+      "ghee",
+      "curd (100g)",
+      "pickle"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "digestive-friendly"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "digestive health"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "digestive health",
+      "refreshing"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "minty and refreshing",
+    "cultural_significance": "Two mint-flavored parathas served with 100g curd and pickle",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "digestive-health",
+      "refreshing"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "minty": 3,
+        "refreshing": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Gobhi Paratha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 510,
+    "protein_grams": 12,
+    "ingredients": [
+      "whole wheat flour",
+      "cauliflower (200g)",
+      "green chili",
+      "ginger",
+      "coriander leaves",
+      "ghee",
+      "curd (100g)",
+      "pickled vegetables"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "fiber-rich"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "fiber-rich",
+      "vitamin C"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spiced and wholesome",
+    "cultural_significance": "Two cauliflower-stuffed parathas served with 100g curd and pickled vegetables",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "fiber-rich",
+      "vegetable-packed"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "fiber-rich": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "wholesome": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Masala Omelette with Bread",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 450,
+    "protein_grams": 22,
+    "ingredients": [
+      "eggs (3 large)",
+      "onion",
+      "tomato",
+      "green chili",
+      "coriander leaves",
+      "bread slices (2 whole wheat)",
+      "minimal oil"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "quick energy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "savory and protein-rich",
+    "cultural_significance": "3-egg masala omelette served with 2 slices of whole wheat bread",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "eggs",
+      "gluten"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "muscle-gain",
+      "quick-meal"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "protein-rich": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Chana Masala with Rice",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 20,
+    "ingredients": [
+      "chickpeas (200g cooked)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "cumin seeds",
+      "coriander powder",
+      "garam masala",
+      "basmati rice (1 cup)",
+      "onion salad"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein",
+      "fiber-rich"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "maintenance",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "fiber content"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "spicy and tangy",
+    "cultural_significance": "Spiced chickpea curry served with 1 cup basmati rice and onion salad",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "protein-rich",
+      "budget-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "spicy": 3,
+        "tangy": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Mutton Korma",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 680,
+    "protein_grams": 38,
+    "ingredients": [
+      "mutton (250g)",
+      "yogurt",
+      "onion paste",
+      "cashew paste",
+      "poppy seeds",
+      "ginger",
+      "garlic",
+      "red chili powder",
+      "garam masala",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein",
+      "rich"
+    ],
+    "health_suitability": [
+      "muscle gain"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "iron source"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "expensive",
+    "flavor_profile": "rich and aromatic",
+    "cultural_significance": "Mughlai-style rich mutton curry with aromatic spices",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "celebration",
+      "muscle-gain"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": -2,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": -2,
+        "elderly": 0,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": 0,
+        "high": 3
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "aromatic": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": -1,
+        "moderate": 1,
+        "expensive": 3
+      }
+    }
+  },
+  {
+    "name": "Chicken Biryani",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 720,
+    "protein_grams": 42,
+    "ingredients": [
+      "basmati rice (1 cup)",
+      "chicken (200g)",
+      "yogurt",
+      "onion",
+      "ginger-garlic paste",
+      "biryani masala",
+      "saffron",
+      "mint leaves",
+      "coriander leaves",
+      "ghee",
+      "raita",
+      "boiled egg (1)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein",
+      "aromatic"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "energy-dense"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "aromatic and rich",
+    "cultural_significance": "Layered rice dish with spiced chicken, saffron and aromatic herbs",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "celebration",
+      "muscle-gain"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": -1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 0,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": 0,
+        "high": 3
+      },
+      "flavor_profile": {
+        "aromatic": 3,
+        "rich": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Keema Matar",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 620,
+    "protein_grams": 35,
+    "ingredients": [
+      "minced mutton (200g)",
+      "green peas (100g)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "red chili powder",
+      "garam masala",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "high-protein",
+      "low-carb"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "iron source"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "spicy and savory",
+    "cultural_significance": "Spiced minced meat with green peas, popular North Indian dish",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "muscle-gain",
+      "protein-rich"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3,
+        "low-carb": 2
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "spicy": 3,
+        "savory": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Amritsari Kulcha",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 680,
+    "protein_grams": 18,
+    "ingredients": [
+      "maida",
+      "potato stuffing",
+      "onion",
+      "paneer",
+      "coriander leaves",
+      "ghee",
+      "chole curry",
+      "pickled onions",
+      "mint chutney"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-carb"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "energy-dense",
+      "comfort food"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "rich and indulgent",
+    "cultural_significance": "Famous Amritsar-style stuffed kulcha with chole and accompaniments",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [
+      "gluten",
+      "dairy"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "comfort-food",
+      "street-food"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": -3,
+        "maintenance": 0
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": -2,
+        "elderly": -1,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": -1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "indulgent": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Bharwan Karela",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 520,
+    "protein_grams": 12,
+    "ingredients": [
+      "bitter gourd (4 medium)",
+      "onion",
+      "fennel powder",
+      "coriander seeds",
+      "turmeric",
+      "red chili powder",
+      "jaggery",
+      "oil",
+      "chapati (2)",
+      "dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "diabetic-friendly",
+      "bitter"
+    ],
+    "health_suitability": [
+      "diabetes",
+      "weight loss",
+      "medical recovery"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "blood sugar control",
+      "digestive health"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "bitter and spiced",
+    "cultural_significance": "Stuffed bitter gourd with spice mixture, acquired taste vegetable",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "summer"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "diabetic-friendly",
+      "medicinal"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 0
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "bitter": 3,
+        "spiced": 2
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Punjabi Samosa",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 280,
+    "protein_grams": 6,
+    "ingredients": [
+      "maida",
+      "potato (2 medium)",
+      "green peas",
+      "ginger",
+      "green chili",
+      "cumin seeds",
+      "coriander seeds",
+      "oil for frying",
+      "mint chutney",
+      "tamarind chutney"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "fried"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "quick energy",
+      "comfort food"
+    ],
+    "lifestyle_suitability": [
+      "active"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "crispy and spiced",
+    "cultural_significance": "Iconic triangular fried pastry with spiced potato filling",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "street-food",
+      "comfort-food"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": -2,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": -1,
+        "elderly": 0,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "crispy": 3,
+        "spiced": 3
+      },
+      "prep_complexity": {
+        "easy": -1,
+        "moderate": 2,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Aam Ras",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 220,
+    "protein_grams": 2,
+    "ingredients": [
+      "ripe mango (2 medium)",
+      "cardamom powder",
+      "sugar (optional)",
+      "mint leaves"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "natural",
+      "seasonal"
+    ],
+    "health_suitability": [
+      "energy boost",
+      "recovery"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_benefits": [
+      "vitamin A",
+      "antioxidants"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "sweet and tropical",
+    "cultural_significance": "Fresh mango pulp, summer delicacy especially in Gujarat and Maharashtra",
+    "time_of_day_suitability": [
+      "afternoon",
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "summer"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "seasonal",
+      "refreshing"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": 1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "tropical": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 1,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Lassi (Sweet)",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 240,
+    "protein_grams": 8,
+    "ingredients": [
+      "yogurt (200ml)",
+      "sugar",
+      "cardamom powder",
+      "ice cubes",
+      "rose water",
+      "pistachios (chopped)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "probiotic",
+      "cooling"
+    ],
+    "health_suitability": [
+      "digestive health",
+      "cooling"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "probiotic"
+    ],
+    "health_benefits": [
+      "gut health",
+      "cooling effect"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "sweet and cooling",
+    "cultural_significance": "Traditional Punjabi yogurt drink, perfect for hot weather",
+    "time_of_day_suitability": [
+      "afternoon",
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "summer"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "cooling",
+      "digestive-health"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 0,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "probiotic": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "cooling": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 1,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Aloo Tikki Chaat",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 320,
+    "protein_grams": 8,
+    "ingredients": [
+      "potato (3 medium)",
+      "bread crumbs",
+      "green chili",
+      "ginger",
+      "oil for frying",
+      "yogurt",
+      "tamarind chutney",
+      "mint chutney",
+      "chaat masala",
+      "sev",
+      "onion",
+      "coriander leaves"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "street-food"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "quick energy",
+      "comfort food"
+    ],
+    "lifestyle_suitability": [
+      "active"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and spicy",
+    "cultural_significance": "Popular Delhi street food with fried potato patties and chutneys",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "street-food",
+      "tangy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": -1,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 0,
+        "elderly": 1,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "spicy": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Malai Chicken",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 640,
+    "protein_grams": 40,
+    "ingredients": [
+      "chicken (250g)",
+      "cream",
+      "cashew paste",
+      "onion paste",
+      "ginger",
+      "garlic",
+      "white pepper",
+      "green cardamom",
+      "ghee",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein",
+      "rich"
+    ],
+    "health_suitability": [
+      "muscle gain"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "energy-dense"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "creamy and mild",
+    "cultural_significance": "Mughlai-style white chicken curry with cream and nuts",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "celebration",
+      "muscle-gain"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": -2,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": -1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": 0,
+        "high": 3
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "mild": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 1,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Parwal Sabzi",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 480,
+    "protein_grams": 10,
+    "ingredients": [
+      "pointed gourd (500g)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "turmeric",
+      "red chili powder",
+      "coriander powder",
+      "chapati (2)",
+      "dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "low-calorie"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "diabetes",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "low calorie",
+      "digestive health"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spiced",
+    "cultural_significance": "Traditional pointed gourd curry, popular in Eastern North India",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "monsoon"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "diabetic-friendly",
+      "low-calorie"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 0
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "spiced": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Missi Roti",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 460,
+    "protein_grams": 16,
+    "ingredients": [
+      "wheat flour",
+      "gram flour",
+      "onion",
+      "green chili",
+      "ginger",
+      "coriander leaves",
+      "ajwain",
+      "ghee",
+      "yogurt (100g)",
+      "butter"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "fiber content"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "savory and hearty",
+    "cultural_significance": "Rajasthani mixed flour flatbread with vegetables and spices",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "protein-rich",
+      "rural"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 2,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "hearty": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+    {
+    "name": "Shalgam Ka Halwa",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 280,
+    "protein_grams": 4,
+    "ingredients": [
+      "turnip (300g)",
+      "milk",
+      "sugar",
+      "ghee",
+      "cardamom powder",
+      "almonds (chopped)",
+      "pistachios"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "sweet",
+      "seasonal"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "vitamin C",
+      "fiber content"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "sweet and aromatic",
+    "cultural_significance": "Traditional winter dessert made from turnip, popular in Punjab",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "seasonal",
+      "traditional"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 0,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 0
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -1,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "aromatic": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Gajar Ka Halwa",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 320,
+    "protein_grams": 6,
+    "ingredients": [
+      "carrots (400g)",
+      "milk",
+      "sugar",
+      "ghee",
+      "cardamom powder",
+      "almonds",
+      "cashews",
+      "raisins"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "sweet",
+      "seasonal"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "vitamin A",
+      "antioxidants"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "sweet and rich",
+    "cultural_significance": "Classic North Indian winter dessert made from grated carrots",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "celebration",
+      "seasonal"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": -1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "rich": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Makke Di Roti with Sarson Ka Saag",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 16,
+    "ingredients": [
+      "corn flour",
+      "mustard greens (300g)",
+      "spinach",
+      "bathua",
+      "ginger",
+      "garlic",
+      "green chili",
+      "ghee",
+      "white butter",
+      "jaggery"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "gluten-free",
+      "traditional"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance",
+      "diabetes"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "health_benefits": [
+      "iron-rich",
+      "fiber content"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "earthy and robust",
+    "cultural_significance": "Iconic Punjabi winter combination of corn bread with mustard greens",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "traditional",
+      "iron-rich"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "gluten-free": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "earthy": 3,
+        "robust": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Baingan Bharta",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 520,
+    "protein_grams": 12,
+    "ingredients": [
+      "eggplant (2 large)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "green chili",
+      "coriander leaves",
+      "chapati (2)",
+      "dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "low-calorie"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "maintenance",
+      "cardiac"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "heart-healthy"
+    ],
+    "health_benefits": [
+      "low calorie",
+      "antioxidants"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "smoky and spiced",
+    "cultural_significance": "Roasted eggplant mash, popular across North India",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "smoky",
+      "heart-healthy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 0
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "heart-healthy": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "smoky": 3,
+        "spiced": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Pindi Chana",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 620,
+    "protein_grams": 22,
+    "ingredients": [
+      "chickpeas (200g cooked)",
+      "tea bags (2)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "pomegranate seeds",
+      "garam masala",
+      "basmati rice (1 cup)",
+      "green salad"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein",
+      "tangy"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "maintenance",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "fiber content"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and robust",
+    "cultural_significance": "Rawalpindi-style chickpeas with tea-infused dark color",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "protein-rich",
+      "traditional"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 2,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "robust": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Bhindi Masala",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 540,
+    "protein_grams": 14,
+    "ingredients": [
+      "okra (400g)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "turmeric",
+      "coriander powder",
+      "amchur",
+      "chapati (2)",
+      "dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_suitability": [
+      "diabetes",
+      "weight loss",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "blood sugar control",
+      "fiber-rich"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and mildly spiced",
+    "cultural_significance": "Popular okra curry across North Indian households",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "summer"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "diabetic-friendly",
+      "fiber-rich"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "mild": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Dahi Vada",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 280,
+    "protein_grams": 10,
+    "ingredients": [
+      "urad dal (100g)",
+      "yogurt (200ml)",
+      "tamarind chutney",
+      "mint chutney",
+      "chaat masala",
+      "cumin powder",
+      "black salt",
+      "coriander leaves",
+      "pomegranate seeds"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "probiotic",
+      "street-food"
+    ],
+    "health_suitability": [
+      "digestive health",
+      "cooling"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "probiotic"
+    ],
+    "health_benefits": [
+      "gut health",
+      "cooling effect"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and cooling",
+    "cultural_significance": "Popular North Indian street snack with lentil dumplings in yogurt",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "summer"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "cooling",
+      "street-food"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "probiotic": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "cooling": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Gol Gappa (Pani Puri)",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 200,
+    "protein_grams": 6,
+    "ingredients": [
+      "semolina puris (8 pieces)",
+      "potato",
+      "chickpeas",
+      "mint water",
+      "tamarind water",
+      "spice mix",
+      "coriander leaves",
+      "onion"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "street-food",
+      "light"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "hydrating",
+      "digestive"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "tangy and spicy",
+    "cultural_significance": "Iconic North Indian street food with flavored water",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "low",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "street-food",
+      "hydrating"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": 1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 2,
+        "elderly": 1,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": 3,
+        "moderate": 1,
+        "high": -2
+      },
+      "flavor_profile": {
+        "tangy": 3,
+        "spicy": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Keema Paratha",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 580,
+    "protein_grams": 28,
+    "ingredients": [
+      "whole wheat flour",
+      "minced mutton (150g)",
+      "onion",
+      "ginger",
+      "garlic",
+      "green chili",
+      "garam masala",
+      "coriander leaves",
+      "ghee",
+      "curd (100g)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "iron source"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "rich and savory",
+    "cultural_significance": "Meat-stuffed paratha popular in Delhi and Punjab",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "muscle-gain",
+      "protein-rich"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "savory": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Tawa Fish",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 520,
+    "protein_grams": 38,
+    "ingredients": [
+      "fish fillets (250g)",
+      "yogurt",
+      "ginger-garlic paste",
+      "red chili powder",
+      "turmeric",
+      "garam masala",
+      "lemon juice",
+      "onion",
+      "mint rice (1 cup)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein",
+      "low-fat"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss",
+      "cardiac"
+    ],
+    "dietary_suitability": [
+      "high-protein",
+      "low-fat"
+    ],
+    "health_benefits": [
+      "omega-3",
+      "heart-healthy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "spicy and tangy",
+    "cultural_significance": "Pan-fried spiced fish popular in North Indian households",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "fish",
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "heart-healthy",
+      "muscle-gain"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 2,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3,
+        "low-fat": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "spicy": 3,
+        "tangy": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Kachori with Chutney",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 340,
+    "protein_grams": 8,
+    "ingredients": [
+      "maida",
+      "urad dal",
+      "fennel seeds",
+      "ginger",
+      "green chili",
+      "oil for frying",
+      "tamarind chutney",
+      "mint chutney",
+      "fried green chili"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "fried",
+      "street-food"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "quick energy"
+    ],
+    "lifestyle_suitability": [
+      "active"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "crispy and spiced",
+    "cultural_significance": "Rajasthani deep-fried pastry with lentil filling",
+    "time_of_day_suitability": [
+      "morning",
+      "evening"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "street-food",
+      "crispy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": -2,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": -1,
+        "elderly": 0,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "crispy": 3,
+        "spiced": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Rajma Kebab",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 220,
+    "protein_grams": 12,
+    "ingredients": [
+      "kidney beans (150g cooked)",
+      "potato",
+      "onion",
+      "ginger",
+      "garlic",
+      "green chili",
+      "breadcrumbs",
+      "minimal oil",
+      "mint chutney"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein",
+      "healthy"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "fiber content"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "savory and hearty",
+    "cultural_significance": "Modern adaptation using kidney beans as protein base",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "protein-rich",
+      "healthy"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 2,
+        "weight_loss": 3,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": 2,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "hearty": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Murgh Musallam",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 720,
+    "protein_grams": 45,
+    "ingredients": [
+      "whole chicken (500g)",
+      "yogurt",
+      "onion paste",
+      "cashew paste",
+      "saffron",
+      "rose water",
+      "whole spices",
+      "ghee",
+      "biryani rice (1 cup)",
+      "boiled eggs (2)"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein",
+      "rich"
+    ],
+    "health_suitability": [
+      "muscle gain"
+    ],
+    "dietary_suitability": [
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "energy-dense"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "expensive",
+    "flavor_profile": "rich and aromatic",
+    "cultural_significance": "Mughlai royal dish with whole chicken preparation",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts",
+      "eggs"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "celebration",
+      "royal"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": -2,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": -2,
+        "elderly": 0,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -3,
+        "moderate": 0,
+        "high": 3
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "aromatic": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 0,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": -1,
+        "moderate": 1,
+        "expensive": 3
+      }
+    }
+  },
+  {
+    "name": "Shami Kebab",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 260,
+    "protein_grams": 20,
+    "ingredients": [
+      "minced mutton (150g)",
+      "chana dal",
+      "onion",
+      "ginger",
+      "garlic",
+      "green chili",
+      "garam masala",
+      "mint leaves",
+      "egg",
+      "minimal oil"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "high-protein",
+      "low-carb"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "iron source"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "complex",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "rich and aromatic",
+    "cultural_significance": "Lucknowi specialty with soft texture and aromatic spices",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "eggs"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "expert",
+    "persona_tags": [
+      "muscle-gain",
+      "lucknowi"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3,
+        "low-carb": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "aromatic": 3
+      },
+      "prep_complexity": {
+        "easy": -2,
+        "moderate": 1,
+        "complex": 3
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Seekh Kebab",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 280,
+    "protein_grams": 22,
+    "ingredients": [
+      "minced mutton (150g)",
+      "onion",
+      "ginger",
+      "garlic",
+      "green chili",
+      "mint leaves",
+      "coriander leaves",
+      "garam masala",
+      "red chili powder"
+    ],
+    "diet_tags": [
+      "non-vegetarian",
+      "high-protein",
+      "grilled"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "weight loss"
+    ],
+    "dietary_suitability": [
+      "high-protein",
+      "low-carb"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "low-fat"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "smoky and spiced",
+    "cultural_significance": "Grilled minced meat skewers popular across North India",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "animal",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "grilled",
+      "muscle-gain"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 1,
+        "elderly": 1,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "high-protein": 3,
+        "low-carb": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "smoky": 3,
+        "spiced": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Aloo Jeera",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 520,
+    "protein_grams": 12,
+    "ingredients": [
+      "potatoes (4 medium)",
+      "cumin seeds",
+      "turmeric",
+      "coriander powder",
+      "green chili",
+      "ginger",
+      "coriander leaves",
+      "chapati (2)",
+      "dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "simple",
+      "comfort-food"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_benefits": [
+      "quick energy",
+      "comfort food"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "aromatic and mild",
+    "cultural_significance": "Simple cumin-flavored potatoes, comfort food across North India",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "comfort-food",
+      "simple"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "aromatic": 3,
+        "mild": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Matar Paneer",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 600,
+    "protein_grams": 24,
+    "ingredients": [
+      "paneer (150g)",
+      "green peas (150g)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "cream",
+      "garam masala",
+      "basmati rice (1 cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "calcium source"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "creamy and mildly spiced",
+    "cultural_significance": "Popular paneer and peas curry across North Indian restaurants",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "protein-rich",
+      "restaurant-style"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 1,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 3,
+        "elderly": 2,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "creamy": 3,
+        "mild": 2
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Tawa Roti",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 380,
+    "protein_grams": 10,
+    "ingredients": [
+      "whole wheat flour",
+      "water",
+      "salt",
+      "ghee",
+      "aloo sabzi (150g)",
+      "pickle",
+      "curd (100g)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "simple",
+      "traditional"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "whole grain",
+      "sustained energy"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "simple and wholesome",
+    "cultural_significance": "Basic whole wheat flatbread served with simple potato curry",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "gluten"
+    ],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "traditional",
+      "wholesome"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "simple": 3,
+        "wholesome": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Makkhan Malai",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 240,
+    "protein_grams": 6,
+    "ingredients": [
+      "milk cream",
+      "kheer malai",
+      "cardamom powder",
+      "pistachios",
+      "almonds",
+      "sugar",
+      "kewra water"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "sweet",
+      "rich"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "calcium source",
+      "energy-dense"
+    ],
+    "lifestyle_suitability": [
+      "active"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "rich and creamy",
+    "cultural_significance": "Traditional winter delicacy from Delhi, made with milk cream",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "seasonal",
+      "rich"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": -1,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 1,
+        "elderly": 2,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "rich": 3,
+        "creamy": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Aloo Matar",
+    "meal_type": "lunch",
+    "region": "north",
+    "calories": 560,
+    "protein_grams": 14,
+    "ingredients": [
+      "potatoes (3 medium)",
+      "green peas (150g)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "cumin seeds",
+      "coriander powder",
+      "chapati (2)",
+      "dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "comfort-food"
+    ],
+    "health_suitability": [
+      "maintenance",
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "vegan"
+    ],
+    "health_benefits": [
+      "fiber-rich",
+      "vitamin C"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mildly spiced and hearty",
+    "cultural_significance": "Classic potato and peas curry, staple in North Indian homes",
+    "time_of_day_suitability": [
+      "afternoon"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "moderate",
+    "seasonal_availability": [
+      "winter"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "comfort-food",
+      "family-friendly"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 2
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "vegan": 3
+      },
+      "caloric_density": {
+        "low": 1,
+        "moderate": 3,
+        "high": -1
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "hearty": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Paneer Bhurji",
+    "meal_type": "breakfast",
+    "region": "north",
+    "calories": 520,
+    "protein_grams": 26,
+    "ingredients": [
+      "paneer (150g)",
+      "onion",
+      "tomato",
+      "green chili",
+      "ginger",
+      "turmeric",
+      "coriander leaves",
+      "bread slices (2)",
+      "butter"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_suitability": [
+      "muscle gain",
+      "maintenance"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "high-protein"
+    ],
+    "health_benefits": [
+      "protein-rich",
+      "calcium source"
+    ],
+    "lifestyle_suitability": [
+      "active",
+      "athletic"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "savory and protein-rich",
+    "cultural_significance": "Scrambled paneer preparation, protein-rich breakfast option",
+    "time_of_day_suitability": [
+      "morning"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "gluten"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "protein-rich",
+      "quick-meal"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 3,
+        "weight_loss": 2,
+        "maintenance": 3
+      },
+      "lifestyle_suitability": {
+        "active": 3,
+        "sedentary": 2,
+        "elderly": 2,
+        "athletic": 3
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "high-protein": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "savory": 3,
+        "protein-rich": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  },
+  {
+    "name": "Lauki Ki Sabzi",
+    "meal_type": "dinner",
+    "region": "north",
+    "calories": 420,
+    "protein_grams": 10,
+    "ingredients": [
+      "bottle gourd (400g)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "turmeric",
+      "cumin seeds",
+      "chapati (2)",
+      "dal (½ cup)"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "low-calorie",
+      "digestive"
+    ],
+    "health_suitability": [
+      "weight loss",
+      "diabetes",
+      "digestive health"
+    ],
+    "dietary_suitability": [
+      "vegetarian",
+      "diabetic-friendly"
+    ],
+    "health_benefits": [
+      "low calorie",
+      "digestive health"
+    ],
+    "lifestyle_suitability": [
+      "sedentary",
+      "elderly"
+    ],
+    "prep_complexity": "easy",
+    "ingredient_affordability": "affordable",
+    "flavor_profile": "mild and soothing",
+    "cultural_significance": "Light bottle gourd curry, popular for its digestive properties",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [],
+    "protein_source_type": "plant",
+    "caloric_density": "low",
+    "seasonal_availability": [
+      "summer"
+    ],
+    "required_skill_level": "beginner",
+    "persona_tags": [
+      "digestive-health",
+      "light"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 0,
+        "weight_loss": 3,
+        "maintenance": 2
+      },
+      "lifestyle_suitability": {
+        "active": 1,
+        "sedentary": 3,
+        "elderly": 3,
+        "athletic": 0
+      },
+      "dietary_suitability": {
+        "vegetarian": 3,
+        "diabetic-friendly": 3
+      },
+      "caloric_density": {
+        "low": 3,
+        "moderate": 1,
+        "high": -2
+      },
+      "flavor_profile": {
+        "mild": 3,
+        "soothing": 3
+      },
+      "prep_complexity": {
+        "easy": 3,
+        "moderate": 2,
+        "complex": -2
+      },
+      "ingredient_affordability": {
+        "affordable": 3,
+        "moderate": 2,
+        "expensive": -2
+      }
+    }
+  },
+  {
+    "name": "Peda",
+    "meal_type": "snack",
+    "region": "north",
+    "calories": 180,
+    "protein_grams": 4,
+    "ingredients": [
+      "khoya",
+      "sugar",
+      "cardamom powder",
+      "pistachios",
+      "ghee"
+    ],
+    "diet_tags": [
+      "vegetarian",
+      "sweet",
+      "traditional"
+    ],
+    "health_suitability": [
+      "energy boost"
+    ],
+    "dietary_suitability": [
+      "vegetarian"
+    ],
+    "health_benefits": [
+      "quick energy",
+      "calcium source"
+    ],
+    "lifestyle_suitability": [
+      "active"
+    ],
+    "prep_complexity": "moderate",
+    "ingredient_affordability": "moderate",
+    "flavor_profile": "sweet and rich",
+    "cultural_significance": "Traditional milk-based sweet, popular during festivals",
+    "time_of_day_suitability": [
+      "evening"
+    ],
+    "allergy_risks": [
+      "dairy",
+      "nuts"
+    ],
+    "protein_source_type": "animal",
+    "caloric_density": "high",
+    "seasonal_availability": [
+      "all year"
+    ],
+    "required_skill_level": "intermediate",
+    "persona_tags": [
+      "festive",
+      "traditional"
+    ],
+    "attribute_rankings": {
+      "health_suitability": {
+        "muscle_gain": 1,
+        "weight_loss": -2,
+        "maintenance": 1
+      },
+      "lifestyle_suitability": {
+        "active": 2,
+        "sedentary": 0,
+        "elderly": 1,
+        "athletic": 1
+      },
+      "dietary_suitability": {
+        "vegetarian": 3
+      },
+      "caloric_density": {
+        "low": -2,
+        "moderate": 1,
+        "high": 3
+      },
+      "flavor_profile": {
+        "sweet": 3,
+        "rich": 3
+      },
+      "prep_complexity": {
+        "easy": 1,
+        "moderate": 3,
+        "complex": -1
+      },
+      "ingredient_affordability": {
+        "affordable": 2,
+        "moderate": 3,
+        "expensive": -1
+      }
+    }
+  }
+]
+
+
+
+
