@@ -401,7 +401,7 @@ export default function Home() {
         {/* Header */}
         <header className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-2">
-            🍽️ Personalized Meal Planner
+            🍽️ FitFeast
           </h1>
           <p className="text-lg text-gray-600">
             Get AI-powered meal recommendations with optimized protein content
