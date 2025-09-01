@@ -19,8 +19,10 @@ It optimizes protein intake using a **Retrieval-Augmented Generation (RAG) pipel
 
 ### Basic Info & Protein Requirement
 ![Basic Info](pic/basicInfo.jpg)  
+![dailytarget](pic/dailytarget.jpg) 
 
 ### Meal Preferences  
+![Goals](pic/goals.jpg)  
 ![Meal Preferences](pic/mealpref.jpg)  
 
 ### Personalized Meal Plan  
